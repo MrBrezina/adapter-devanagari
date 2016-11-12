@@ -1,8 +1,5 @@
 {
 .appVersion = "895";
-DisplayStrings = (
-abde
-);
 copyright = "Copyright © 2016 by William Montrose. All rights reserved.";
 date = "2016-08-04 16:37:45 +0000";
 designer = "William Montrose";
@@ -12,7 +9,7 @@ fontMaster = (
 {
 ascender = 720;
 capHeight = 670;
-descender = -200;
+descender = -280;
 guideLines = (
 {
 position = "{441, 530}";
@@ -34,7 +31,7 @@ xHeight = 515;
 {
 ascender = 720;
 capHeight = 670;
-descender = -200;
+descender = -280;
 guideLines = (
 {
 position = "{66, 540}";
@@ -59,7 +56,7 @@ xHeight = 525;
 {
 ascender = 720;
 capHeight = 670;
-descender = -200;
+descender = -280;
 guideLines = (
 {
 position = "{0, 550}";
