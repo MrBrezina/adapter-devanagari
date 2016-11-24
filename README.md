@@ -1,6 +1,6 @@
 # Universal Sans
 
-By: William Montrose & David Březina
+By: William Montrose & David Březina & Sláva Jevčinová
 
 ## Scripts
 
@@ -10,35 +10,40 @@ By: William Montrose & David Březina
 
 ## Styles
 
-Display
+### Display
 
-* Hairline
-* Thin
+* **Hairline – master**
+* **Thin – master**
+* Extralight
 * Light
 * Regular
-* Medium
+* **Medium – master**
 * Semibold
 * Bold
 * Extrabold
-* Black
+* **Black – master**
 
-Text
+### Text
 
+Styles in parenthesis are produced, but not offered (only as a part of var. font).
+
+* **(Thin) – master**
+* **(Thin Italic) – master**
+* Extralight
+* Extralight Italic
 * Light
 * Light Italic
-* Book
-* Book Italic
 * Regular
 * Italic
-* Medium
-* Medium Italic
+* **Medium – master**
+* **Medium Italic – master**
 * Semibold
 * Semibold Italic
 * Bold
 * Bold Italic
 * Extrabold
 * Extrabold Italic
+* **(Black) – master**
+* **(Black Italic) – master**
 
 ## Changelog
-
-
