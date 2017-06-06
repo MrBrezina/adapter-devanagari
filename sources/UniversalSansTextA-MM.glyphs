@@ -1,7 +1,8 @@
 {
-.appVersion = "1009";
+.appVersion = "983";
 DisplayStrings = (
-"HNHTIHLHEHDHFHOHHRHWHDZ\012HhntozHOSOPH\012Hovnos\012HHMHOZOHE\012ni.n:n;n,\012nonoc \012h([{h}])(p)\012JOZEF\012HAVH\012HMHWH"
+"HNHTIHLHEHDHFHOHHRHWHDZ\012HhntozHOSOPH\012Hovnos\012HHMHOZOHE\012ni.n:n;n,\012nonoc \012h([{h}])(p)\012JOZEF\012HAVH\012HMHWH",
+y
 );
 copyright = "Copyright ￂﾩ 2016 by William Montrose, Slￃﾡva Jevￄﾍinovￃﾡ. All rights reserved.";
 date = "2016-08-04 16:37:45 +0000";
@@ -1089,8 +1090,9 @@ width = 620;
 unicode = 0046;
 },
 {
+color = 1;
 glyphname = G;
-lastChange = "2016-11-29 09:26:40 +0000";
+lastChange = "2017-06-06 10:10:41 +0000";
 layers = (
 {
 guideLines = (
@@ -1286,9 +1288,9 @@ rightMetricsKey = "=H";
 unicode = 0049;
 },
 {
-color = 11;
+color = 0;
 glyphname = J;
-lastChange = "2017-06-06 09:05:48 +0000";
+lastChange = "2017-06-06 10:03:01 +0000";
 layers = (
 {
 background = {
@@ -1345,6 +1347,13 @@ nodes = (
 width = 517;
 },
 {
+annotations = (
+{
+position = "{224, 716}";
+text = "Try curly J";
+type = Text;
+}
+);
 background = {
 paths = (
 {
@@ -1401,8 +1410,9 @@ rightMetricsKey = U;
 unicode = 004A;
 },
 {
+color = 1;
 glyphname = K;
-lastChange = "2016-11-29 09:26:40 +0000";
+lastChange = "2017-06-06 10:10:41 +0000";
 layers = (
 {
 layerId = "C76CAC8E-7AD6-478C-8F7E-02FEF6F1EA84";
@@ -1473,11 +1483,18 @@ leftMetricsKey = "=H";
 unicode = 004C;
 },
 {
-color = 11;
+color = 0;
 glyphname = M;
-lastChange = "2017-06-06 09:39:10 +0000";
+lastChange = "2017-06-06 09:59:59 +0000";
 layers = (
 {
+annotations = (
+{
+position = "{415, 719}";
+text = "Try: straight stems, middle based (spikey) tip";
+type = Text;
+}
+);
 background = {
 paths = (
 {
@@ -1857,9 +1874,9 @@ width = 774;
 unicode = 004F;
 },
 {
-color = 11;
+color = 0;
 glyphname = P;
-lastChange = "2017-06-06 09:21:52 +0000";
+lastChange = "2017-06-06 10:01:32 +0000";
 layers = (
 {
 background = {
@@ -2014,8 +2031,9 @@ leftMetricsKey = H;
 unicode = 0050;
 },
 {
+color = 1;
 glyphname = Q;
-lastChange = "2016-11-29 09:26:40 +0000";
+lastChange = "2017-06-06 10:06:58 +0000";
 layers = (
 {
 layerId = "C76CAC8E-7AD6-478C-8F7E-02FEF6F1EA84";
@@ -2029,9 +2047,9 @@ width = 600;
 unicode = 0051;
 },
 {
-color = 11;
+color = 0;
 glyphname = R;
-lastChange = "2017-06-06 09:23:09 +0000";
+lastChange = "2017-06-06 10:01:30 +0000";
 layers = (
 {
 background = {
@@ -2132,6 +2150,13 @@ nodes = (
 width = 671;
 },
 {
+annotations = (
+{
+position = "{308, 729}";
+text = "Counter sits a little too low. Same in P.";
+type = Text;
+}
+);
 background = {
 paths = (
 {
@@ -2234,9 +2259,9 @@ leftMetricsKey = H;
 unicode = 0052;
 },
 {
-color = 11;
+color = 0;
 glyphname = S;
-lastChange = "2017-06-06 09:23:33 +0000";
+lastChange = "2017-06-06 09:57:00 +0000";
 layers = (
 {
 background = {
@@ -2347,6 +2372,18 @@ nodes = (
 width = 643;
 },
 {
+annotations = (
+{
+position = "{307, 746}";
+text = "Character too wide, stretched. Visible in counters";
+type = Text;
+},
+{
+position = "{89, 621}";
+text = "Shoulder bit too squarish";
+type = Text;
+}
+);
 background = {
 paths = (
 {
@@ -3276,9 +3313,8 @@ width = 676;
 unicode = 005A;
 },
 {
-color = 6;
 glyphname = a;
-lastChange = "2016-12-20 22:09:57 +0000";
+lastChange = "2017-06-06 10:07:03 +0000";
 layers = (
 {
 associatedMasterId = "C76CAC8E-7AD6-478C-8F7E-02FEF6F1EA84";
@@ -7667,9 +7703,8 @@ rightMetricsKey = "=n";
 unicode = 0061;
 },
 {
-color = 6;
 glyphname = b;
-lastChange = "2016-12-20 15:22:46 +0000";
+lastChange = "2017-06-06 10:07:03 +0000";
 layers = (
 {
 background = {
@@ -7799,9 +7834,8 @@ rightMetricsKey = "=o";
 unicode = 0062;
 },
 {
-color = 3;
 glyphname = c;
-lastChange = "2016-11-29 15:50:38 +0000";
+lastChange = "2017-06-06 10:07:03 +0000";
 layers = (
 {
 background = {
@@ -7967,9 +8001,8 @@ leftMetricsKey = "=o";
 unicode = 0063;
 },
 {
-color = 6;
 glyphname = d;
-lastChange = "2016-12-20 20:53:22 +0000";
+lastChange = "2017-06-06 10:07:03 +0000";
 layers = (
 {
 associatedMasterId = "C76CAC8E-7AD6-478C-8F7E-02FEF6F1EA84";
@@ -9915,9 +9948,8 @@ leftMetricsKey = "=o";
 unicode = 0064;
 },
 {
-color = 6;
 glyphname = e;
-lastChange = "2016-12-21 03:46:45 +0000";
+lastChange = "2017-06-06 10:07:03 +0000";
 layers = (
 {
 background = {
@@ -10489,9 +10521,8 @@ leftMetricsKey = "=o";
 unicode = 0065;
 },
 {
-color = 6;
 glyphname = f;
-lastChange = "2016-12-21 01:55:30 +0000";
+lastChange = "2017-06-06 10:07:03 +0000";
 layers = (
 {
 background = {
@@ -10637,9 +10668,8 @@ width = 480;
 unicode = 0066;
 },
 {
-color = 4;
 glyphname = g;
-lastChange = "2016-12-21 00:39:58 +0000";
+lastChange = "2017-06-06 10:07:03 +0000";
 layers = (
 {
 background = {
@@ -10923,9 +10953,8 @@ rightMetricsKey = "=|n";
 unicode = 0067;
 },
 {
-color = 4;
 glyphname = h;
-lastChange = "2016-12-20 01:55:58 +0000";
+lastChange = "2017-06-06 10:07:03 +0000";
 layers = (
 {
 background = {
@@ -11065,9 +11094,8 @@ rightMetricsKey = "=n";
 unicode = 0068;
 },
 {
-color = 6;
 glyphname = i;
-lastChange = "2016-12-20 01:59:57 +0000";
+lastChange = "2017-06-06 10:07:03 +0000";
 layers = (
 {
 background = {
@@ -11197,9 +11225,8 @@ width = 295;
 unicode = 0069;
 },
 {
-color = 4;
 glyphname = j;
-lastChange = "2016-12-20 02:00:00 +0000";
+lastChange = "2017-06-06 10:07:03 +0000";
 layers = (
 {
 background = {
@@ -11368,51 +11395,16 @@ unicode = 006A;
 {
 color = 4;
 glyphname = k;
-lastChange = "2016-12-01 15:27:12 +0000";
+lastChange = "2017-06-06 10:08:32 +0000";
 layers = (
 {
-background = {
-paths = (
+annotations = (
 {
-closed = 1;
-nodes = (
-"326 281 LINE",
-"350 278 LINE",
-"584 525 LINE",
-"411 525 LINE",
-"196 298 LINE",
-"195 149 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"213 0 LINE",
-"213 730 LINE",
-"73 730 LINE",
-"73 0 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"599 0 LINE",
-"363 329 LINE",
-"247 263 LINE",
-"433 0 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"235 241 LINE",
-"235 321 LINE",
-"172 321 LINE",
-"172 241 LINE"
-);
+position = "{315, 609}";
+text = "I like the solution";
+type = Text;
 }
 );
-};
 guideLines = (
 {
 angle = 46.5765;
@@ -11754,9 +11746,8 @@ leftMetricsKey = "=n";
 unicode = 006B;
 },
 {
-color = 4;
 glyphname = l;
-lastChange = "2017-06-02 19:23:42 +0000";
+lastChange = "2017-06-06 10:07:03 +0000";
 layers = (
 {
 background = {
@@ -11807,9 +11798,8 @@ rightMetricsKey = "=|n";
 unicode = 006C;
 },
 {
-color = 4;
 glyphname = m;
-lastChange = "2017-06-02 19:23:49 +0000";
+lastChange = "2017-06-06 10:07:03 +0000";
 layers = (
 {
 background = {
@@ -12043,9 +12033,8 @@ rightMetricsKey = "=n";
 unicode = 006D;
 },
 {
-color = 6;
 glyphname = n;
-lastChange = "2016-12-20 22:09:40 +0000";
+lastChange = "2017-06-06 10:07:03 +0000";
 layers = (
 {
 associatedMasterId = "C76CAC8E-7AD6-478C-8F7E-02FEF6F1EA84";
@@ -12689,9 +12678,8 @@ width = 635;
 unicode = 006E;
 },
 {
-color = 4;
 glyphname = o;
-lastChange = "2017-06-02 12:26:34 +0000";
+lastChange = "2017-06-06 10:07:03 +0000";
 layers = (
 {
 associatedMasterId = "C76CAC8E-7AD6-478C-8F7E-02FEF6F1EA84";
@@ -15942,9 +15930,8 @@ width = 594;
 unicode = 006F;
 },
 {
-color = 6;
 glyphname = p;
-lastChange = "2017-06-06 08:39:49 +0000";
+lastChange = "2017-06-06 10:07:03 +0000";
 layers = (
 {
 associatedMasterId = "C76CAC8E-7AD6-478C-8F7E-02FEF6F1EA84";
@@ -17262,9 +17249,8 @@ rightMetricsKey = "=o";
 unicode = 0070;
 },
 {
-color = 6;
 glyphname = q;
-lastChange = "2016-12-20 01:53:15 +0000";
+lastChange = "2017-06-06 10:07:03 +0000";
 layers = (
 {
 background = {
@@ -17437,9 +17423,8 @@ rightMetricsKey = "=|n";
 unicode = 0071;
 },
 {
-color = 4;
 glyphname = r;
-lastChange = "2016-12-21 00:40:32 +0000";
+lastChange = "2017-06-06 10:07:03 +0000";
 layers = (
 {
 background = {
@@ -17570,9 +17555,8 @@ leftMetricsKey = "=n";
 unicode = 0072;
 },
 {
-color = 6;
 glyphname = s;
-lastChange = "2016-12-21 01:39:37 +0000";
+lastChange = "2017-06-06 10:07:03 +0000";
 layers = (
 {
 associatedMasterId = "C76CAC8E-7AD6-478C-8F7E-02FEF6F1EA84";
@@ -25056,9 +25040,8 @@ width = 534;
 unicode = 0073;
 },
 {
-color = 4;
 glyphname = t;
-lastChange = "2016-12-20 02:01:43 +0000";
+lastChange = "2017-06-06 10:07:03 +0000";
 layers = (
 {
 background = {
@@ -25207,9 +25190,8 @@ width = 445;
 unicode = 0074;
 },
 {
-color = 6;
 glyphname = u;
-lastChange = "2016-12-21 03:47:46 +0000";
+lastChange = "2017-06-06 10:07:03 +0000";
 layers = (
 {
 background = {
@@ -25300,9 +25282,8 @@ rightMetricsKey = "=|n";
 unicode = 0075;
 },
 {
-color = 6;
 glyphname = v;
-lastChange = "2016-12-20 01:53:15 +0000";
+lastChange = "2017-06-06 10:07:03 +0000";
 layers = (
 {
 background = {
@@ -25389,9 +25370,8 @@ width = 639;
 unicode = 0076;
 },
 {
-color = 4;
 glyphname = w;
-lastChange = "2017-06-02 19:24:03 +0000";
+lastChange = "2017-06-06 10:07:03 +0000";
 layers = (
 {
 background = {
@@ -25521,11 +25501,18 @@ rightMetricsKey = v;
 unicode = 0077;
 },
 {
-color = 11;
+color = 4;
 glyphname = x;
-lastChange = "2017-06-02 19:58:01 +0000";
+lastChange = "2017-06-06 10:08:02 +0000";
 layers = (
 {
+annotations = (
+{
+position = "{221, 599}";
+text = "I like the solution";
+type = Text;
+}
+);
 background = {
 paths = (
 {
@@ -26021,51 +26008,18 @@ width = 597;
 unicode = 0078;
 },
 {
-color = 4;
+color = 1;
 glyphname = y;
-lastChange = "2016-12-01 15:33:33 +0000";
+lastChange = "2017-06-06 10:10:20 +0000";
 layers = (
 {
-background = {
-paths = (
+annotations = (
 {
-closed = 1;
-nodes = (
-"333 64 LINE",
-"333 124 LINE",
-"238 124 LINE",
-"238 64 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"40 -195 LINE",
-"73 -205 OFFCURVE",
-"97 -210 OFFCURVE",
-"140 -210 CURVE SMOOTH",
-"282 -210 OFFCURVE",
-"331 -123 OFFCURVE",
-"375 0 CURVE SMOOTH",
-"561 525 LINE",
-"411 525 LINE",
-"272 79 LINE",
-"293 79 LINE",
-"155 525 LINE",
-"5 525 LINE",
-"190 0 LINE",
-"262 0 LINE",
-"256 33 LINE",
-"222 -61 OFFCURVE",
-"199 -95 OFFCURVE",
-"127 -95 CURVE SMOOTH",
-"103 -95 OFFCURVE",
-"69 -92 OFFCURVE",
-"40 -85 CURVE"
-);
+position = "{218, 647}";
+text = "Try an alternate version with straight diagonal, that mirrors your approach to x and k >  y.002";
+type = Text;
 }
 );
-};
 layerId = "C76CAC8E-7AD6-478C-8F7E-02FEF6F1EA84";
 paths = (
 {
@@ -26174,9 +26128,8 @@ rightMetricsKey = "=v";
 unicode = 0079;
 },
 {
-color = 4;
 glyphname = z;
-lastChange = "2016-11-29 12:28:48 +0000";
+lastChange = "2017-06-06 10:07:03 +0000";
 layers = (
 {
 background = {
@@ -26322,9 +26275,9 @@ width = 600;
 unicode = 2022;
 },
 {
-color = 11;
+color = 0;
 glyphname = colon;
-lastChange = "2017-06-02 20:27:55 +0000";
+lastChange = "2017-06-06 10:06:33 +0000";
 layers = (
 {
 layerId = "C76CAC8E-7AD6-478C-8F7E-02FEF6F1EA84";
@@ -26367,6 +26320,13 @@ nodes = (
 width = 222;
 },
 {
+annotations = (
+{
+position = "{99, 615}";
+text = Component;
+type = Text;
+}
+);
 layerId = "2D8239A6-199F-4292-A93F-56491AD13939";
 paths = (
 {
@@ -26669,9 +26629,9 @@ width = 600;
 unicode = 0027;
 },
 {
-color = 11;
+color = 0;
 glyphname = semicolon;
-lastChange = "2017-06-02 20:44:33 +0000";
+lastChange = "2017-06-06 10:06:33 +0000";
 layers = (
 {
 background = {
@@ -26777,6 +26737,13 @@ nodes = (
 width = 222;
 },
 {
+annotations = (
+{
+position = "{111, 606}";
+text = Component;
+type = Text;
+}
+);
 background = {
 paths = (
 {
@@ -27056,9 +27023,9 @@ width = 427;
 unicode = 007B;
 },
 {
-color = 11;
+color = 0;
 glyphname = braceright;
-lastChange = "2017-06-06 09:40:02 +0000";
+lastChange = "2017-06-06 10:06:03 +0000";
 layers = (
 {
 layerId = "C76CAC8E-7AD6-478C-8F7E-02FEF6F1EA84";
@@ -27112,6 +27079,13 @@ nodes = (
 width = 348;
 },
 {
+annotations = (
+{
+position = "{200, 952}";
+text = Component;
+type = Text;
+}
+);
 layerId = "2D8239A6-199F-4292-A93F-56491AD13939";
 paths = (
 {
@@ -27240,9 +27214,9 @@ width = 385;
 unicode = 005B;
 },
 {
-color = 11;
+color = 0;
 glyphname = bracketright;
-lastChange = "2017-06-04 11:46:20 +0000";
+lastChange = "2017-06-06 10:06:03 +0000";
 layers = (
 {
 layerId = "C76CAC8E-7AD6-478C-8F7E-02FEF6F1EA84";
@@ -27278,6 +27252,13 @@ nodes = (
 width = 313;
 },
 {
+annotations = (
+{
+position = "{200, 952}";
+text = Component;
+type = Text;
+}
+);
 layerId = "2D8239A6-199F-4292-A93F-56491AD13939";
 paths = (
 {
@@ -27314,9 +27295,9 @@ width = 385;
 unicode = 005D;
 },
 {
-color = 11;
+color = 0;
 glyphname = parenleft;
-lastChange = "2017-06-04 11:59:36 +0000";
+lastChange = "2017-06-06 10:06:03 +0000";
 layers = (
 {
 background = {
@@ -27367,6 +27348,13 @@ nodes = (
 width = 322;
 },
 {
+annotations = (
+{
+position = "{236, 953}";
+text = "Straight (horizontal) terminals por favor";
+type = Text;
+}
+);
 layerId = "2D8239A6-199F-4292-A93F-56491AD13939";
 paths = (
 {
@@ -27395,9 +27383,9 @@ width = 418;
 unicode = 0028;
 },
 {
-color = 11;
+color = 0;
 glyphname = parenright;
-lastChange = "2017-06-04 11:59:41 +0000";
+lastChange = "2017-06-06 10:06:03 +0000";
 layers = (
 {
 layerId = "C76CAC8E-7AD6-478C-8F7E-02FEF6F1EA84";
@@ -27425,6 +27413,13 @@ nodes = (
 width = 322;
 },
 {
+annotations = (
+{
+position = "{200, 952}";
+text = Component;
+type = Text;
+}
+);
 layerId = "2D8239A6-199F-4292-A93F-56491AD13939";
 paths = (
 {

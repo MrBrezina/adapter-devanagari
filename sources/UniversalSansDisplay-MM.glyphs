@@ -4,11 +4,11 @@ DisplayStrings = (
 "Aussenwirkung\012Blocksatz\012Blocksa/t.002 z\012Durchschuss\012Einzelblatt\012Hurenkind\012Industrienorm\012HLinksb\U00FCndig\012Monatsbl\U00E4tter\012Nachbreite\012Ocoberl\U00E4nge.:\012Paginierung\012HRationalit\U00E4t\012Spationierung\012Typografie\012MOUTHVWXYZ\012MASS APPEAL\012STARLIGHT",
 "minimum\012otono\012monoton\012monochrom\012ocdoctor\012caodaoda\012vmaximum\012xillino\012zwyky\012invinum\012bananas\012maniana\012eldorado\012assassin\012americana\012lsloln\012Bongani\012Arpeggio\012Modlalit\U00E4ten\012Cananana\012dlcldocsa cassette\012lellcss\012fj\U00F6gy\U00E4\012aftenposten\012affenstall\012affenstall"
 );
-copyright = "Copyright © 2016 by William Montrose. All rights reserved.";
-date = "2016-08-04 16:37:45 +0000";
+copyright = "Copyright © 2017 by William Montrose. All rights reserved.";
+date = "2017-06-06 09:25:47 +0000";
 designer = "William Montrose";
 designerURL = www.bezierfantasy.com;
-familyName = "Universal Display";
+familyName = "US Display";
 fontMaster = (
 {
 ascender = 720;
@@ -29,7 +29,7 @@ GSOffsetMakeStroke = 1;
 GSOffsetVertical = 16;
 };
 weight = Light;
-weightValue = 20;
+weightValue = 18;
 xHeight = 515;
 },
 {
@@ -8751,7 +8751,7 @@ unicode = 0072;
 },
 {
 glyphname = s;
-lastChange = "2017-05-23 08:19:56 +0000";
+lastChange = "2017-06-06 09:45:57 +0000";
 layers = (
 {
 background = {
@@ -12111,17 +12111,17 @@ instances = (
 {
 interpolationWeight = 18;
 instanceInterpolations = {
-"0AB32919-C634-42BE-AC70-4A96502CEFC8" = 1.01667;
-"04D71F9F-EB93-4435-B5C5-002A08FE9E15" = -0.0166667;
+"0AB32919-C634-42BE-AC70-4A96502CEFC8" = 1;
 };
 name = Hairline;
 weightClass = Thin;
 },
 {
+exports = 0;
 interpolationWeight = 110;
 instanceInterpolations = {
-"0AB32919-C634-42BE-AC70-4A96502CEFC8" = 0.25;
-"04D71F9F-EB93-4435-B5C5-002A08FE9E15" = 0.75;
+"0AB32919-C634-42BE-AC70-4A96502CEFC8" = 0.245902;
+"04D71F9F-EB93-4435-B5C5-002A08FE9E15" = 0.754098;
 };
 name = Regular;
 },
