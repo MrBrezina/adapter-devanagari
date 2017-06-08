@@ -1,7 +1,9 @@
 {
-.appVersion = "1009";
+.appVersion = "983";
 DisplayStrings = (
-"HNHTIHLHEHDHFHOHHSHWHU\012HOSOHnGOCGH\012Hovnosnknxnyn\012HHMHOZOHE\012ni.n:n;n,\012nonoc \012h(h[{h}])(p)\012JOZEFg\012HAVH\012HMHWH\012HXHKH"
+"HNHTIHLHEHDHFHOHHSHWHU\012HOSOHnGOCGH\012Hovnosnknxnyn\012HHMHOZOHE\012ni.n:n;n,\012nonoc \012h(h[{h}])(p)\012JOZEFg\012HAVH\012HMHWH\012HXHKH",
+ABCDEFGHIJKLMNOPQRSTUVWXYZ,
+"and yet I feel that I never was a greater artist than now. When, while the lovely valley teems with vapour around me,"
 );
 copyright = "Copyright ￂﾩ 2016 by William Montrose, Slￃﾡva Jevￄﾍinovￃﾡ. All rights reserved.";
 date = "2016-08-04 16:37:45 +0000";
@@ -33,6 +35,11 @@ value = "3";
 }
 );
 descender = -195;
+guideLines = (
+{
+position = "{44, -210}";
+}
+);
 id = "C76CAC8E-7AD6-478C-8F7E-02FEF6F1EA84";
 userData = {
 GSOffsetHorizontal = 19;
@@ -63,7 +70,7 @@ glyphs = (
 {
 color = 11;
 glyphname = A;
-lastChange = "2017-06-02 15:03:54 +0000";
+lastChange = "2017-06-08 14:36:05 +0000";
 layers = (
 {
 background = {
@@ -199,7 +206,7 @@ unicode = 0041;
 {
 color = 11;
 glyphname = B;
-lastChange = "2017-06-04 12:16:23 +0000";
+lastChange = "2017-06-08 14:36:05 +0000";
 layers = (
 {
 background = {
@@ -448,7 +455,7 @@ unicode = 0042;
 {
 color = 11;
 glyphname = C;
-lastChange = "2017-06-06 08:43:12 +0000";
+lastChange = "2017-06-08 14:36:05 +0000";
 layers = (
 {
 background = {
@@ -616,7 +623,7 @@ unicode = 0043;
 {
 color = 11;
 glyphname = D;
-lastChange = "2017-06-06 08:43:25 +0000";
+lastChange = "2017-06-08 14:36:05 +0000";
 layers = (
 {
 background = {
@@ -764,7 +771,7 @@ unicode = 0044;
 {
 color = 11;
 glyphname = E;
-lastChange = "2017-06-06 09:05:00 +0000";
+lastChange = "2017-06-08 14:36:05 +0000";
 layers = (
 {
 background = {
@@ -937,7 +944,7 @@ unicode = 0045;
 {
 color = 11;
 glyphname = F;
-lastChange = "2017-06-06 09:04:40 +0000";
+lastChange = "2017-06-08 14:36:05 +0000";
 layers = (
 {
 background = {
@@ -1089,9 +1096,9 @@ width = 620;
 unicode = 0046;
 },
 {
-color = 7;
+color = 11;
 glyphname = G;
-lastChange = "2017-06-07 14:13:54 +0000";
+lastChange = "2017-06-08 14:36:05 +0000";
 layers = (
 {
 background = {
@@ -1309,7 +1316,7 @@ unicode = 0047;
 {
 color = 11;
 glyphname = H;
-lastChange = "2017-06-02 15:06:42 +0000";
+lastChange = "2017-06-08 14:36:05 +0000";
 layers = (
 {
 background = {
@@ -1445,7 +1452,7 @@ unicode = 0048;
 {
 color = 11;
 glyphname = I;
-lastChange = "2017-05-31 15:20:35 +0000";
+lastChange = "2017-06-08 14:36:05 +0000";
 layers = (
 {
 layerId = "C76CAC8E-7AD6-478C-8F7E-02FEF6F1EA84";
@@ -1483,9 +1490,9 @@ rightMetricsKey = "=H";
 unicode = 0049;
 },
 {
-color = 7;
+color = 11;
 glyphname = J;
-lastChange = "2017-06-07 14:13:12 +0000";
+lastChange = "2017-06-08 14:38:20 +0000";
 layers = (
 {
 background = {
@@ -1542,38 +1549,6 @@ nodes = (
 width = 606;
 },
 {
-annotations = (
-{
-position = "{224, 716}";
-text = "Try curly J";
-type = Text;
-}
-);
-background = {
-paths = (
-{
-closed = 1;
-nodes = (
-"119 5 LINE",
-"174 -7 OFFCURVE",
-"240 -15 OFFCURVE",
-"316 -15 CURVE SMOOTH",
-"487 -15 OFFCURVE",
-"586 71 OFFCURVE",
-"586 261 CURVE SMOOTH",
-"586 670 LINE",
-"361 670 LINE",
-"361 309 LINE SMOOTH",
-"361 214 OFFCURVE",
-"340 170 OFFCURVE",
-"254 170 CURVE SMOOTH",
-"208 170 OFFCURVE",
-"159 176 OFFCURVE",
-"119 182 CURVE"
-);
-}
-);
-};
 layerId = "2D8239A6-199F-4292-A93F-56491AD13939";
 paths = (
 {
@@ -1607,9 +1582,9 @@ rightMetricsKey = U;
 unicode = 004A;
 },
 {
-color = 7;
+color = 11;
 glyphname = K;
-lastChange = "2017-06-07 11:41:15 +0000";
+lastChange = "2017-06-08 14:36:05 +0000";
 layers = (
 {
 background = {
@@ -1748,7 +1723,7 @@ unicode = 004B;
 {
 color = 11;
 glyphname = L;
-lastChange = "2017-05-31 16:46:37 +0000";
+lastChange = "2017-06-08 14:36:05 +0000";
 layers = (
 {
 layerId = "C76CAC8E-7AD6-478C-8F7E-02FEF6F1EA84";
@@ -1803,9 +1778,9 @@ leftMetricsKey = "=H";
 unicode = 004C;
 },
 {
-color = 7;
+color = 11;
 glyphname = M;
-lastChange = "2017-06-07 14:13:20 +0000";
+lastChange = "2017-06-08 14:36:05 +0000";
 layers = (
 {
 background = {
@@ -1919,7 +1894,7 @@ unicode = 004D;
 {
 color = 11;
 glyphname = N;
-lastChange = "2017-06-06 09:16:45 +0000";
+lastChange = "2017-06-08 14:36:05 +0000";
 layers = (
 {
 background = {
@@ -2027,7 +2002,7 @@ unicode = 004E;
 {
 color = 11;
 glyphname = O;
-lastChange = "2017-06-06 08:40:18 +0000";
+lastChange = "2017-06-08 14:36:05 +0000";
 layers = (
 {
 background = {
@@ -2189,9 +2164,9 @@ width = 774;
 unicode = 004F;
 },
 {
-color = 7;
+color = 11;
 glyphname = P;
-lastChange = "2017-06-07 11:42:10 +0000";
+lastChange = "2017-06-08 14:36:05 +0000";
 layers = (
 {
 background = {
@@ -2346,11 +2321,18 @@ leftMetricsKey = H;
 unicode = 0050;
 },
 {
-color = 7;
+color = 11;
 glyphname = Q;
-lastChange = "2017-06-07 11:56:59 +0000";
+lastChange = "2017-06-08 14:36:05 +0000";
 layers = (
 {
+annotations = (
+{
+position = "{290, 287}";
+text = "shift closer together";
+type = Text;
+}
+);
 background = {
 components = (
 {
@@ -2504,62 +2486,11 @@ width = 774;
 unicode = 0051;
 },
 {
-color = 7;
+color = 1;
 glyphname = R;
-lastChange = "2017-06-07 11:42:10 +0000";
+lastChange = "2017-06-08 14:38:13 +0000";
 layers = (
 {
-background = {
-paths = (
-{
-closed = 1;
-nodes = (
-"223 0 LINE",
-"223 670 LINE",
-"75 670 LINE",
-"75 0 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"205 339 LINE",
-"205 219 LINE",
-"359 219 LINE SMOOTH",
-"547 219 OFFCURVE",
-"626 303 OFFCURVE",
-"626 442 CURVE SMOOTH",
-"626 582 OFFCURVE",
-"557 670 OFFCURVE",
-"379 670 CURVE SMOOTH",
-"205 670 LINE",
-"205 545 LINE",
-"344 545 LINE SMOOTH",
-"441 545 OFFCURVE",
-"483 522 OFFCURVE",
-"483 442 CURVE SMOOTH",
-"483 362 OFFCURVE",
-"441 339 OFFCURVE",
-"344 339 CURVE SMOOTH"
-);
-},
-{
-closed = 1;
-nodes = (
-"621 0 LINE",
-"519 151 LINE SMOOTH",
-"486 199 OFFCURVE",
-"462 240 OFFCURVE",
-"403 240 CURVE",
-"246 219 LINE",
-"310 219 OFFCURVE",
-"326 205 OFFCURVE",
-"362 151 CURVE SMOOTH",
-"461 0 LINE"
-);
-}
-);
-};
 layerId = "C76CAC8E-7AD6-478C-8F7E-02FEF6F1EA84";
 paths = (
 {
@@ -2609,62 +2540,11 @@ width = 671;
 {
 annotations = (
 {
-position = "{308, 809}";
-text = "Counter sits a little too low. Same in P.";
+position = "{302, 461}";
+text = "Feels wide, try bringing in the top curve a bit";
 type = Text;
 }
 );
-background = {
-paths = (
-{
-closed = 1;
-nodes = (
-"275 0 LINE",
-"275 670 LINE",
-"50 670 LINE",
-"50 0 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"257 339 LINE",
-"257 179 LINE",
-"411 179 LINE SMOOTH",
-"599 179 OFFCURVE",
-"680 258 OFFCURVE",
-"680 417 CURVE SMOOTH",
-"680 582 OFFCURVE",
-"599 670 OFFCURVE",
-"421 670 CURVE SMOOTH",
-"257 670 LINE",
-"257 495 LINE",
-"386 495 LINE SMOOTH",
-"443 495 OFFCURVE",
-"465 472 OFFCURVE",
-"465 417 CURVE SMOOTH",
-"465 362 OFFCURVE",
-"443 339 OFFCURVE",
-"386 339 CURVE SMOOTH"
-);
-},
-{
-closed = 1;
-nodes = (
-"685 0 LINE",
-"589 139 LINE SMOOTH",
-"561 179 OFFCURVE",
-"545 196 OFFCURVE",
-"502 196 CURVE",
-"272 179 LINE",
-"323 179 OFFCURVE",
-"332 163 OFFCURVE",
-"362 115 CURVE SMOOTH",
-"435 0 LINE"
-);
-}
-);
-};
 layerId = "2D8239A6-199F-4292-A93F-56491AD13939";
 paths = (
 {
@@ -2716,11 +2596,23 @@ leftMetricsKey = H;
 unicode = 0052;
 },
 {
-color = 7;
+color = 11;
 glyphname = S;
-lastChange = "2017-06-08 11:14:31 +0000";
+lastChange = "2017-06-08 14:37:58 +0000";
 layers = (
 {
+annotations = (
+{
+position = "{107, 620}";
+text = "light here";
+type = Text;
+},
+{
+position = "{479, 602}";
+text = "heavy here";
+type = Text;
+}
+);
 background = {
 paths = (
 {
@@ -2829,72 +2721,7 @@ nodes = (
 width = 633;
 },
 {
-annotations = (
-{
-position = "{307, 816}";
-text = "Character too wide, stretched. Visible in counters";
-type = Text;
-},
-{
-position = "{129, 621}";
-text = "Shoulder bit too squarish";
-type = Text;
-}
-);
 background = {
-paths = (
-{
-closed = 1;
-nodes = (
-"577 -16 OFFCURVE",
-"673 46 OFFCURVE",
-"673 197 CURVE SMOOTH",
-"673 316 OFFCURVE",
-"620 381 OFFCURVE",
-"457 406 CURVE SMOOTH",
-"360 421 LINE SMOOTH",
-"274 434 OFFCURVE",
-"263 445 OFFCURVE",
-"263 476 CURVE SMOOTH",
-"263 499 OFFCURVE",
-"279 520 OFFCURVE",
-"355 520 CURVE SMOOTH",
-"431 520 OFFCURVE",
-"449 498 OFFCURVE",
-"453 470 CURVE SMOOTH",
-"454 463 LINE",
-"671 463 LINE",
-"669 479 LINE SMOOTH",
-"650 628 OFFCURVE",
-"562 685 OFFCURVE",
-"348 685 CURVE SMOOTH",
-"123 685 OFFCURVE",
-"34 618 OFFCURVE",
-"34 470 CURVE SMOOTH",
-"34 352 OFFCURVE",
-"96 286 OFFCURVE",
-"259 261 CURVE SMOOTH",
-"345 248 LINE SMOOTH",
-"434 235 OFFCURVE",
-"446 224 OFFCURVE",
-"446 192 CURVE SMOOTH",
-"446 170 OFFCURVE",
-"429 149 OFFCURVE",
-"348 149 CURVE SMOOTH",
-"273 149 OFFCURVE",
-"254 173 OFFCURVE",
-"251 201 CURVE SMOOTH",
-"250 212 LINE",
-"26 212 LINE",
-"27 196 LINE SMOOTH",
-"37 36 OFFCURVE",
-"142 -16 OFFCURVE",
-"352 -16 CURVE SMOOTH"
-);
-}
-);
-};
-layerId = "2D8239A6-199F-4292-A93F-56491AD13939";
 paths = (
 {
 closed = 1;
@@ -2946,6 +2773,59 @@ nodes = (
 );
 }
 );
+};
+layerId = "2D8239A6-199F-4292-A93F-56491AD13939";
+paths = (
+{
+closed = 1;
+nodes = (
+"573 -16 OFFCURVE",
+"671 56 OFFCURVE",
+"671 197 CURVE SMOOTH",
+"671 316 OFFCURVE",
+"618 381 OFFCURVE",
+"457 406 CURVE SMOOTH",
+"360 421 LINE SMOOTH",
+"274 434 OFFCURVE",
+"263 445 OFFCURVE",
+"263 476 CURVE SMOOTH",
+"263 499 OFFCURVE",
+"279 520 OFFCURVE",
+"355 520 CURVE SMOOTH",
+"426 520 OFFCURVE",
+"444 498 OFFCURVE",
+"448 470 CURVE SMOOTH",
+"449 463 LINE",
+"669 463 LINE",
+"667 479 LINE SMOOTH",
+"648 628 OFFCURVE",
+"559 685 OFFCURVE",
+"348 685 CURVE SMOOTH",
+"130 685 OFFCURVE",
+"38 613 OFFCURVE",
+"38 469 CURVE SMOOTH",
+"38 362 OFFCURVE",
+"100 285 OFFCURVE",
+"259 261 CURVE SMOOTH",
+"345 248 LINE SMOOTH",
+"434 235 OFFCURVE",
+"446 224 OFFCURVE",
+"446 192 CURVE SMOOTH",
+"446 160 OFFCURVE",
+"419 149 OFFCURVE",
+"348 149 CURVE SMOOTH",
+"273 149 OFFCURVE",
+"254 173 OFFCURVE",
+"251 201 CURVE SMOOTH",
+"250 212 LINE",
+"30 212 LINE",
+"31 196 LINE SMOOTH",
+"41 36 OFFCURVE",
+"157 -16 OFFCURVE",
+"352 -16 CURVE SMOOTH"
+);
+}
+);
 width = 701;
 }
 );
@@ -2956,7 +2836,7 @@ unicode = 0053;
 {
 color = 11;
 glyphname = T;
-lastChange = "2017-06-06 09:24:37 +0000";
+lastChange = "2017-06-08 14:36:05 +0000";
 layers = (
 {
 background = {
@@ -3056,7 +2936,7 @@ unicode = 0054;
 {
 color = 11;
 glyphname = U;
-lastChange = "2017-06-02 13:14:10 +0000";
+lastChange = "2017-06-08 14:36:05 +0000";
 layers = (
 {
 background = {
@@ -3198,7 +3078,7 @@ unicode = 0055;
 {
 color = 11;
 glyphname = V;
-lastChange = "2017-06-02 15:00:17 +0000";
+lastChange = "2017-06-08 14:36:05 +0000";
 layers = (
 {
 background = {
@@ -3298,7 +3178,7 @@ unicode = 0056;
 {
 color = 11;
 glyphname = W;
-lastChange = "2017-06-06 08:39:40 +0000";
+lastChange = "2017-06-08 14:36:05 +0000";
 layers = (
 {
 background = {
@@ -3470,7 +3350,7 @@ unicode = 0057;
 {
 color = 11;
 glyphname = X;
-lastChange = "2017-06-06 09:25:48 +0000";
+lastChange = "2017-06-08 14:36:05 +0000";
 layers = (
 {
 background = {
@@ -3607,7 +3487,7 @@ unicode = 0058;
 {
 color = 11;
 glyphname = Y;
-lastChange = "2017-06-02 14:22:55 +0000";
+lastChange = "2017-06-08 14:36:05 +0000";
 layers = (
 {
 background = {
@@ -3703,7 +3583,7 @@ unicode = 0059;
 {
 color = 11;
 glyphname = Z;
-lastChange = "2017-06-06 08:38:34 +0000";
+lastChange = "2017-06-08 14:36:05 +0000";
 layers = (
 {
 layerId = "C76CAC8E-7AD6-478C-8F7E-02FEF6F1EA84";
@@ -3771,7 +3651,7 @@ unicode = 005A;
 },
 {
 glyphname = a;
-lastChange = "2017-06-06 10:07:03 +0000";
+lastChange = "2017-06-08 14:40:19 +0000";
 layers = (
 {
 associatedMasterId = "C76CAC8E-7AD6-478C-8F7E-02FEF6F1EA84";
@@ -5901,65 +5781,6 @@ nodes = (
 width = 514;
 },
 {
-background = {
-paths = (
-{
-closed = 1;
-nodes = (
-"299 -13 OFFCURVE",
-"378 22 OFFCURVE",
-"406 102 CURVE",
-"349 71 LINE",
-"445 71 LINE",
-"395 92 LINE",
-"415 0 LINE",
-"600 0 LINE",
-"600 329 LINE SMOOTH",
-"600 486 OFFCURVE",
-"518 550 OFFCURVE",
-"330 550 CURVE SMOOTH",
-"158 550 OFFCURVE",
-"87 495 OFFCURVE",
-"55 377 CURVE SMOOTH",
-"45 340 LINE",
-"250 340 LINE",
-"254 352 LINE SMOOTH",
-"262 377 OFFCURVE",
-"279 395 OFFCURVE",
-"326 395 CURVE SMOOTH",
-"380 395 OFFCURVE",
-"395 379 OFFCURVE",
-"395 330 CURVE SMOOTH",
-"395 212 LINE SMOOTH",
-"395 152 OFFCURVE",
-"343 125 OFFCURVE",
-"295 125 CURVE SMOOTH",
-"255 125 OFFCURVE",
-"237 138 OFFCURVE",
-"237 165 CURVE SMOOTH",
-"237 188 OFFCURVE",
-"251 200 OFFCURVE",
-"304 206 CURVE SMOOTH",
-"427 220 LINE SMOOTH",
-"467 225 OFFCURVE",
-"506 253 OFFCURVE",
-"509 291 CURVE",
-"509 368 LINE",
-"482 368 LINE",
-"480 348 OFFCURVE",
-"466 332 OFFCURVE",
-"429 328 CURVE SMOOTH",
-"205 303 LINE SMOOTH",
-"71 288 OFFCURVE",
-"20 228 OFFCURVE",
-"20 138 CURVE SMOOTH",
-"20 41 OFFCURVE",
-"90 -13 OFFCURVE",
-"205 -13 CURVE SMOOTH"
-);
-}
-);
-};
 guideLines = (
 {
 angle = 260.5377;
@@ -11852,16 +11673,9 @@ unicode = 006A;
 {
 color = 7;
 glyphname = k;
-lastChange = "2017-06-08 13:58:49 +0000";
+lastChange = "2017-06-08 14:29:02 +0000";
 layers = (
 {
-annotations = (
-{
-position = "{315, 609}";
-text = "I like the solution";
-type = Text;
-}
-);
 guideLines = (
 {
 angle = 46.5765;
@@ -25944,16 +25758,9 @@ unicode = 0077;
 {
 color = 7;
 glyphname = x;
-lastChange = "2017-06-08 13:58:49 +0000";
+lastChange = "2017-06-08 14:23:57 +0000";
 layers = (
 {
-annotations = (
-{
-position = "{221, 599}";
-text = "I like the solution";
-type = Text;
-}
-);
 background = {
 paths = (
 {
@@ -26405,16 +26212,9 @@ unicode = 0078;
 {
 color = 7;
 glyphname = y;
-lastChange = "2017-06-08 13:58:49 +0000";
+lastChange = "2017-06-08 14:25:43 +0000";
 layers = (
 {
-annotations = (
-{
-position = "{188, 737}";
-text = "Try an alternate version with straight diagonal, that mirrors your approach to x and k >  y.002";
-type = Text;
-}
-);
 background = {
 paths = (
 {
@@ -26631,16 +26431,9 @@ unicode = 007A;
 {
 color = 7;
 glyphname = y.001;
-lastChange = "2017-06-08 14:15:35 +0000";
+lastChange = "2017-06-08 14:25:00 +0000";
 layers = (
 {
-annotations = (
-{
-position = "{188, 737}";
-text = "Try an alternate version with straight diagonal, that mirrors your approach to x and k >  y.002";
-type = Text;
-}
-);
 background = {
 paths = (
 {
@@ -26921,9 +26714,9 @@ width = 310;
 unicode = 003A;
 },
 {
-color = 11;
+color = 1;
 glyphname = comma;
-lastChange = "2017-06-02 20:45:09 +0000";
+lastChange = "2017-06-08 14:36:11 +0000";
 layers = (
 {
 layerId = "C76CAC8E-7AD6-478C-8F7E-02FEF6F1EA84";
@@ -26954,6 +26747,13 @@ nodes = (
 width = 222;
 },
 {
+annotations = (
+{
+position = "{101, -175}";
+text = "Make the curves more parallel, the tail a tiny bit longer";
+type = Text;
+}
+);
 layerId = "2D8239A6-199F-4292-A93F-56491AD13939";
 paths = (
 {
