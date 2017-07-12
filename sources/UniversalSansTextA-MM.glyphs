@@ -3,7 +3,9 @@
 DisplayStrings = (
 "HNHTIHLHEHDHFHOHHSHWHU\012CGSJ\012Hynnhnooongn\012HHQHOQOOHH\012ni.n:n;n,HNM\012BPR\012h(h[{ho-oh}])(p)\012JOZEFg\012HheAVH}\012HMHWH\012HXHKH",
 "ABCDEFGHIJKLMNOPQRSTUVWXYZ\012Hnnopka \012nnknokonv\012HHSHOSOOH\012CGJS BPRVA\012BRPgjyn/y.001 nvn\012nnsnosoo\012obdpqgf\012FIGHT\012OHVINA\012MUZEUM\012WHOM",
-"nnrnoroon\012Hnnoherny\012HHZHOZOH \012And yet I feel that I never was a greater artist than now. When, while the lovely valley teems with vapour around me, and the meridian sun strikes the upper surface of the impenetrable"
+"nnrnoroon\012Hnnoherny\012HHZHOZOH \012And yet I feel that I never was a greater artist than now. When, while the lovely valley teems with vapour around me, and the meridian sun strikes the upper surface of the impenetrable",
+O,
+Hn
 );
 copyright = "Copyright ￂﾩ 2016 by William Montrose, Slￃﾡva Jevￄﾍinovￃﾡ. All rights reserved.";
 date = "2016-08-04 16:37:45 +0000";
@@ -1639,7 +1641,7 @@ source = G;
 {
 color = 11;
 glyphname = H;
-lastChange = "2017-07-12 10:54:35 +0000";
+lastChange = "2017-07-12 17:34:02 +0000";
 layers = (
 {
 background = {
@@ -1647,35 +1649,45 @@ paths = (
 {
 closed = 1;
 nodes = (
-"599 -15 OFFCURVE",
-"720 109 OFFCURVE",
-"720 335 CURVE SMOOTH",
-"720 562 OFFCURVE",
-"599 685 OFFCURVE",
-"386 685 CURVE SMOOTH",
-"173 685 OFFCURVE",
-"52 562 OFFCURVE",
-"52 335 CURVE SMOOTH",
-"52 109 OFFCURVE",
-"173 -15 OFFCURVE",
-"386 -15 CURVE SMOOTH"
+"587 670 LINE",
+"587 369 LINE",
+"186 369 LINE",
+"186 670 LINE",
+"126 670 LINE",
+"126 0 LINE",
+"186 0 LINE",
+"186 317 LINE",
+"587 317 LINE",
+"587 0 LINE",
+"647 0 LINE",
+"647 670 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"261 110 OFFCURVE",
-"205 194 OFFCURVE",
-"205 335 CURVE SMOOTH",
-"205 476 OFFCURVE",
-"261 560 OFFCURVE",
-"386 560 CURVE SMOOTH",
-"511 560 OFFCURVE",
-"567 476 OFFCURVE",
-"567 335 CURVE SMOOTH",
-"567 194 OFFCURVE",
-"511 110 OFFCURVE",
-"386 110 CURVE SMOOTH"
+"707 0 LINE",
+"707 670 LINE",
+"492 670 LINE",
+"492 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"282 0 LINE",
+"282 670 LINE",
+"68 670 LINE",
+"68 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"597 250 LINE",
+"597 419 LINE",
+"206 419 LINE",
+"206 250 LINE"
 );
 }
 );
@@ -2627,7 +2639,7 @@ source = N;
 {
 color = 11;
 glyphname = O;
-lastChange = "2017-07-12 10:54:10 +0000";
+lastChange = "2017-07-12 17:04:58 +0000";
 layers = (
 {
 background = {
@@ -2635,35 +2647,69 @@ paths = (
 {
 closed = 1;
 nodes = (
-"628 -15 OFFCURVE",
-"749 109 OFFCURVE",
-"749 335 CURVE SMOOTH",
-"749 562 OFFCURVE",
-"628 685 OFFCURVE",
+"620 -15 OFFCURVE",
+"737 109 OFFCURVE",
+"737 335 CURVE SMOOTH",
+"737 562 OFFCURVE",
+"620 685 OFFCURVE",
+"389 685 CURVE SMOOTH",
+"159 685 OFFCURVE",
+"42 562 OFFCURVE",
+"42 335 CURVE SMOOTH",
+"42 109 OFFCURVE",
+"159 -15 OFFCURVE",
+"389 -15 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"296 158 OFFCURVE",
+"260 222 OFFCURVE",
+"260 335 CURVE SMOOTH",
+"260 448 OFFCURVE",
+"296 512 OFFCURVE",
+"389 512 CURVE SMOOTH",
+"484 512 OFFCURVE",
+"519 448 OFFCURVE",
+"519 335 CURVE SMOOTH",
+"519 222 OFFCURVE",
+"484 158 OFFCURVE",
+"389 158 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"573 -15 OFFCURVE",
+"698 109 OFFCURVE",
+"698 335 CURVE SMOOTH",
+"698 562 OFFCURVE",
+"573 685 OFFCURVE",
 "390 685 CURVE SMOOTH",
-"152 685 OFFCURVE",
-"31 562 OFFCURVE",
-"31 335 CURVE SMOOTH",
-"31 109 OFFCURVE",
-"152 -15 OFFCURVE",
+"206 685 OFFCURVE",
+"81 562 OFFCURVE",
+"81 335 CURVE SMOOTH",
+"81 109 OFFCURVE",
+"206 -15 OFFCURVE",
 "390 -15 CURVE SMOOTH"
 );
 },
 {
 closed = 1;
 nodes = (
-"245 110 OFFCURVE",
-"184 194 OFFCURVE",
-"184 335 CURVE SMOOTH",
-"184 476 OFFCURVE",
-"245 560 OFFCURVE",
-"390 560 CURVE SMOOTH",
-"535 560 OFFCURVE",
-"596 476 OFFCURVE",
-"596 335 CURVE SMOOTH",
-"596 194 OFFCURVE",
-"535 110 OFFCURVE",
-"390 110 CURVE SMOOTH"
+"231 36 OFFCURVE",
+"143 146 OFFCURVE",
+"143 335 CURVE SMOOTH",
+"143 524 OFFCURVE",
+"231 634 OFFCURVE",
+"390 634 CURVE SMOOTH",
+"548 634 OFFCURVE",
+"636 524 OFFCURVE",
+"636 335 CURVE SMOOTH",
+"636 146 OFFCURVE",
+"548 36 OFFCURVE",
+"390 36 CURVE SMOOTH"
 );
 }
 );
