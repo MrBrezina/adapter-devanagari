@@ -1,5 +1,8 @@
 {
 .appVersion = "983";
+DisplayStrings = (
+r
+);
 copyright = "Copyright © 2017 by William Montrose. All rights reserved.";
 date = "2017-06-06 09:25:47 +0000";
 designer = "William Montrose";
@@ -1928,8 +1931,8 @@ interpolationWeight = 140;
 instanceInterpolations = {
 "FF99F1BD-4BE7-47F8-A9E4-DE1F5A5454D4" = 1;
 };
-name = SemiBold;
-weightClass = SemiBold;
+name = DemiBold;
+weightClass = DemiBold;
 }
 );
 kerning = {
