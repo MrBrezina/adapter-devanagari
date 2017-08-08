@@ -17888,7 +17888,6 @@ instanceInterpolations = {
 name = Light;
 },
 {
-exports = 0;
 interpolationWeight = 80;
 instanceInterpolations = {
 "0A1AFE58-107D-4787-BDA0-D82FB635C3A6" = 0.705882;
@@ -17897,7 +17896,6 @@ instanceInterpolations = {
 name = Regular;
 },
 {
-exports = 0;
 interpolationWeight = 110;
 instanceInterpolations = {
 "0A1AFE58-107D-4787-BDA0-D82FB635C3A6" = 0.352941;
@@ -17915,7 +17913,6 @@ name = SemiBold;
 weightClass = SemiBold;
 },
 {
-exports = 0;
 interpolationWeight = 170;
 instanceInterpolations = {
 "C76CAC8E-7AD6-478C-8F7E-02FEF6F1EA84" = 0.538462;
