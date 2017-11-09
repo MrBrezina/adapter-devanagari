@@ -3,16 +3,7 @@
 DisplayStrings = (
 "HHAHOOAOH\012nnsnoaon\012/dotaccentcomb n.n:n,n;\012n-n_n~n\012H!H?H\U00BFH\U00A1H'H\"H^H|H#H\012H(H)H[H]H{H}H/backslash H//H\012H+H/minus H=H<H>H\012H0H1H2H3H4H5H6H7H8H9H%H",
 "\U00C0\U00C1\U00C2\U00C3/Amacron/Abreve \U00C4\U00C5/Aogonek/Aringacute \U00C6/AEacute C/Cacute/Ccircumflex/Cdotaccent/Ccaron \U00C7D/Dcaron/Dcroat E\U00CA\U00C8\U00C9\U00CA/Emacron/Ebreve/Edotaccent \U00CB/Ecaron/Eogonek G/Gcircumflex/Gbreve/Gdotaccent/Gcommaaccent H/Hcircumflex/Hbar I\U00CC\U00CD\U00CE/Itilde/Imacron/Ibreve/Idotaccent \U00CF/Iogonek/IJ/Iacute_J.NLD/Jacute J/Jcircumflex/commaaccent K/Kcommaaccent L/Lacute/Lcommaaccent/Lcaron/Ldot/Lslash N/Nacute \U00D1/Ncaron/Eng/Ncommaaccent O\U00D2\U00D3\U00D4\U00D5/Omacron/Obreve \U00D6/Ohungarumlaut \U00D8/Oslashacute/OE R/Racute/Rcaron/Rcommaaccent S/Sacute/Scircumflex/Scaron/Scommaaccent/Scedilla/Germandbls T/Tcaron/Tcommaaccent/Tcedilla/Tbar U\U00D9\U00DA\U00DB/Utilde/Umacron/Ubreve \U00DC/Uring/Uhungarumlaut \U00C1/Uogonek W/Wgrave/Wacute/Wcircumflex/Wdieresis Y/Ygrave \U00DD/Ycircumflex/Ydieresis Z/Zacute/Zdotaccent/Zcaron \U00D0\U00DE/Schwa",
-"/gravecomb a\U00E0/acutecomb \U00E1\U00E2\U00E3/amacron/abreve \U00E4 /ringcomb  \U00E5/aogonek/aringacute \U00E6/aeacute c/cacute/ccircumflex/cdotaccent/ccaron \U00E7/dcaron/dcroat e\U00E8\U00E9\U00EA/emacron/ebreve/edotaccent \U00EB/ecaron/eogonek g/gcircumflex/gbreve/gdotaccent/gcommaaccent/hcircumflex/hbar \U00EC\U00ED\U00EE/itilde/imacron/ibreve/idotless/idotaccent \U00EF/iogonek/ij/iacute_j.NLD/jacute/jcircumflex/jdotless/kcommaaccent/lacute/lcommaaccent/lcaron/ldot/lslash n/nacute \U00F1/ncaron/eng/ncommaaccent/napostrophe o\U00F2\U00F3\U00F4\U00F5/omacron/obreve \U00F6/ohungarumlaut \U00F8/oslashacute/oe r/racute/rcaron/rcommaaccent s/sacute/scircumflex/scaron/scommaaccent/scedilla \U00DF/tcaron/tcommaaccent/tcedilla/tbar u\U00F9\U00FA\U00FB/utilde/umacron/ubreve \U00FC/uring/uhungarumlaut/uogonek w/wgrave/wacute/wcircumflex/wdieresis y/ygrave \U00FD/ycircumflex/ydieresis/zacute/zdotaccent/zcaron \U00F0\U00FE/schwa",
-"/mu \U00B5",
-/Omega/ohm,
-"\U00B9\U00BC\U00BE",
-"\U00BDsips",
-"\U00BE",
-"\U00B9\U00BC",
-t/pi,
-"\U00BC",
-"\U00BD"
+"/gravecomb a\U00E0/acutecomb \U00E1\U00E2\U00E3/amacron/abreve \U00E4 /ringcomb  \U00E5/aogonek/aringacute \U00E6/aeacute c/cacute/ccircumflex/cdotaccent/ccaron \U00E7/dcaron/dcroat e\U00E8\U00E9\U00EA/emacron/ebreve/edotaccent \U00EB/ecaron/eogonek g/gcircumflex/gbreve/gdotaccent/gcommaaccent/hcircumflex/hbar \U00EC\U00ED\U00EE/itilde/imacron/ibreve/idotless/idotaccent \U00EF/iogonek/ij/iacute_j.NLD/jacute/jcircumflex/jdotless/kcommaaccent/lacute/lcommaaccent/lcaron/ldot/lslash n/nacute \U00F1/ncaron/eng/ncommaaccent/napostrophe o\U00F2\U00F3\U00F4\U00F5/omacron/obreve \U00F6/ohungarumlaut \U00F8/oslashacute/oe r/racute/rcaron/rcommaaccent s/sacute/scircumflex/scaron/scommaaccent/scedilla \U00DF/tcaron/tcommaaccent/tcedilla/tbar u\U00F9\U00FA\U00FB/utilde/umacron/ubreve \U00FC/uring/uhungarumlaut/uogonek w/wgrave/wacute/wcircumflex/wdieresis y/ygrave \U00FD/ycircumflex/ydieresis/zacute/zdotaccent/zcaron \U00F0\U00FE/schwa"
 );
 copyright = "Copyright © 2017 by William Montrose, Slava Jevcinova. All rights reserved.";
 customParameters = (
@@ -29816,7 +29807,7 @@ unicode = 201A;
 {
 color = 4;
 glyphname = quotedblleft;
-lastChange = "2017-11-08 22:48:15 +0000";
+lastChange = "2017-11-09 18:33:02 +0000";
 layers = (
 {
 components = (
@@ -29834,55 +29825,55 @@ paths = (
 {
 closed = 1;
 nodes = (
-"129 730 LINE",
-"90 630 LINE SMOOTH",
-"83 611 OFFCURVE",
-"77 595 OFFCURVE",
-"77 575 CURVE SMOOTH",
-"77 553 OFFCURVE",
-"89 540 OFFCURVE",
-"109 540 CURVE SMOOTH",
-"127 540 OFFCURVE",
-"140 552 OFFCURVE",
-"140 571 CURVE SMOOTH",
-"140 590 OFFCURVE",
-"127 602 OFFCURVE",
-"109 602 CURVE SMOOTH",
-"102 602 OFFCURVE",
-"96 600 OFFCURVE",
-"91 597 CURVE",
-"97 594 LINE",
-"98 603 OFFCURVE",
-"102 616 OFFCURVE",
-"107 628 CURVE SMOOTH",
-"148 730 LINE"
+"130 730 LINE",
+"91 630 LINE SMOOTH",
+"84 611 OFFCURVE",
+"78 595 OFFCURVE",
+"78 575 CURVE SMOOTH",
+"78 553 OFFCURVE",
+"90 540 OFFCURVE",
+"110 540 CURVE SMOOTH",
+"128 540 OFFCURVE",
+"141 552 OFFCURVE",
+"141 571 CURVE SMOOTH",
+"141 590 OFFCURVE",
+"128 602 OFFCURVE",
+"110 602 CURVE SMOOTH",
+"103 602 OFFCURVE",
+"97 600 OFFCURVE",
+"92 597 CURVE",
+"98 594 LINE",
+"99 603 OFFCURVE",
+"103 616 OFFCURVE",
+"108 628 CURVE SMOOTH",
+"149 730 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"250 730 LINE",
-"211 630 LINE SMOOTH",
-"204 611 OFFCURVE",
-"198 595 OFFCURVE",
-"198 575 CURVE SMOOTH",
-"198 553 OFFCURVE",
-"210 540 OFFCURVE",
-"230 540 CURVE SMOOTH",
-"248 540 OFFCURVE",
-"261 552 OFFCURVE",
-"261 571 CURVE SMOOTH",
-"261 590 OFFCURVE",
-"248 602 OFFCURVE",
-"230 602 CURVE SMOOTH",
-"223 602 OFFCURVE",
-"217 600 OFFCURVE",
-"212 597 CURVE",
-"218 594 LINE",
-"219 603 OFFCURVE",
-"223 616 OFFCURVE",
-"228 628 CURVE SMOOTH",
-"269 730 LINE"
+"251 730 LINE",
+"212 630 LINE SMOOTH",
+"205 611 OFFCURVE",
+"199 595 OFFCURVE",
+"199 575 CURVE SMOOTH",
+"199 553 OFFCURVE",
+"211 540 OFFCURVE",
+"231 540 CURVE SMOOTH",
+"249 540 OFFCURVE",
+"262 552 OFFCURVE",
+"262 571 CURVE SMOOTH",
+"262 590 OFFCURVE",
+"249 602 OFFCURVE",
+"231 602 CURVE SMOOTH",
+"224 602 OFFCURVE",
+"218 600 OFFCURVE",
+"213 597 CURVE",
+"219 594 LINE",
+"220 603 OFFCURVE",
+"224 616 OFFCURVE",
+"229 628 CURVE SMOOTH",
+"270 730 LINE"
 );
 }
 );
@@ -29890,7 +29881,7 @@ nodes = (
 components = (
 {
 name = quotedblright;
-transform = "{-1, 0, 0, -1, 416, 1293}";
+transform = "{-1, 0, 0, -1, 417, 1293}";
 }
 );
 layerId = "C0254B35-3FF0-4514-8990-BC8C3A6FFAB6";
@@ -73491,27 +73482,25 @@ rightMetricsKey = four;
 unicode = 2074;
 },
 {
-color = 4;
+color = 1;
 glyphname = onehalf;
-lastChange = "2017-11-09 18:26:07 +0000";
+lastChange = "2017-11-09 18:33:23 +0000";
 layers = (
 {
 components = (
 {
 name = fraction;
-transform = "{1, 0, 0, 1, 363, 0}";
 },
 {
 name = onesuperior;
-transform = "{1, 0, 0, 1, -13, -130}";
 },
 {
 name = twosuperior;
-transform = "{1, 0, 0, 1, 385, -373}";
+transform = "{1, 0, 0, 1, 272, 0}";
 }
 );
 layerId = "C0254B35-3FF0-4514-8990-BC8C3A6FFAB6";
-width = 850;
+width = 637;
 },
 {
 components = (
@@ -73559,9 +73548,9 @@ width = 1000;
 unicode = 00BD;
 },
 {
-color = 4;
+color = 1;
 glyphname = onequarter;
-lastChange = "2017-11-09 18:26:07 +0000";
+lastChange = "2017-11-09 18:33:23 +0000";
 layers = (
 {
 components = (
@@ -73626,9 +73615,9 @@ width = 1000;
 unicode = 00BC;
 },
 {
-color = 4;
+color = 1;
 glyphname = threequarters;
-lastChange = "2017-11-09 18:26:07 +0000";
+lastChange = "2017-11-09 18:33:23 +0000";
 layers = (
 {
 components = (

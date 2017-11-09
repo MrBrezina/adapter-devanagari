@@ -7,9 +7,7 @@ DisplayStrings = (
 "HLk/idotless neaB\0123g/c.ze.BGR/c.en/c.en/c.ze.BGR/c.en o/c.ze.BGR oo/c.en o\012/c.i  /c.brevecomb  /c.ishort  /brevecomb  /ebreve/acutecomb \U00E1/c.acutecomb/c.gje/c.kje/c.iegrave/c.igrave \012/c.pe/c.dzhe/c.te/c.ghe/c.gheUkr/c.che/c.el/c.de/c.yu/c.yu.BGR/c.zhe.BGR/c.zhe/c.ka/c.en/c.ya/c.ve/c.soft/c.hard/c.yeru/c.lje/c.nje p/c.ef o/hbar/c.dje/c.ze/c.e/c.ieUkr/c.ghe.BGR/c.be/c.be.SRB/c.ve.BGR/c.sha.BGR/c.shcha.BGR/c.tse.BGR/c.el.BGR \012/c.en n/c.pe/c.i/c.tse/c.en/c.el/c.de/c.dzhe \012M/c.en/c.em.001/c.i/c.en/c.pe/c.dzhe/c.tse/c.sha/c.shcha \012M/c.en/c.em/c.i/c.en/c.pe/c.dzhe/c.tse/c.sha/c.shcha \012/c.en/c.em.001/c.en/c.em/c.en w/c.en/c.i/c.en \012/c.en an/c.en/c.che/c.en u/c.soft/c.en \012/c.pe o/c.zhe ap/c.en/c.i/c.ka/c.i \012/c.en/c.en/c.de/c.en/c.el/c.pe n\012a/c.ze/c.ve/c.soft ns/c.che \012/c.em/c.i/c.en/c.i/c.em y/c.em \012/c.em.001/c.i/c.en/c.i/c.em.001 y/c.em.001 \012o/c.be aj/c.el g\012a/c.en/c.ze/c.en c/c.en/c.e/c.en/c.ieUkr/c.en s\012c/c.ghe.BGR pe/c.be/c.el.BGR/c.i \012NH/numero H\012H/c.De H/c.El H/c.en/c.de/c.en/c.el/c.en \012HH/c.Tshe HO/c.Tshe OOH\012/c.en/c.em/c.i/c.en/c.pe/c.dzhe/c.tse/c.sha/c.shcha \012HM/c.I H/c.Pe/c.Dzhe/c.Tse/c.Sha/c.Shcha \012/c.Ghe/c.Che/c.Zhe/c.Yu/c.GheUkr/c.Tshe/c.Dje/c.Ya/c.E/c.IeUkr Y/c.Ze/c.U/c.El/c.Ef \012/c.Soft/c.Be/c.Hard/c.Yeru/c.Lje/c.Nje \012/c.Ishort/c.Gje/c.Iegrave/c.Io/c.Kje \012/c.Ghe/c.Gje/c.I/c.Igrave/Abreve/c.ishort  /c.brevecomb.case   /c.acutecomb.case   /c.gravecomb.case  /c.gravecomb",
 "?~/quoteright/caroncomb.calt/cedillacomb/ogonekcomb/ogonekcomb.case/tildecomb/tildecomb.case/commaaccentturnedabovecomb/Iogonek/Eng/Germandbls/Uogonek/Schwa \U00E6/eogonek/jdotless/eng/oe \U00DF/tbar \U00F02356$/euro \U00A2\U00A3/liraTurkish/approxequal/estimated/literSign/mu/pi/integral/partialdiff/arrowright \U00B2\U00B3",
 " /quoteright  /caroncomb.calt  /cedillacomb  /ogonekcomb  /ogonekcomb.case  /tildecomb  /tildecomb.case  /commaaccentturnedabovecomb    \012\012\"/quoteright",
-"\U00B2\U00B3\012STRAS/Germandbls E\012stra\U00DFe\012stie\U00DFen\012SsSs\012SCHEINSTUDI\012HSHOH",
-"/Schwa \012",
-"stra\U00DFe"
+"\U00B2\U00B3\012STRAS/Germandbls E\012stra\U00DFe\012stie\U00DFen\012SsSs\012SCHEINSTUDI\012HSHOH"
 );
 copyright = "Copyright © 2017 by William Montrose, Slava Jevcinova. All rights reserved.";
 customParameters = (
@@ -43151,7 +43149,7 @@ unicode = 0153;
 },
 {
 glyphname = racute;
-lastChange = "2017-08-29 10:04:37 +0000";
+lastChange = "2017-11-09 18:38:18 +0000";
 layers = (
 {
 components = (
@@ -43164,7 +43162,7 @@ transform = "{1, 0, 0, 1, 230, 0}";
 }
 );
 layerId = "0A1AFE58-107D-4787-BDA0-D82FB635C3A6";
-width = 379;
+width = 378;
 },
 {
 components = (
@@ -43199,7 +43197,7 @@ unicode = 0155;
 },
 {
 glyphname = rcaron;
-lastChange = "2017-08-29 10:04:37 +0000";
+lastChange = "2017-11-09 18:38:18 +0000";
 layers = (
 {
 components = (
@@ -43212,7 +43210,7 @@ transform = "{1, 0, 0, 1, 230, 0}";
 }
 );
 layerId = "0A1AFE58-107D-4787-BDA0-D82FB635C3A6";
-width = 379;
+width = 378;
 },
 {
 components = (
@@ -43247,7 +43245,7 @@ unicode = 0159;
 },
 {
 glyphname = rcommaaccent;
-lastChange = "2017-09-01 13:55:09 +0000";
+lastChange = "2017-11-09 18:38:18 +0000";
 layers = (
 {
 components = (
@@ -43260,7 +43258,7 @@ transform = "{1, 0, 0, 1, 130, 0}";
 }
 );
 layerId = "0A1AFE58-107D-4787-BDA0-D82FB635C3A6";
-width = 379;
+width = 378;
 },
 {
 components = (
