@@ -1,5 +1,5 @@
 {
-.appVersion = "1064";
+.appVersion = "1075";
 DisplayStrings = (
 "Aussenwirkung\012Blocksatz\012Cauda\012Durchschuss\012Einzelblatt\012F\U00E4hnchen\012Grundlinie\012Hurenkind\012Industrienorm\012Jungfrau\012Kopfzeile\012Linkssb\U00FCndig\012Monatsbl\U00E4tter\012Nachbreite\012HOberl\U00E4nge\012Paginierung\012Querstrich\012Rotunda\012Spationierung\012Typografie\012Unterl\U00E4nge\012Versalh\U00F6he\012Werkschrift\012X-h\U00F6he\012YCC\012Zeilenabstand",
 "n.n:on,n;n/ellipsis n\U00B7n/bullet n...\012nn-n/endash m/emdash n_n\012n/guilsinglleft non/guilsinglright n\U00ABn\U00BBn\012H#H^H*H|H//H/backslash H!HSH?HH\U00BFnSl!\U00A1nh?\012CH&HNM\012(H(h(p)[p[h{ho-oh}])\012/quoteleft H/quoteright Hnd/quoteright n.\012/quotedblleft H/quotedblright nd/quotedblright \012no, /quotesinglbase but/quoteleft \012no, /quotedblbase but/quotedblleft \012HH'H\"zozoozzc\012CHOZOOZM\012Hlhnnynoon\012njngnqypnq\012HHAHOVOOH \012A4HARGH2C 0DHB8\012HS$H0>0<0=0+0/minus 0~0-0%\0120124653807\012HOH0H1H2H3H\012H4H5H7H6H9H8\012no@no\012\012",
@@ -22365,7 +22365,7 @@ unicode = 0076;
 {
 color = 4;
 glyphname = w;
-lastChange = "2017-11-06 13:47:32 +0000";
+lastChange = "2017-11-17 10:42:33 +0000";
 layers = (
 {
 anchors = (
@@ -22574,6 +22574,9 @@ paths = (
 {
 closed = 1;
 nodes = (
+"291 0 LINE",
+"407 470 LINE",
+"384 470 LINE",
 "500 0 LINE",
 "617 0 LINE",
 "770 525 LINE",
@@ -22586,10 +22589,7 @@ nodes = (
 "243 55 LINE",
 "123 525 LINE",
 "21 525 LINE",
-"174 0 LINE",
-"291 0 LINE",
-"407 470 LINE",
-"384 470 LINE"
+"174 0 LINE"
 );
 }
 );
@@ -22601,7 +22601,7 @@ unicode = 0077;
 {
 color = 4;
 glyphname = x;
-lastChange = "2017-11-06 13:47:32 +0000";
+lastChange = "2017-11-17 10:42:39 +0000";
 layers = (
 {
 background = {
@@ -22841,19 +22841,6 @@ paths = (
 {
 closed = 1;
 nodes = (
-"281 251 LINE",
-"309 251 LINE",
-"492 525 LINE",
-"382 525 LINE",
-"228 282 LINE",
-"200 282 LINE",
-"11 0 LINE",
-"121 0 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
 "494 0 LINE",
 "305 282 LINE",
 "277 282 LINE",
@@ -22862,6 +22849,19 @@ nodes = (
 "196 251 LINE",
 "224 251 LINE",
 "384 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"121 0 LINE",
+"281 251 LINE",
+"309 251 LINE",
+"492 525 LINE",
+"382 525 LINE",
+"228 282 LINE",
+"200 282 LINE",
+"11 0 LINE"
 );
 }
 );

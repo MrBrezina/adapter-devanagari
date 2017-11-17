@@ -1,5 +1,5 @@
 {
-.appVersion = "1057";
+.appVersion = "1075";
 DisplayStrings = (
 "Hnwnovoony/y.001 nxn\012HHXHOXOOHYH\012PRK\012n.n:n;n,n\U00B7n/bullet n/ellipsis n\012n-n/endash n/emdash n_n~n\012n/guilsinglleft non/guilsinglright n\U00ABn\U00BBn\012H#H^H*H/.notdef H|H\U00A6H//H/backslash H!HSH?HH\U00BFnSl!H\U00A1nh?H@H\012CH&HNM\012BPR\012h(h[{ho-oh}])(p)\012{H}\012JOZEF\012HheAVH\012HMHWH\012HXHKH\012DMAKBTF",
 "I/Iogonek/idotless i/idotlessogonek/jdotless j /ogonekcomb \012nngnofoon\012Hnnohzrny\012HHJ/J.alt HO/J.alt OOH/J.alt K \012A4HARGH2C 0DHB8\U00B0C%\012H0>0<0/lessequal 0/greaterequal 0=0/notequal 0+0\U00D70\U00F70.\U00B10/minus 0~0/approxequal 0-0%/perthousand O\012HS$0124653807\012HOH0H1H2H3H\012H4H5H7H6H9H8\012\U00B9\U00B2\U00B3/foursuperior \U00B91234\012H\U00B9H\U00B2H\U00B3H/foursuperior H4\012HE/Iogonek/Uogonek L/Lcaron ldt,/lcaron  /caroncomb.calt  /dcaron/tcaron kd\U00F0o\012ve/lcaron kr\U00FD/Lcaron AV\U00DDChl/hcircumflex/lacute \U00C1H\U00D8HOH/Eng/Germandbls/Schwa \012i\U00EBa/a.ss01 d\U00E6en/eng d/dcroat h/hbar \U00FEb\U00F8o/y.001 nyvn\U00DFn\012/Ecaron \U00CA/Ebreve/Edotaccent \U00CB\U00C9\U00E1\U00C8/Emacron \U00C5/Ecaron \U00C3/Uhungarumlaut   /gravecomb   /acutecomb   /gravecomb.case   /acutecomb.case   /caroncomb   /caroncomb.case    /circumflexcomb.case   /circumflexcomb   i\U00F6\U00E4 /dotaccentcomb   /dieresiscomb.case    /dotaccentcomb.case   /dieresiscomb   /macroncomb   /macroncomb.case   /tildecomb   /tildecomb.case   /brevecomb   /brevecomb.case   /ringcomb   /ringcomb.case   /hungarumlautcomb   /hungarumlautcomb.case   /ogonekcomb  \U00E7 /cedillacomb  /cedillacomb.case  /commaaccent  /commaaccentturnedabovecomb  /caroncomb.calt  /tcaron \012/gcommaaccent \U00F1/kcommaaccent/lcommaaccent/uhungarumlaut/Ohungarumlaut \U00E4\U00EBe/oe/eogonek  Hh/ecaron vp\U00E1\U00E9\U00E5\U00EAi/amacron \U00E4/imacron/abreve \U00F1/ccaron/uring \U00E5t/tbar  \012$/euro/liraTurkish/ruble \U00A5/rupeeIndian \U00A3\012H$H/euro H\U00A2H\U00A3H\U00A5H\U00A4H/liraTurkish H/ruble H/rupeeIndian H\012/quoteleftreversed H/quoteright \012/quoteleft H/quoteright ,nd/quoteright \012/quotedblleft H/quotedblright nd/quotedblright \012no, /quotesinglbase but/quoteleft \012no, /quotedblbase but/quotedblleft \012n/apostrophemodifier n/quoteright \012HH'H\"H/quoteright \012H/minute H/second H\012/f_i n/idotless/dotaccentcomb iko\012flanka\012/f_l anka\012offern\012o/f_f ern\012/f_f_l akn\012/f_f_i nkof/idotless i\012HH/arrowdown H/arrowup H/arrowright H/arrowleft H\012H/product H/summation H/Delta H/Omega HOH/literSign H/partialdiff Ho/lozenge H/radical H/integral H/.notdef H/estimated H\U00B6H\U00A7HO\U00A9H\U00AEH/trademark H\U00AAH\U00BAHo/fraction \012nn/infinity n/mu n/pi n/dotoperator n/bulletoperator nn\U00ACn-"
@@ -606,21 +606,7 @@ c.gravecomb.case
 );
 date = "2017-08-07 19:41:29 +0000";
 designer = "William Montrose, Slava Jevcinova";
-familyName = "Universal Text A Italic";
-features = (
-{
-code = "sub y by y.001;";
-name = ss01;
-},
-{
-code = "sub J by J.alt;";
-name = ss02;
-},
-{
-code = "sub K by K.alt;";
-name = ss04;
-}
-);
+familyName = "Universal Text";
 fontMaster = (
 {
 alignmentZones = (
@@ -67052,7 +67038,7 @@ interpolationWeight = 55;
 instanceInterpolations = {
 "CC363ACD-D5A5-4E19-A940-9AF36D109D9E" = 1;
 };
-name = Light;
+name = "Light Italic";
 },
 {
 interpolationWeight = 80;
@@ -67060,7 +67046,7 @@ instanceInterpolations = {
 "C76CAC8E-7AD6-478C-8F7E-02FEF6F1EA84" = 0.29412;
 "CC363ACD-D5A5-4E19-A940-9AF36D109D9E" = 0.70588;
 };
-name = Regular;
+name = "Regular Italic";
 },
 {
 interpolationWeight = 110;
@@ -67068,7 +67054,7 @@ instanceInterpolations = {
 "C76CAC8E-7AD6-478C-8F7E-02FEF6F1EA84" = 0.64706;
 "CC363ACD-D5A5-4E19-A940-9AF36D109D9E" = 0.35294;
 };
-name = Medium;
+name = "Medium Italic";
 weightClass = Medium;
 },
 {
@@ -67076,7 +67062,7 @@ interpolationWeight = 140;
 instanceInterpolations = {
 "C76CAC8E-7AD6-478C-8F7E-02FEF6F1EA84" = 1;
 };
-name = SemiBold;
+name = "SemiBold Italic";
 weightClass = SemiBold;
 },
 {
@@ -67085,7 +67071,7 @@ instanceInterpolations = {
 "C1DA716A-5F29-4CD0-A38F-CCADF5849A80" = 0.46154;
 "C76CAC8E-7AD6-478C-8F7E-02FEF6F1EA84" = 0.53846;
 };
-name = Bold;
+name = "Bold Italic";
 weightClass = Bold;
 },
 {
@@ -67093,7 +67079,7 @@ interpolationWeight = 205;
 instanceInterpolations = {
 "C1DA716A-5F29-4CD0-A38F-CCADF5849A80" = 1;
 };
-name = ExtraBold;
+name = "ExtraBold Italic";
 weightClass = ExtraBold;
 }
 );

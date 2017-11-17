@@ -1,5 +1,5 @@
 {
-.appVersion = "1064";
+.appVersion = "1075";
 DisplayStrings = (
 "CcGJ/J.alt QS   a/acutecomb \U00E1cefg/jdotless jrstyf/f_f/f_i/f_f_i/f_f_l t/tbar/jdotless/eng \U00DF/Eng/Germandbls/Schwa \U00F0a\U00AA\U00E6/oe e/c.be/c.be.SRB/c.el/c.lje/c.El/c.Lje/c.U/c.dje/c.Dje/c.Ze/c.E C/c.IeUkr c/c.ieUkr/c.e/c.ze s/c.ghe.BGR/c.ze.BGR/mu/pi/integral/partialdiff \U00A7\U00A9/hryvnia/liraTurkish $C/euro \U00A2c\U00A3?@{/Iogonek/Uogonek/Lslash/estimated/literSign/arrowup/arrowdown/arrowleft/arrowright ,/quoteright ~/approxequal e/eogonek/idotlessogonek  /ogonekcomb   /ogonekcomb.case   /cedillacomb    /tildecomb   /tildecomb.case   /caroncomb.calt   /commaaccentturnedabovecomb \012\U00B2\U00B323569\012CGJSsaceg\012OBJEV\012Hnnopka no\012nnznozoon/idotless/jdotless \012HHZHOZOOH\012FIGHTC\012OHVINA\012MUZEUM\012WHOM\012H\U00C6H/AEacute H\U00D0H/Dcroat \012H/Hbar H\U00DEHPH/Tbar H/Eng HgJO/OE H\U00D8HOH/Oslashacute H/Schwa HOH/Germandbls H3J\012STRA/Germandbls E/Eng \012HLH/Lslash HH/Uogonek H\012nn/schwa nen/oe n/tbar ontn/eogonek nen\U00F8non/oslashacute n/eng n/jdotless l/lslash ld\U00DFibnnfn\U00F0ndo./apostrophemodifier \012rock /napostrophe \012no/ldot lno/periodcentered.CAT   /periodcentered.CAT.case \012HO/Ldot LHO\012zd/lslash noty\012stra\U00DFero\012straer\012/f_i nko\012flanka\012/f_l anka\012offern\012o/f_f ern\012/f_f_l akn\012/f_f_i nkof/idotless i",
 "nngnofoon\012Hnnohzrny\012HH/J.alt HO/J.alt OOH/J.alt K/K.alt  \012A4HARGH2C 0DHB8\U00B0C%\012H0>0<0/lessequal 0/greaterequal =0/notequal 0+0\U00D70\U00F70\U00B10/minus 0~0/approxequal 0-0%/perthousand HH/dagger H/daggerdbl HT\012$/euro/liraTurkish/ruble \U00A5/rupeeIndian \U00A3\012H$H/hryvnia H/euro H\U00A2H\U00A3H\U00A5H\U00A4H/liraTurkish H/ruble H/rupeeIndian H\012H0124653807\012HOH0H1H2H3H\012H4H5H7H6H9H8\U00B9\U00B2\U00B3/foursuperior \U00B91234\012H\U00B9H\U00B2H\U00B3H/foursuperior H4\012HE/Iogonek/Uogonek L/Lcaron ldt/lcaron  /caroncomb.calt  /dcaron/tcaron \012ve/lcaron kr\U00FD/Lcaron AV\U00DDChl/hcircumflex/lacute \U00C1\012i\U00EBa/a.ss01 n\U00E6n/dcroat/amacron/hbar \U00FEb\012/Ecaron \U00CA/Ebreve/Edotaccent \U00CB\U00C9\U00C8/Emacron \U00C5/Ecaron \U00C3/Uhungarumlaut   /gravecomb  /acutecomb   /gravecomb.case   /acutecomb.case   /caroncomb   /caroncomb.case   /circumflexcomb.case   /circumflexcomb   /dotaccentcomb   /dieresiscomb.case   /dotaccentcomb.case   /dieresiscomb   /macroncomb   /macroncomb.case   /tildecomb   /tildecomb.case   /brevecomb   /brevecomb.case   /ringcomb   /ringcomb.case   /hungarumlautcomb   /hungarumlautcomb.case   /ogonekcomb  /cedillacomb    /commaaccentturnedabovecomb \012/gcommaaccent \U00F1/kcommaaccent/lcommaaccent/uhungarumlaut/aogonek \U00E0\U00E7\U00E4\U00EB Hh/ecaron vp\U00E1\U00E9\U00E5\U00EAi/amacron \U00E4/imacron/abreve \U00F1/ccaron/uring \U00E5 \012HIllinois, \012Hlbdfhklta\012Hlgjpqy\012/quoteleft H/quoteright nd/quoteright \012/quotedblleft H/quotedblright nd/quotedblright \012no, /quotesinglbase but/quoteleft \012no, /quoteleftreversed but/quoteright \012no, /quotedblbase but/quotedblleft \012HH'H\"H/quoteright \012H/minute H/second H\012nn\U00ACn-l\012J/J.alt HXHx\012H/K.alt HRHKH \012HH/arrowdown H/arrowup H/arrowright H/arrowleft H \012H/product H/summation H/Delta H/Omega HOH/literSign H/partialdiff H/lozenge H/radical H/integral H/.notdef H/estimated H\U00B6HP\U00A7HO\U00A9H\U00AEH/trademark H\U00AAH\U00BAH/fraction \012nn/infinity n/mu n/pi n/dotoperator n/bulletoperator n",
@@ -609,23 +609,9 @@ c.gravecomb.case
 );
 }
 );
-date = "2017-08-07 19:41:29 +0000";
+date = "2017-11-16 16:59:29 +0000";
 designer = "William Montrose, Slava Jevcinova";
-familyName = "Universal Text B";
-features = (
-{
-code = "sub y by y.001;";
-name = ss01;
-},
-{
-code = "sub J by J.alt;";
-name = ss02;
-},
-{
-code = "sub K by K.alt;";
-name = ss04;
-}
-);
+familyName = "Universal Text";
 fontMaster = (
 {
 alignmentZones = (

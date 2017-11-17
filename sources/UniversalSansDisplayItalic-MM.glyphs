@@ -1,5 +1,5 @@
 {
-.appVersion = "1064";
+.appVersion = "1075";
 DisplayStrings = (
 "HHAHOOAOH\012nnsnoaon\012/dotaccentcomb n.n:n,n;\012n-n_n~n\012H!H?H\U00BFH\U00A1H'H\"H^H|H#H\012H(H)H[H]H{H}H/backslash H//H\012H+H/minus H=H<H>H\012H0H1H2H3H4H5H6H7H8H9H%H",
 "\U00C0\U00C1\U00C2\U00C3/Amacron/Abreve \U00C4\U00C5/Aogonek/Aringacute \U00C6/AEacute C/Cacute/Ccircumflex/Cdotaccent/Ccaron \U00C7D/Dcaron/Dcroat E\U00CA\U00C8\U00C9\U00CA/Emacron/Ebreve/Edotaccent \U00CB/Ecaron/Eogonek G/Gcircumflex/Gbreve/Gdotaccent/Gcommaaccent H/Hcircumflex/Hbar I\U00CC\U00CD\U00CE/Itilde/Imacron/Ibreve/Idotaccent \U00CF/Iogonek/IJ/Iacute_J.NLD/Jacute J/Jcircumflex/commaaccent K/Kcommaaccent L/Lacute/Lcommaaccent/Lcaron/Ldot/Lslash N/Nacute \U00D1/Ncaron/Eng/Ncommaaccent O\U00D2\U00D3\U00D4\U00D5/Omacron/Obreve \U00D6/Ohungarumlaut \U00D8/Oslashacute/OE R/Racute/Rcaron/Rcommaaccent S/Sacute/Scircumflex/Scaron/Scommaaccent/Scedilla/Germandbls T/Tcaron/Tcommaaccent/Tcedilla/Tbar U\U00D9\U00DA\U00DB/Utilde/Umacron/Ubreve \U00DC/Uring/Uhungarumlaut \U00C1/Uogonek W/Wgrave/Wacute/Wcircumflex/Wdieresis Y/Ygrave \U00DD/Ycircumflex/Ydieresis Z/Zacute/Zdotaccent/Zcaron \U00D0\U00DE/Schwa",
@@ -74583,10 +74583,10 @@ name = "Light Italic";
 weightClass = Light;
 },
 {
-interpolationWeight = 72;
+interpolationWeight = 80;
 instanceInterpolations = {
-"161FAF72-C4C5-4DCB-BDD5-17E2433CDCDE" = 0.65854;
-"C0254B35-3FF0-4514-8990-BC8C3A6FFAB6" = 0.34146;
+"161FAF72-C4C5-4DCB-BDD5-17E2433CDCDE" = 0.75610;
+"C0254B35-3FF0-4514-8990-BC8C3A6FFAB6" = 0.24390;
 };
 isItalic = 1;
 name = Italic;
