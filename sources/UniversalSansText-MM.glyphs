@@ -1097,10 +1097,6 @@ features = (
 {
 code = "sub J by J.case;\012";
 name = ss01;
-},
-{
-code = "sub zeta by zeta.alt;\012sub xi by xi.alt;\012sub sigmafinal by sigmafinal.alt;";
-name = ss02;
 }
 );
 fontMaster = (
