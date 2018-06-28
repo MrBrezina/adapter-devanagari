@@ -47915,7 +47915,7 @@ unicode = 0150;
 {
 color = 7;
 glyphname = Oslash;
-lastChange = "2018-06-09 08:39:54 +0000";
+lastChange = "2018-06-28 14:53:56 +0000";
 layers = (
 {
 anchors = (
@@ -48030,8 +48030,8 @@ closed = 1;
 nodes = (
 "156 115 LINE",
 "52 -70 LINE",
-"242 -70 LINE",
-"300 33 LINE"
+"232 -70 LINE",
+"290 33 LINE"
 );
 },
 {
@@ -48039,8 +48039,8 @@ closed = 1;
 nodes = (
 "610 588 LINE",
 "706 760 LINE",
-"516 760 LINE",
-"463 664 LINE"
+"526 760 LINE",
+"473 664 LINE"
 );
 },
 {
@@ -61886,7 +61886,7 @@ unicode = 0151;
 {
 color = 7;
 glyphname = oslash;
-lastChange = "2018-06-09 09:42:46 +0000";
+lastChange = "2018-06-28 14:26:36 +0000";
 layers = (
 {
 anchors = (
@@ -61983,8 +61983,8 @@ closed = 1;
 nodes = (
 "137 84 LINE",
 "55 -70 LINE",
-"216 -70 LINE",
-"268 26 LINE"
+"206 -70 LINE",
+"258 26 LINE"
 );
 },
 {
@@ -61992,8 +61992,8 @@ closed = 1;
 nodes = (
 "497 453 LINE",
 "579 605 LINE",
-"418 605 LINE",
-"371 518 LINE"
+"428 605 LINE",
+"381 518 LINE"
 );
 },
 {
