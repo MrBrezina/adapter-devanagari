@@ -6,7 +6,8 @@ DisplayStrings = (
 "Á/Abreve/Abreveacute/Abrevegrave/Abrevehookabove/Abrevetilde Ã\012/brevecomb.case   /breveacutecomb.case   /brevegravecomb.case   /brevetildecomb.case   /brevehookabovecomb.case   /tildecomb.case \012á/abreveacute/acircumflexacute/abrevegrave/abreve/ahookabove/abrevehookabove/abrevetilde ã \012/brevecomb   /breveacutecomb    /brevegravecomb    /brevetildecomb    /brevehookabovecomb   /tildecomb  /ccaron \012/acutecomb.case Á/Acircumflexacute/Acircumflexgrave/Acircumflexhookabove/Acircumflextilde Â/Ecircumflexacute/Ecircumflextilde É\012/circumflexcomb.case   /circumflexacutecomb.case    /circumflexgravecomb.case    /circumflexhookabovecomb.case    /circumflextildecomb.case \012/acutecomb áa/ahookabove/acircumflexacute/acircumflexgrave â/acircumflexhookabove/acircumflextilde  \012 /circumflexcomb    /circumflexacutecomb     /circumflexgravecomb    /circumflextildecomb    /circumflexhookabovecomb \012  /hookabovecomb  /ahookabove å/ccaron/abreve  /ringcomb  /Ahookabove/Abreve Å /hookabovecomb.case \012U/Uhorn/Uhornacute/Uhorndotbelow/Uhorngrave/Uhornhookabove/Uhorntilde/Udotbelow/Uhookabove Y/Ydotbelow/Yhookabove/Ytilde/Idotbelow/Ihookabove E/Edotbelow/Ecircumflexacute/Ecircumflexdotbelow/Ecircumflexgrave/Ecircumflexhookabove/Ecircumflextilde/Ehookabove/Etilde/Adotbelow/Abreveacute/Abrevedotbelow/Abrevegrave/Abrevehookabove/Abrevetilde/Acircumflexacute/Acircumflexdotbelow/Acircumflexgrave/Acircumflexhookabove/Acircumflextilde/Ahookabove/Odotbelow/Ocircumflexacute/Ocircumflexdotbelow/Ocircumflexgrave/Ocircumflexhookabove/Ocircumflextilde/Ohookabove/Ohorn/Ohornacute/Ohorndotbelow/Ohorngrave/Ohornhookabove/Ohorntilde \012n/uhorn nn/uhornacute/uhorndotbelow/uhorngrave/uhornhookabove/uhorntilde ùúû/utilde/umacron/ubreve ü/uring/uhungarumlaut/udotbelow/uhookabove a/abreveacute/abrevedotbelow/abrevegrave/abrevehookabove/abrevetilde/acircumflexacute/acircumflexdotbelow/acircumflexgrave/acircumflexhookabove/acircumflextilde/ecircumflexacute/ecircumflexgrave/ecircumflexhookabove/ecircumflextilde/ocircumflexacute/ocircumflexgrave/ocircumflexhookabove/ocircumflextilde n/uhorn/ohorn/uhorntilde noc /horncomb   /horncomb.case \012OH/Ohorn H/Ohorntilde Hnn/ohorntilde no/ohornhookabove HH/Ohorn HO/Ohorn OOH/Uhorn H\012/dotbelowcomb    . /dotaccentcomb  i/idotbelow/ihookabove \012/ydotbelow p/yhookabove/ytilde o/odotbelow i/ocircumflexacute/ocircumflexdotbelow/ocircumflexgrave/ocircumflexhookabove/ocircumflextilde/ohookabove/ohorn/ohornacute/ohorndotbelow/ohorngrave/ohornhookabove/ohorntilde e/edotbelow/ecircumflexacute/ecircumflexdotbelow/ecircumflexgrave/ecircumflexhookabove/ecircumflextilde/ehookabove/etilde a/adotbelow/abreveacute/abrevedotbelow/abrevegrave/abrevehookabove/abrevetilde/acircumflexacute/acircumflexdotbelow/acircumflexgrave/acircumflexhookabove/acircumflextilde/ahookabove \012nn/ohorn no/ohorn oon/uhorn n\012/Ohorn/ohorn/Uhorn/uhorn",
 "HH/numero HO/numero OOHH\012BP/c.Soft/c.Yat/c.Be/c.Hard/c.Yeru/c.El/c.Lje/c.Nje T\012OLHH/c.Pe/c.Dzhe/c.Tse/c.Sha/c.Shcha \012/c.Pe/c.I H/c.El/c.Tse/c.En/c.El HH/c.De/c.de H\012/c.Pe/c.El/c.Pe ESC/c.IeUkr/c.E H/c.Ze H\012HHB/c.Ze HO/c.Ze OOH\012H/c.Tse H/c.Enspike/c.Che/c.Chespike K/c.Kaspike/c.KaBashkir X/c.Haspike/c.Zhespike/c.Hard/c.Che/c.Tshe/c.Dje/c.Be/c.Yat \012H/c.Ghebar H/c.Ghe H/c.GheUkr H/c.Ustraightbar HY/c.Fita/c.Obar O/c.Yu O/c.De.BGR/c.Izhitsa \012KH/c.Zhe H/c.Zhespike H\012/acutecomb.case  Ú /c.acutecomb.case  /c.Ghe/c.Gje K/c.Ka/c.Kje  /c.gravecomb.case  /c.I/c.Igrave  /c.brevecomb.case  /c.Ishort  /brevecomb.case/Abreve/c.Yushort/c.Umacron/c.Udblacute \012/c.En H/c.U/c.En YH/c.El H\012HHo\012TH/c.Che H/c.Tshe H/c.Dje H/c.El JHh/numero \012/c.de/c.en/c.enspike/c.chespike/c.che/c.kaspike/c.ka/c.kaBashkir/c.haspike x/c.ustraightbar/gamma/c.ustraight/c.ghebar/tbar/hbar/c.zhe/c.zhe.BGR/c.zhespike o/c.yu/c.yu.BGR \012/c.em n/c.i/c.en/c.pe/c.dzhe/c.tse/c.sha/c.shcha \012/c.ghe/c.gje/c.de/c.ve.BGR/c.be/c.be.SRB o/c.dje/c.tse.BGR/c.shcha.BGR/c.che \012/c.ya/c.soft/c.ve/c.soft.BGR/c.yat/c.hard/c.yeru/c.nje/c.lje o/c.obar/c.ef/c.izhitsa/c.soft.BGR/c.hard.BGR/c.en/c.el \012/c.en/c.en/c.be/c.en/c.be.SRB/c.en o/c.be.SRB oo/c.en \012/c.hookcomb   /c.hookcomb.case  /quotesinglbase  /c.zehook/c.eshook/c.tse/c.Tse/c.Zehook/c.Eshook C\012/c.en a/c.ze nscae/c.ieUkr/c.e/c.ze/c.ze.BGR/c.ve \012asce/c.ze cnojk/kgreenlandic/Tbar \012 /c.ze/quoteright.alt  /c.ze/c.gje/c.ka/c.kje \012/acutecomb  á /c.acutecomb   /c.gravecomb  /gravecomb  à/c.iegrave/c.igrave  /brevecomb  /ubreve/c.i/c.ishort/c.abreve/c.iebreve  /c.brevecomb  ",
 "/Alpha/Beta/c.Ghe/Gamma/Epsilon/Zeta/Eta/Theta/Iota/Kappa/Lambda/Mu/Nu/Xi O/Omicron/Pi/Rho/Sigma T/Tau/Upsilon/Chi/Psi/Omega H/Phi H/summation TZA\012HH/Phi HO/Phi OOOH\012/c.ze/epsilon/delta/theta/beta/eta/kappa/lambda/gamma/nu/chi/rho o/sigma/omega/zeta/xi/sigmafinal \012/tau/iota/pi/alpha/mu \012c/eta o/eta/xi/eta o/xi oo/eta \012o/phi o/psi ozy\012o/omega/c.ze/epsilon o/alpha \012/acutecomb  á /tonoscomb  /etatonos n/iotadieresistonos n /dieresistonoscomb   /dieresiscomb   /dieresiscomb.narrow \012/iota/iotatonos/iotadieresis n/iotadieresistonos n/upsilon/upsilontonos/upsilondieresis/upsilondieresistonos/omicrontonos/omegatonos/alphatonos/epsilontonos/etatonos \012/tonoscomb.case \012/Alphatonos HOH/Alpha \012/Epsilontonos HOH/Epsilon \012/Etatonos HOH/Eta \012/Iotatonos HOH/Iota \012/Omicrontonos HOH/Omicron \012/Upsilontonos HOH/Upsilon \012/Omegatonos HOH/Omega",
-"ABCDEFGHIJKLMNOPQRSTUVWXYZ\012HHSHOSOOH\012TOKYOPBRK\012abcdefghijklmnopqrstuvwyxz\012nnxnoxoon\012nonanensncn\012ftg/jdotless jmnpobdqgk\012Hhnonoso/idotless/dotaccentcomb i.\012\012Tradi/ccaron né severské obydlia ponúkajú nielen útulný exteriér a rozsiahle okná/comma.alt  ale tie/zcaron  strechy/comma.alt  v/dcaron aka /ccaron omu perfektne zapadnú do okolia krajiny. Ktoré sú najkraj/scaron ie?"
+"ABCDEFGHIJKLMNOPQRSTUVWXYZ\012HHSHOSOOH\012TOKYOPBRK\012abcdefghijklmnopqrstuvwyxz\012nnxnoxoon\012nonanensncn\012ftg/jdotless jmnpobdqgk\012Hhnonoso/idotless/dotaccentcomb i.\012\012Tradi/ccaron né severské obydlia ponúkajú nielen útulný exteriér a rozsiahle okná/comma.alt  ale tie/zcaron  strechy/comma.alt  v/dcaron aka /ccaron omu perfektne zapadnú do okolia krajiny. Ktoré sú najkraj/scaron ie?",
+"\""
 );
 copyright = "Copyright © 2017 by William Montrose, Slava Jevcinova. All rights reserved.";
 customParameters = (
@@ -4667,7 +4668,7 @@ source = M;
 {
 color = 7;
 glyphname = N;
-lastChange = "2018-06-08 22:06:24 +0000";
+lastChange = "2018-06-28 15:22:39 +0000";
 layers = (
 {
 anchors = (
@@ -4706,10 +4707,6 @@ paths = (
 {
 closed = 1;
 nodes = (
-"502 329 LINE",
-"233 690 LINE",
-"48 690 LINE",
-"48 0 LINE",
 "233 0 LINE",
 "233 363 LINE",
 "234 363 LINE",
@@ -4717,7 +4714,11 @@ nodes = (
 "688 0 LINE",
 "688 690 LINE",
 "503 690 LINE",
-"503 329 LINE"
+"503 329 LINE",
+"502 329 LINE",
+"233 690 LINE",
+"48 690 LINE",
+"48 0 LINE"
 );
 }
 );
@@ -104324,7 +104325,7 @@ unicode = 03C0;
 {
 color = 7;
 glyphname = rho;
-lastChange = "2018-06-16 15:20:43 +0000";
+lastChange = "2018-06-29 10:26:34 +0000";
 layers = (
 {
 background = {
@@ -104386,8 +104387,8 @@ nodes = (
 "594 441 OFFCURVE",
 "503 550 OFFCURVE",
 "312 550 CURVE SMOOTH",
-"148 550 OFFCURVE",
-"35 452 OFFCURVE",
+"138 550 OFFCURVE",
+"35 459 OFFCURVE",
 "35 238 CURVE SMOOTH",
 "35 -185 LINE"
 );
@@ -104556,7 +104557,7 @@ nodes = (
 "509 87 OFFCURVE",
 "509 257 CURVE SMOOTH",
 "509 428 OFFCURVE",
-"432 530 OFFCURVE",
+"435 530 OFFCURVE",
 "294 530 CURVE SMOOTH",
 "159 530 OFFCURVE",
 "80 433 OFFCURVE",
@@ -104573,7 +104574,7 @@ nodes = (
 "100 423 OFFCURVE",
 "169 511 OFFCURVE",
 "294 511 CURVE SMOOTH",
-"420 511 OFFCURVE",
+"423 511 OFFCURVE",
 "489 418 OFFCURVE",
 "489 257 CURVE SMOOTH",
 "489 97 OFFCURVE",
