@@ -2166,7 +2166,7 @@ source = B;
 {
 color = 9;
 glyphname = C;
-lastChange = "2018-07-13 14:14:58 +0000";
+lastChange = "2018-08-04 13:32:58 +0000";
 layers = (
 {
 anchors = (
@@ -4487,9 +4487,9 @@ source = L;
 };
 },
 {
-color = 1;
+color = 9;
 glyphname = M;
-lastChange = "2018-07-13 14:14:58 +0000";
+lastChange = "2018-08-04 13:30:18 +0000";
 layers = (
 {
 background = {
@@ -7611,7 +7611,7 @@ source = X;
 {
 color = 9;
 glyphname = Y;
-lastChange = "2018-07-13 14:14:58 +0000";
+lastChange = "2018-08-04 13:37:11 +0000";
 layers = (
 {
 anchors = (
@@ -103454,13 +103454,21 @@ unicode = 0398;
 },
 {
 glyphname = Iota;
-lastChange = "2018-07-19 09:19:41 +0000";
+lastChange = "2018-08-04 13:37:00 +0000";
 layers = (
 {
 anchors = (
 {
+name = bottom;
+position = "{65, 0}";
+},
+{
 name = left;
 position = "{0, 690}";
+},
+{
+name = top;
+position = "{187, 690}";
 }
 );
 components = (
@@ -103474,8 +103482,16 @@ width = 221;
 {
 anchors = (
 {
+name = bottom;
+position = "{111, 0}";
+},
+{
 name = left;
 position = "{20, 690}";
+},
+{
+name = top;
+position = "{233, 690}";
 }
 );
 components = (
@@ -103489,8 +103505,16 @@ width = 317;
 {
 anchors = (
 {
+name = bottom;
+position = "{87, 0}";
+},
+{
 name = left;
 position = "{5, 690}";
+},
+{
+name = top;
+position = "{207, 690}";
 }
 );
 components = (
@@ -104219,13 +104243,21 @@ unicode = 03A4;
 },
 {
 glyphname = Upsilon;
-lastChange = "2018-07-23 10:37:42 +0000";
+lastChange = "2018-08-04 13:37:19 +0000";
 layers = (
 {
 anchors = (
 {
+name = bottom;
+position = "{232, 0}";
+},
+{
 name = left;
 position = "{-20, 690}";
+},
+{
+name = top;
+position = "{346, 690}";
 }
 );
 components = (
@@ -104239,8 +104271,16 @@ width = 549;
 {
 anchors = (
 {
+name = bottom;
+position = "{306, 0}";
+},
+{
 name = left;
 position = "{-15, 690}";
+},
+{
+name = top;
+position = "{415, 690}";
 }
 );
 components = (
@@ -104254,8 +104294,16 @@ width = 700;
 {
 anchors = (
 {
+name = bottom;
+position = "{261, 0}";
+},
+{
 name = left;
 position = "{-26, 690}";
+},
+{
+name = top;
+position = "{371, 690}";
 }
 );
 components = (
@@ -109079,9 +109127,19 @@ unicode = 03BE;
 },
 {
 glyphname = omicron;
-lastChange = "2018-07-18 21:04:21 +0000";
+lastChange = "2018-08-04 13:37:35 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{226, 0}";
+},
+{
+name = top;
+position = "{307, 515}";
+}
+);
 components = (
 {
 name = o;
@@ -109091,6 +109149,16 @@ layerId = "CC363ACD-D5A5-4E19-A940-9AF36D109D9E";
 width = 532;
 },
 {
+anchors = (
+{
+name = bottom;
+position = "{265, 0}";
+},
+{
+name = top;
+position = "{341, 535}";
+}
+);
 components = (
 {
 name = o;
@@ -109100,6 +109168,16 @@ layerId = "C1DA716A-5F29-4CD0-A38F-CCADF5849A80";
 width = 605;
 },
 {
+anchors = (
+{
+name = bottom;
+position = "{246, 0}";
+},
+{
+name = top;
+position = "{324, 528}";
+}
+);
 components = (
 {
 name = o;
@@ -113040,7 +113118,7 @@ unicode = 0375;
 },
 {
 glyphname = c.A;
-lastChange = "2018-07-13 14:14:58 +0000";
+lastChange = "2018-08-04 13:32:02 +0000";
 layers = (
 {
 anchors = (
@@ -113080,6 +113158,16 @@ name = "new Layer";
 width = 660;
 },
 {
+anchors = (
+{
+name = bottom;
+position = "{256, 0}";
+},
+{
+name = top;
+position = "{364, 690}";
+}
+);
 components = (
 {
 name = A;
@@ -113089,6 +113177,16 @@ layerId = "CC363ACD-D5A5-4E19-A940-9AF36D109D9E";
 width = 581;
 },
 {
+anchors = (
+{
+name = bottom;
+position = "{349, 0}";
+},
+{
+name = top;
+position = "{449, 690}";
+}
+);
 components = (
 {
 name = A;
@@ -113117,6 +113215,16 @@ name = "new Layer";
 width = 660;
 },
 {
+anchors = (
+{
+name = bottom;
+position = "{296, 0}";
+},
+{
+name = top;
+position = "{389, 690}";
+}
+);
 components = (
 {
 name = A;
@@ -115541,7 +115649,7 @@ rightMetricsKey = c.De;
 },
 {
 glyphname = c.Ie;
-lastChange = "2018-07-13 14:14:58 +0000";
+lastChange = "2018-08-04 13:32:18 +0000";
 layers = (
 {
 anchors = (
@@ -115589,6 +115697,16 @@ name = "new Layer";
 width = 670;
 },
 {
+anchors = (
+{
+name = bottom;
+position = "{270, 0}";
+},
+{
+name = top;
+position = "{377, 690}";
+}
+);
 components = (
 {
 name = E;
@@ -115598,6 +115716,16 @@ layerId = "CC363ACD-D5A5-4E19-A940-9AF36D109D9E";
 width = 561;
 },
 {
+anchors = (
+{
+name = bottom;
+position = "{280, 0}";
+},
+{
+name = top;
+position = "{384, 690}";
+}
+);
 components = (
 {
 name = E;
@@ -115630,6 +115758,16 @@ name = "new Layer";
 width = 670;
 },
 {
+anchors = (
+{
+name = bottom;
+position = "{281, 0}";
+},
+{
+name = top;
+position = "{383, 690}";
+}
+);
 components = (
 {
 name = E;
@@ -117694,7 +117832,7 @@ unicode = 040D;
 },
 {
 glyphname = c.Ka;
-lastChange = "2018-07-29 12:35:22 +0000";
+lastChange = "2018-08-04 13:32:35 +0000";
 layers = (
 {
 anchors = (
@@ -117879,6 +118017,16 @@ nodes = (
 width = 714;
 },
 {
+anchors = (
+{
+name = bottom;
+position = "{253, 0}";
+},
+{
+name = top;
+position = "{366, 690}";
+}
+);
 components = (
 {
 name = K;
@@ -117888,6 +118036,16 @@ layerId = "CC363ACD-D5A5-4E19-A940-9AF36D109D9E";
 width = 546;
 },
 {
+anchors = (
+{
+name = bottom;
+position = "{317, 0}";
+},
+{
+name = top;
+position = "{430, 690}";
+}
+);
 components = (
 {
 name = K;
@@ -118015,6 +118173,16 @@ nodes = (
 width = 667;
 },
 {
+anchors = (
+{
+name = bottom;
+position = "{282, 0}";
+},
+{
+name = top;
+position = "{390, 690}";
+}
+);
 components = (
 {
 name = K;
@@ -118952,7 +119120,7 @@ unicode = 041D;
 },
 {
 glyphname = c.O;
-lastChange = "2018-07-23 09:41:29 +0000";
+lastChange = "2018-08-04 13:32:53 +0000";
 layers = (
 {
 anchors = (
@@ -118992,6 +119160,16 @@ name = "new Layer";
 width = 792;
 },
 {
+anchors = (
+{
+name = bottom;
+position = "{311, 0}";
+},
+{
+name = top;
+position = "{406, 690}";
+}
+);
 components = (
 {
 name = O;
@@ -119001,6 +119179,16 @@ layerId = "CC363ACD-D5A5-4E19-A940-9AF36D109D9E";
 width = 682;
 },
 {
+anchors = (
+{
+name = bottom;
+position = "{346, 0}";
+},
+{
+name = top;
+position = "{419, 690}";
+}
+);
 color = -1;
 components = (
 {
@@ -119030,6 +119218,16 @@ name = "new Layer";
 width = 792;
 },
 {
+anchors = (
+{
+name = bottom;
+position = "{330, 0}";
+},
+{
+name = top;
+position = "{427, 690}";
+}
+);
 color = -1;
 components = (
 {
@@ -119428,7 +119626,7 @@ unicode = 0420;
 },
 {
 glyphname = c.Es;
-lastChange = "2018-07-13 14:14:58 +0000";
+lastChange = "2018-08-04 13:33:14 +0000";
 layers = (
 {
 anchors = (
@@ -119468,6 +119666,16 @@ name = "new Layer";
 width = 752;
 },
 {
+anchors = (
+{
+name = bottom;
+position = "{311, 0}";
+},
+{
+name = top;
+position = "{397, 690}";
+}
+);
 components = (
 {
 name = C;
@@ -119477,6 +119685,16 @@ layerId = "CC363ACD-D5A5-4E19-A940-9AF36D109D9E";
 width = 660;
 },
 {
+anchors = (
+{
+name = bottom;
+position = "{332, 0}";
+},
+{
+name = top;
+position = "{422, 690}";
+}
+);
 components = (
 {
 name = C;
@@ -119505,6 +119723,16 @@ name = "new Layer";
 width = 752;
 },
 {
+anchors = (
+{
+name = bottom;
+position = "{325, 0}";
+},
+{
+name = top;
+position = "{415, 690}";
+}
+);
 components = (
 {
 name = C;
@@ -125982,7 +126210,7 @@ public.markColor = "0.25,0.25,0.25,1";
 },
 {
 glyphname = c.Dze;
-lastChange = "2018-07-29 12:35:09 +0000";
+lastChange = "2018-08-04 13:33:35 +0000";
 layers = (
 {
 associatedMasterId = "CC363ACD-D5A5-4E19-A940-9AF36D109D9E";
@@ -126010,6 +126238,16 @@ name = "new Layer";
 width = 649;
 },
 {
+anchors = (
+{
+name = bottom;
+position = "{296, 0}";
+},
+{
+name = top;
+position = "{367, 690}";
+}
+);
 components = (
 {
 name = S;
@@ -126019,6 +126257,16 @@ layerId = "CC363ACD-D5A5-4E19-A940-9AF36D109D9E";
 width = 604;
 },
 {
+anchors = (
+{
+name = bottom;
+position = "{320, 0}";
+},
+{
+name = top;
+position = "{385, 690}";
+}
+);
 components = (
 {
 name = S;
@@ -126041,6 +126289,16 @@ name = "new Layer";
 width = 649;
 },
 {
+anchors = (
+{
+name = bottom;
+position = "{289, 0}";
+},
+{
+name = top;
+position = "{359, 690}";
+}
+);
 components = (
 {
 name = S;
@@ -126928,7 +127186,7 @@ public.markColor = "0.25,0.25,0.25,1";
 },
 {
 glyphname = c.IUkr;
-lastChange = "2018-07-23 09:35:27 +0000";
+lastChange = "2018-08-04 13:33:55 +0000";
 layers = (
 {
 associatedMasterId = "CC363ACD-D5A5-4E19-A940-9AF36D109D9E";
@@ -126956,6 +127214,16 @@ name = "new Layer";
 width = 300;
 },
 {
+anchors = (
+{
+name = bottom;
+position = "{65, 0}";
+},
+{
+name = top;
+position = "{187, 690}";
+}
+);
 components = (
 {
 name = I;
@@ -126965,6 +127233,16 @@ layerId = "CC363ACD-D5A5-4E19-A940-9AF36D109D9E";
 width = 221;
 },
 {
+anchors = (
+{
+name = bottom;
+position = "{111, 0}";
+},
+{
+name = top;
+position = "{233, 690}";
+}
+);
 components = (
 {
 name = I;
@@ -126987,6 +127265,16 @@ name = "new Layer";
 width = 300;
 },
 {
+anchors = (
+{
+name = bottom;
+position = "{87, 0}";
+},
+{
+name = top;
+position = "{207, 690}";
+}
+);
 components = (
 {
 name = I;
@@ -133166,7 +133454,7 @@ unicode = 04F2;
 },
 {
 glyphname = c.a;
-lastChange = "2018-08-01 13:52:20 +0000";
+lastChange = "2018-08-04 13:34:14 +0000";
 layers = (
 {
 anchors = (
@@ -133206,6 +133494,16 @@ name = "new Layer";
 width = 594;
 },
 {
+anchors = (
+{
+name = bottom;
+position = "{250, 0}";
+},
+{
+name = top;
+position = "{317, 515}";
+}
+);
 components = (
 {
 name = a;
@@ -133215,6 +133513,16 @@ layerId = "CC363ACD-D5A5-4E19-A940-9AF36D109D9E";
 width = 524;
 },
 {
+anchors = (
+{
+name = bottom;
+position = "{274, 0}";
+},
+{
+name = top;
+position = "{343, 535}";
+}
+);
 components = (
 {
 name = a;
@@ -133243,6 +133551,16 @@ name = "new Layer";
 width = 594;
 },
 {
+anchors = (
+{
+name = bottom;
+position = "{251, 0}";
+},
+{
+name = top;
+position = "{317, 528}";
+}
+);
 components = (
 {
 name = a;
@@ -137616,9 +137934,19 @@ rightKerningGroup = c.pe;
 },
 {
 glyphname = c.ie;
-lastChange = "2018-08-01 13:52:20 +0000";
+lastChange = "2018-08-04 13:34:32 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{249, 0}";
+},
+{
+name = top;
+position = "{311, 528}";
+}
+);
 components = (
 {
 name = e;
@@ -137672,6 +138000,16 @@ layerId = "D7887975-777F-4D7E-A2A2-5E834A6D1C21";
 width = 515;
 },
 {
+anchors = (
+{
+name = bottom;
+position = "{221, 0}";
+},
+{
+name = top;
+position = "{293, 515}";
+}
+);
 components = (
 {
 name = e;
@@ -137681,6 +138019,16 @@ layerId = "CC363ACD-D5A5-4E19-A940-9AF36D109D9E";
 width = 510;
 },
 {
+anchors = (
+{
+name = bottom;
+position = "{282, 0}";
+},
+{
+name = top;
+position = "{327, 535}";
+}
+);
 components = (
 {
 name = e;
@@ -142403,9 +142751,19 @@ public.markColor = "0.25,0.25,0.25,1";
 },
 {
 glyphname = c.o;
-lastChange = "2018-07-13 14:14:58 +0000";
+lastChange = "2018-08-04 13:34:50 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{246, 0}";
+},
+{
+name = top;
+position = "{324, 528}";
+}
+);
 components = (
 {
 name = o;
@@ -142459,6 +142817,16 @@ layerId = "D7887975-777F-4D7E-A2A2-5E834A6D1C21";
 width = 555;
 },
 {
+anchors = (
+{
+name = bottom;
+position = "{226, 0}";
+},
+{
+name = top;
+position = "{307, 515}";
+}
+);
 components = (
 {
 name = o;
@@ -142468,6 +142836,16 @@ layerId = "CC363ACD-D5A5-4E19-A940-9AF36D109D9E";
 width = 532;
 },
 {
+anchors = (
+{
+name = bottom;
+position = "{265, 0}";
+},
+{
+name = top;
+position = "{341, 535}";
+}
+);
 components = (
 {
 name = o;
@@ -143483,9 +143861,19 @@ unicode = 0440;
 },
 {
 glyphname = c.es;
-lastChange = "2018-08-01 13:52:20 +0000";
+lastChange = "2018-08-04 13:35:08 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{234, 0}";
+},
+{
+name = top;
+position = "{309, 528}";
+}
+);
 color = -1;
 components = (
 {
@@ -143540,6 +143928,16 @@ layerId = "D7887975-777F-4D7E-A2A2-5E834A6D1C21";
 width = 463;
 },
 {
+anchors = (
+{
+name = bottom;
+position = "{231, 0}";
+},
+{
+name = top;
+position = "{300, 515}";
+}
+);
 components = (
 {
 name = c;
@@ -143549,6 +143947,16 @@ layerId = "CC363ACD-D5A5-4E19-A940-9AF36D109D9E";
 width = 516;
 },
 {
+anchors = (
+{
+name = bottom;
+position = "{268, 0}";
+},
+{
+name = top;
+position = "{332, 535}";
+}
+);
 color = -1;
 components = (
 {
@@ -144577,9 +144985,15 @@ rightMetricsKey = "=|n";
 },
 {
 glyphname = c.u;
-lastChange = "2018-08-01 13:52:20 +0000";
+lastChange = "2018-08-04 13:35:21 +0000";
 layers = (
 {
+anchors = (
+{
+name = top;
+position = "{290, 528}";
+}
+);
 components = (
 {
 name = y;
@@ -144633,6 +145047,12 @@ layerId = "D7887975-777F-4D7E-A2A2-5E834A6D1C21";
 width = 522;
 },
 {
+anchors = (
+{
+name = top;
+position = "{259, 515}";
+}
+);
 components = (
 {
 name = y;
@@ -144642,6 +145062,12 @@ layerId = "CC363ACD-D5A5-4E19-A940-9AF36D109D9E";
 width = 434;
 },
 {
+anchors = (
+{
+name = top;
+position = "{339, 535}";
+}
+);
 components = (
 {
 name = y;
@@ -153697,9 +154123,19 @@ public.markColor = "0.25,0.25,0.25,1";
 },
 {
 glyphname = c.dze;
-lastChange = "2018-07-23 09:39:12 +0000";
+lastChange = "2018-08-04 13:35:38 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{223, 0}";
+},
+{
+name = top;
+position = "{286, 528}";
+}
+);
 color = -1;
 components = (
 {
@@ -153734,6 +154170,16 @@ layerId = "D7887975-777F-4D7E-A2A2-5E834A6D1C21";
 width = 452;
 },
 {
+anchors = (
+{
+name = bottom;
+position = "{209, 0}";
+},
+{
+name = top;
+position = "{271, 515}";
+}
+);
 components = (
 {
 name = s;
@@ -153743,6 +154189,16 @@ layerId = "CC363ACD-D5A5-4E19-A940-9AF36D109D9E";
 width = 457;
 },
 {
+anchors = (
+{
+name = bottom;
+position = "{260, 0}";
+},
+{
+name = top;
+position = "{312, 535}";
+}
+);
 color = -1;
 components = (
 {
@@ -162091,9 +162547,19 @@ unicode = 2116;
 },
 {
 glyphname = c.a.ss02;
-lastChange = "2018-07-21 16:56:02 +0000";
+lastChange = "2018-08-04 13:35:57 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{251, 0}";
+},
+{
+name = top;
+position = "{329, 515}";
+}
+);
 components = (
 {
 name = a.ss02;
@@ -162103,6 +162569,16 @@ layerId = "CC363ACD-D5A5-4E19-A940-9AF36D109D9E";
 width = 559;
 },
 {
+anchors = (
+{
+name = bottom;
+position = "{266, 0}";
+},
+{
+name = top;
+position = "{343, 528}";
+}
+);
 components = (
 {
 name = a.ss02;
@@ -162112,6 +162588,16 @@ layerId = "6641C2CA-B9F9-47EE-AEEC-6BEE387D8CB9";
 width = 587;
 },
 {
+anchors = (
+{
+name = bottom;
+position = "{291, 0}";
+},
+{
+name = top;
+position = "{369, 535}";
+}
+);
 components = (
 {
 name = a.ss02;
