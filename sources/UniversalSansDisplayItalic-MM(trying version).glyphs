@@ -3539,7 +3539,7 @@ source = G;
 {
 color = 9;
 glyphname = H;
-lastChange = "2018-07-26 10:13:21 +0000";
+lastChange = "2018-08-04 12:56:26 +0000";
 layers = (
 {
 anchors = (
@@ -3574,18 +3574,18 @@ paths = (
 {
 closed = 1;
 nodes = (
-"579 361 LINE",
-"139 361 LINE",
-"197 690 LINE",
-"177 690 LINE",
-"55 0 LINE",
 "75 0 LINE",
 "135 342 LINE",
 "575 342 LINE",
 "515 0 LINE",
 "535 0 LINE",
 "657 690 LINE",
-"637 690 LINE"
+"637 690 LINE",
+"579 361 LINE",
+"139 361 LINE",
+"197 690 LINE",
+"177 690 LINE",
+"55 0 LINE"
 );
 }
 );
