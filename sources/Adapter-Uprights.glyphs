@@ -1136,6 +1136,10 @@ Name = Weight;
 Tag = wght;
 },
 {
+Name = Width;
+Tag = wdth;
+},
+{
 Name = "Optical size";
 Tag = opsz;
 }
