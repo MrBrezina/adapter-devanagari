@@ -1,16 +1,16 @@
 {
-.appVersion = "1158";
+.appVersion = "1075";
 DisplayStrings = (
-"I/Iogonek/idotless i/idotlessogonek/jdotless j /ogonekcomb \012nngnofoon\012Hnnohzrny\012HHJ HO OOH K \012A4HARGH2C 0DHB8°C%\012H0>0<0/lessequal 0/greaterequal 0=0/notequal 0+0×0÷0.±0/minus 0~0/approxequal 0-0%/perthousand O\012$10/euro/liraTurkish/ruble ¥/rupeeIndian £\012H$H/hryvnia H/euro H¢H£H¥H¤H/liraTurkish H/ruble H/rupeeIndian H/dong H/florin H\012H/dollar.tf H/euro.tf H/cent.tf H/sterling.tf H/yen.tf HH/dong.tf H/liraTurkish.tf H/ruble.tf H/rupeeIndian.tf H/currency.tf H/hryvnia.tf H\012H012465380HOH0H/zero.zero H1H2H3HH4H5H7H6H9H8H\012/zero.tf/one.tf/two.tf/three.tf/four.tf/five.tf/six.tf/seven.tf/eight.tf/nine.tf/zero.tf.zero \012H/zero.tf H/one.tf H/two.tf H/three.tf H/four.tf HH/five.tf H/six.tf H/seven.tf H/eight.tf H/nine.tf H/zero.tf.zero H\012/zero.numr/one.numr/two.numr/three.numr/four.numr/five.numr/six.numr/seven.numr/eight.numr/nine.numr \012/zerosuperior ¹²³/foursuperior/fivesuperior/sixsuperior/sevensuperior/eightsuperior/ninesuperior \012/zeroinferior/oneinferior/twoinferior/threeinferior/fourinferior/fiveinferior/sixinferior/seveninferior/eightinferior/nineinferior \012/zero.dnom/one.dnom/two.dnom/three.dnom/four.dnom/five.dnom/six.dnom/seven.dnom/eight.dnom/nine.dnom \012H/zero.numr H/one.numr H/two.numr H/three.numr H/four.numr H/five.numr \012H/six.numr H/nine.numr H/seven.numr H/eight.numr H /fraction  \012½/onethird/twothirds ¼¾/onefifth/twofifths/threefifths/fourfifths/onesixth/fivesixths/oneseventh/twosevenths/threesevenths/foursevenths/fivesevenths/sixsevenths/oneeighth/threeeighths/fiveeighths/seveneighths/oneninth/twoninths/fourninths/fiveninths/sevenninths/eightninths \012HE/Iogonek/Uogonek L/Lcaron ldt,/lcaron  /caroncomb.calt  /dcaron/tcaron kdðo\012ve/lcaron krý/Lcaron AVÝChl/hcircumflex/lacute ÁHØHOH/Eng/Germandbls/Schwa \012iëa \012dæen/eng d/dcroat h/hbar þbøonyvnßn\012/Ecaron Ê/Ebreve/Edotaccent ËÉáÈ/Emacron Å/Ecaron Ã/Uhungarumlaut   /gravecomb   /acutecomb   /gravecomb.case   /acutecomb.case   /caroncomb   /caroncomb.case    /circumflexcomb.case   /circumflexcomb   iöä /dotaccentcomb   /dieresiscomb.case    /dotaccentcomb.case   /dieresiscomb   /macroncomb   /macroncomb.case   /tildecomb   /tildecomb.case   /brevecomb   /brevecomb.case   /ringcomb   /ringcomb.case   /hungarumlautcomb   /hungarumlautcomb.case   /ogonekcomb  ç /cedillacomb    /commaaccent  /commaaccentturnedabovecomb  /caroncomb.calt  /tcaron \012/gcommaaccent ñ/kcommaaccent/lcommaaccent/uhungarumlaut/Ohungarumlaut äëe/oe/eogonek  Hh/ecaron vpáéåêi/amacron ä/imacron/abreve ñ/ccaron/uring åt/tbar  \012[stanoisko]\012(hq)[hq]/angledbracketleft hq/angledbracketright H H{hq}\012(H)[H]H/angledbracketleft H/angledbracketright H{H}\012n.n:n,n;n!n¡n/ellipsis n·n\012n/comma.ss05 n/semicolon.ss05 n\012nn-n/endash n/emdash n_n~n/guilsinglleft n/guilsinglright n«n»n@n\012H/hyphen.case H/colon.case H/asciitilde.case H/endash.case H/emdash.case H/guilsinglleft.case H/guilsinglright.case H/guillemetleft.case H/guillemetright.case H/questiondown.case H/exclamdown.case H//H/backslash H¦H|HH!H?H/questiondown.case H¿H#H H*H&H/dagger H/daggerdbl H¶H\012/quoteleftreversed H/quoteright \012/quoteleft H/quoteright H,nd/quoteright \012/quotedblleft H/quotedblright nd/quotedblright \012no, /quotesinglbase but/quoteleft \012no, /quotedblbase but/quotedblleft \012no/comma.ss05  /quotesinglbase.ss05 but/quoteleft.ss05 \012no/comma.ss05  /quotedblbase.ss05 but/quotedblleft.ss05 \012/quotedblleft.ss05 H/quotedblright.ss05 \012/quoteleft.ss05 H/quoteright.ss05 H\012H/quoteleftreversed.ss05 H/quoteright.ss05 \012n/apostrophemodifier n/quoteright \012HH'H\"H/quoteright \012H/minute H/second H\012/f_i n/idotless/dotaccentcomb iko\012flanka\012/f_l anka\012offern\012o/f_f ern\012/f_f_l akn\012/f_f_i nkof/idotless i\012HH/arrowdown H/arrowup H/arrowright H/arrowleft H\012H/product H/summation HA/Delta H/Omega HOH/literSign H/partialdiff H/lozenge H/radical H/integral H/.notdef H/estimated H§HO©H®H/trademark HªHºHo/fraction \012nn/infinity n/mu n/pi n\012n·n/dotoperator n/bullet n/bulletoperator nn¬n\012H/logicalnot.case H/bulletoperator.case H",
-"Á/Abreve/Abreveacute/Abrevegrave/Abrevehookabove/Abrevetilde Ã\012/brevecomb.case   /breveacutecomb.case   /brevegravecomb.case   /brevetildecomb.case   /brevehookabovecomb.case \012á/abreveacute/acircumflexacute/abrevegrave/abreve/ahookabove/abrevehookabove/abrevetilde ã \012/brevecomb   /breveacutecomb    /brevegravecomb    /brevetildecomb    /brevehookabovecomb   /tildecomb \012Á/Acircumflexacute/Acircumflexgrave/Acircumflexhookabove/Acircumflextilde Â/Ecircumflexacute/Ecircumflextilde É\012/circumflexcomb.case   /circumflexacutecomb.case    /circumflexgravecomb.case    /circumflexhookabovecomb.case    /circumflextildecomb.case \012á/ahookabove/acircumflexacute/acircumflexgrave â/acircumflexhookabove/acircumflextilde  \012 /circumflexcomb    /circumflexacutecomb     /circumflexgravecomb    /circumflextildecomb    /circumflexhookabovecomb \012  /hookabovecomb  /ahookabove/abreve å/Ahookabove  /hookabovecomb.case \012UH/Uhorn/Uhornacute/Uhorndotbelow/Uhorngrave/Uhornhookabove/Uhorntilde/Udotbelow/Uhookabove/Ydotbelow/Yhookabove/Ytilde/Idotbelow/Ihookabove/Edotbelow/Ecircumflexacute/Ecircumflexdotbelow/Ecircumflexgrave/Ecircumflexhookabove/Ecircumflextilde/Ehookabove/Etilde/Adotbelow/Abreveacute/Abrevedotbelow/Abrevegrave/Abrevehookabove/Abrevetilde/Acircumflexacute/Acircumflexdotbelow/Acircumflexgrave/Acircumflexhookabove/Acircumflextilde/Ahookabove/Odotbelow/Ocircumflexacute/Ocircumflexdotbelow/Ocircumflexgrave/Ocircumflexhookabove/Ocircumflextilde/Ohookabove/Ohorn/Ohornacute/Ohorndotbelow/Ohorngrave/Ohornhookabove/Ohorntilde Hnu/uhorn/uhornacute/dotbelowcomb/uhorndotbelow/uhorngrave/uhornhookabove/uhorntilde ùúû/utilde/umacron/ubreve ü/uring/uhungarumlaut/udotbelow/uhookabove/abreveacute/abrevedotbelow/abrevegrave/abrevehookabove/abrevetilde/acircumflexacute/acircumflexdotbelow/acircumflexgrave/acircumflexhookabove/acircumflextilde/ecircumflexacute/ecircumflexgrave/ecircumflexhookabove/ecircumflextilde/ocircumflexacute/ocircumflexgrave/ocircumflexhookabove/ocircumflextilde n/uhorntilde noc /horncomb   /horncomb.case \012OH/Ohorn H/Ohorntilde Hn/ohorn n/ohorntilde no/ohornhookabove  \012/dotbelowcomb    . /dotaccentcomb  i/idotbelow/ihookabove \012y/ydotbelow p/yhookabove/ytilde o/odotbelow/ocircumflexacute/ocircumflexdotbelow/ocircumflexgrave/ocircumflexhookabove/ocircumflextilde/ohookabove/ohorn/ohornacute/ohorndotbelow/ohorngrave/ohornhookabove/ohorntilde e/edotbelow/ecircumflexacute/ecircumflexdotbelow/ecircumflexgrave/ecircumflexhookabove/ecircumflextilde/ehookabove/etilde a/adotbelow/abreveacute/abrevedotbelow/abrevegrave/abrevehookabove/abrevetilde/acircumflexacute/acircumflexdotbelow/acircumflexgrave/acircumflexhookabove/acircumflextilde/ahookabove",
-"H/c.Ef HH/c.Ef.BGR HO/c.Ef.BGR OOH/c.Ya H/c.Ghe/c.GheUkr \012BP/c.Soft/c.Yat/c.Be/c.Hard/c.Yeru/c.El/c.Lje/c.Nje \012OHH/c.Pe/c.Dzhe/c.Tse/c.Sha/c.Shcha Z\012N/c.Pe/c.I H/c.El/c.Tse/c.En/c.El HH/c.De H/c.De.BGR H\012/c.Pe/c.El/c.Pe ESC/c.IeUkr/c.E H/c.Ze H\012HHB/c.Ze HO/c.Ze OOH\012H/c.Tse H/c.Enspike/c.Che/c.Chespike H/c.Kaspike HX/c.Haspike/c.Zhespike HK/c.KaBashkir/c.Hard/c.Che/c.Tshe/c.Dje/c.Be/c.Yat \012H/c.Ghebar H/c.Ghe H/c.GheUkr H/c.Ustraightbar HY/c.Fita/c.Obar O/c.Yu O/c.De.BGR V/c.Izhitsa \012KH/c.Zhe H/c.Zhespike H\012/acutecomb.case  Ú /c.acutecomb.case  /c.Ghe/c.Gje K/c.Ka/c.Kje  /c.gravecomb.case  /c.Igrave  /c.brevecomb.case  /c.Ishort  /Abreve/c.Yushort/c.Umacron/c.Udblacute \012/c.En VH/c.U/c.En YH/c.El H\012HNHo\012TH/c.Che H/c.Tshe H/c.Dje H/c.El JHhN/numero \012/c.de/c.enspike/c.chespike/c.che/c.che.BGR/c.soft.BGR/c.kaspike/c.ka k/c.kaBashkir/c.haspike x/c.ustraightbar/c.ustraight/c.ghebar/tbar/hbar/c.zhe/c.zhe.BGR/c.zhespike o/c.yu/c.yu.BGR \012/c.sha/c.shcha/c.dzhe/c.pe/c.tse/c.ghe/c.gje/c.ghebar/c.de/c.be/c.be.SRB o/c.dje u/c.dzhe  nm/c.sha/c.shcha \012/c.en/c.em/c.en/c.i/c.en/c.pe/c.en/c.dzhe/c.en/c.tse/c.en/c.sha/c.en/c.shcha/c.en/c.ghe/c.gheUkr/c.te/c.ya/c.ve/c.soft/c.hard/c.yat/c.soft.BGR/c.hard.BGR/c.yeru/c.nje/c.lje no/c.fita/c.obar/c.en/c.ef v/c.izhitsa \012/c.de/c.el/c.en/c.en/c.lje/c.en o/c.lje oo/c.en \012/c.hookcomb     /quotesinglbase.ss05  /c.zehook/c.eshook u/c.dzhe/c.tse/c.Tse/c.Zehook/c.Eshook C\012/c.en a/c.ze nscae/c.ieUkr/c.e/c.ze/c.ze.BGR/c.ve nsnn/c.ghe.BGR n\012asce/c.ze cnojk/kgreenlandic/Tbar \012 /c.ze/quoteright  /c.ze/c.gje/c.ka/c.kje \012/acutecomb  á /c.acutecomb   /c.gravecomb  /gravecomb  à/c.iegrave/c.igrave  /brevecomb  /ubreve/c.ishort/c.abreve/c.iebreve  /c.brevecomb  \012\012/c.ka/c.er/c.a/c.yi/c.en/c.i , /c.es/c.ve/c.iUkr/c.te/c.u , /c.tse/c.i/c.ve/c.iUkr/c.el/c.iUkr/c.ze/c.a/c.tse/c.iUkr/c.yi/c.ze/c.ve/c.i/c.che/c.en/c.iUkr  /c.tse/c.i ë/c.yi/c.ve/c.iUkr/c.el/c.iUkr/c.ze/c.a/c.tse/c.yi/c.yi/c.ze/c.ve/c.i/c.che/c.en/c.iUkr \012/c.a/c.pe/c.ie/c.te/c.i/c.te/c.i thaïlandais\012/c.tse/c.i/c.ve ë/c.el/c.iUkr/c.ze/c.a/c.tse n/idieresis_idieresis h/c.ze/c.ve/c.i/c.che/c.en/c.iUkr  /dieresiscomb.narrow \012\012HËHIÏHÏÏH/Idieresis_Idieresis.case H /dieresiscomb.narrow.case \012",
-"/Alpha/Beta/Gamma/Epsilon/Zeta/Eta/Theta/Iota/Kappa/Lambda/Mu/Nu/Xi O/Omicron/Pi/Rho/Sigma T/Tau/Upsilon/Chi/Psi/Omega H/Phi H\012HH/Omega HO/Omega OOH\012/c.ze/epsilon/delta/theta/beta/eta/kappa/lambda/gamma/nu/chi/rho o/sigma/omega/zeta/xi/sigmafinal \012/tau/iota/pi/alpha/mu \012/eta/eta/sigmafinal/eta o/sigmafinal oo/eta \012o/phi o/psi o\012o/omega/c.ze/epsilon o/alpha \012/acutecomb  á /tonoscomb  /etatonos n/iotadieresistonos n /dieresistonoscomb \012/iota/iotatonos/iotadieresis/iotadieresistonos/upsilontonos/upsilondieresis/upsilondieresistonos/omicrontonos/omegatonos/alphatonos/epsilontonos/etatonos \012/tonoscomb.case \012/Alphatonos HOH\012/Epsilontonos HOH\012/Etatonos HOH\012/Iotatonos HOH\012/Omicrontonos HOH\012/Upsilontonos HOH\012/Omegatonos HOH",
-"A/c.A B/c.Ve E/c.Ie K/c.Ka M/c.Em H/c.En O/c.O P/c.Er C/c.Es T/c.Te X/c.Ha S/c.Dze I/c.IUkr J/c.Je Y/c.Ustraight I/c.Palochka Æ/c.AIe/Schwa/c.Schwa \012a/c.a e/c.ie o/c.o p/c.er c/c.es y/c.u x/c.ha s/c.dze/c.ieUkr/c.e/gamma/c.ustraight h/c.shha l/c.palochka æ/c.aie e/schwa/c.schwa \012A/Alpha/Beta/Gamma/Epsilon/Zeta/Eta I/Iota/Kappa/Lambda/Mu/Nu/Omicron/Pi/Rho/Tau Y/Upsilon/Chi/nu o/omicron",
+"I/Iogonek/idotless i/idotlessogonek/jdotless j /ogonekcomb \012nngnofoon\012Hnnohzrny\012HHJ HO OOH K \012A4HARGH2C 0DHB8\U00B0C%\012H0>0<0/lessequal 0/greaterequal 0=0/notequal 0+0\U00D70\U00F70.\U00B10/minus 0~0/approxequal 0-0%/perthousand O\012$10/euro/liraTurkish/ruble \U00A5/rupeeIndian \U00A3\012H$H/hryvnia H/euro H\U00A2H\U00A3H\U00A5H\U00A4H/liraTurkish H/ruble H/rupeeIndian H/dong H/florin H\012H/dollar.tf H/euro.tf H/cent.tf H/sterling.tf H/yen.tf HH/dong.tf H/liraTurkish.tf H/ruble.tf H/rupeeIndian.tf H/currency.tf H/hryvnia.tf H\012H012465380HOH0H/zero.zero H1H2H3HH4H5H7H6H9H8H\012/zero.tf/one.tf/two.tf/three.tf/four.tf/five.tf/six.tf/seven.tf/eight.tf/nine.tf/zero.tf.zero \012H/zero.tf H/one.tf H/two.tf H/three.tf H/four.tf HH/five.tf H/six.tf H/seven.tf H/eight.tf H/nine.tf H/zero.tf.zero H\012/zero.numr/one.numr/two.numr/three.numr/four.numr/five.numr/six.numr/seven.numr/eight.numr/nine.numr \012/zerosuperior \U00B9\U00B2\U00B3/foursuperior/fivesuperior/sixsuperior/sevensuperior/eightsuperior/ninesuperior \012/zeroinferior/oneinferior/twoinferior/threeinferior/fourinferior/fiveinferior/sixinferior/seveninferior/eightinferior/nineinferior \012/zero.dnom/one.dnom/two.dnom/three.dnom/four.dnom/five.dnom/six.dnom/seven.dnom/eight.dnom/nine.dnom \012H/zero.numr H/one.numr H/two.numr H/three.numr H/four.numr H/five.numr \012H/six.numr H/nine.numr H/seven.numr H/eight.numr H /fraction  \012\U00BD/onethird/twothirds \U00BC\U00BE/onefifth/twofifths/threefifths/fourfifths/onesixth/fivesixths/oneseventh/twosevenths/threesevenths/foursevenths/fivesevenths/sixsevenths/oneeighth/threeeighths/fiveeighths/seveneighths/oneninth/twoninths/fourninths/fiveninths/sevenninths/eightninths \012HE/Iogonek/Uogonek L/Lcaron ldt,/lcaron  /caroncomb.calt  /dcaron/tcaron kd\U00F0o\012ve/lcaron kr\U00FD/Lcaron AV\U00DDChl/hcircumflex/lacute \U00C1H\U00D8HOH/Eng/Germandbls/Schwa \012i\U00EBa \012d\U00E6en/eng d/dcroat h/hbar \U00FEb\U00F8onyvn\U00DFn\012/Ecaron \U00CA/Ebreve/Edotaccent \U00CB\U00C9\U00E1\U00C8/Emacron \U00C5/Ecaron \U00C3/Uhungarumlaut   /gravecomb   /acutecomb   /gravecomb.case   /acutecomb.case   /caroncomb   /caroncomb.case    /circumflexcomb.case   /circumflexcomb   i\U00F6\U00E4 /dotaccentcomb   /dieresiscomb.case    /dotaccentcomb.case   /dieresiscomb   /macroncomb   /macroncomb.case   /tildecomb   /tildecomb.case   /brevecomb   /brevecomb.case   /ringcomb   /ringcomb.case   /hungarumlautcomb   /hungarumlautcomb.case   /ogonekcomb  \U00E7 /cedillacomb    /commaaccent  /commaaccentturnedabovecomb  /caroncomb.calt  /tcaron \012/gcommaaccent \U00F1/kcommaaccent/lcommaaccent/uhungarumlaut/Ohungarumlaut \U00E4\U00EBe/oe/eogonek  Hh/ecaron vp\U00E1\U00E9\U00E5\U00EAi/amacron \U00E4/imacron/abreve \U00F1/ccaron/uring \U00E5t/tbar  \012[stanoisko]\012(hq)[hq]/angledbracketleft hq/angledbracketright H H{hq}\012(H)[H]H/angledbracketleft H/angledbracketright H{H}\012n.n:n,n;n!n\U00A1n/ellipsis n\U00B7n\012n/comma.ss05 n/semicolon.ss05 n\012nn-n/endash n/emdash n_n~n/guilsinglleft n/guilsinglright n\U00ABn\U00BBn@n\012H/hyphen.case H/colon.case H/asciitilde.case H/endash.case H/emdash.case H/guilsinglleft.case H/guilsinglright.case H/guillemetleft.case H/guillemetright.case H/questiondown.case H/exclamdown.case H//H/backslash H\U00A6H|HH!H?H/questiondown.case H\U00BFH#H H*H&H/dagger H/daggerdbl H\U00B6H\012/quoteleftreversed H/quoteright \012/quoteleft H/quoteright H,nd/quoteright \012/quotedblleft H/quotedblright nd/quotedblright \012no, /quotesinglbase but/quoteleft \012no, /quotedblbase but/quotedblleft \012no/comma.ss05  /quotesinglbase.ss05 but/quoteleft.ss05 \012no/comma.ss05  /quotedblbase.ss05 but/quotedblleft.ss05 \012/quotedblleft.ss05 H/quotedblright.ss05 \012/quoteleft.ss05 H/quoteright.ss05 H\012H/quoteleftreversed.ss05 H/quoteright.ss05 \012n/apostrophemodifier n/quoteright \012HH'H\"H/quoteright \012H/minute H/second H\012/f_i n/idotless/dotaccentcomb iko\012flanka\012/f_l anka\012offern\012o/f_f ern\012/f_f_l akn\012/f_f_i nkof/idotless i\012HH/arrowdown H/arrowup H/arrowright H/arrowleft H\012H/product H/summation HA/Delta H/Omega HOH/literSign H/partialdiff H/lozenge H/radical H/integral H/.notdef H/estimated H\U00A7HO\U00A9H\U00AEH/trademark H\U00AAH\U00BAHo/fraction \012nn/infinity n/mu n/pi n\012n\U00B7n/dotoperator n/bullet n/bulletoperator nn\U00ACn\012H/logicalnot.case H/bulletoperator.case H",
+"\U00C1/Abreve/Abreveacute/Abrevegrave/Abrevehookabove/Abrevetilde \U00C3\012/brevecomb.case   /breveacutecomb.case   /brevegravecomb.case   /brevetildecomb.case   /brevehookabovecomb.case \012\U00E1/abreveacute/acircumflexacute/abrevegrave/abreve/ahookabove/abrevehookabove/abrevetilde \U00E3 \012/brevecomb   /breveacutecomb    /brevegravecomb    /brevetildecomb    /brevehookabovecomb   /tildecomb \012\U00C1/Acircumflexacute/Acircumflexgrave/Acircumflexhookabove/Acircumflextilde \U00C2/Ecircumflexacute/Ecircumflextilde \U00C9\012/circumflexcomb.case   /circumflexacutecomb.case    /circumflexgravecomb.case    /circumflexhookabovecomb.case    /circumflextildecomb.case \012\U00E1/ahookabove/acircumflexacute/acircumflexgrave \U00E2/acircumflexhookabove/acircumflextilde  \012 /circumflexcomb    /circumflexacutecomb     /circumflexgravecomb    /circumflextildecomb    /circumflexhookabovecomb \012  /hookabovecomb  /ahookabove/abreve \U00E5/Ahookabove  /hookabovecomb.case \012UH/Uhorn/Uhornacute/Uhorndotbelow/Uhorngrave/Uhornhookabove/Uhorntilde/Udotbelow/Uhookabove/Ydotbelow/Yhookabove/Ytilde/Idotbelow/Ihookabove/Edotbelow/Ecircumflexacute/Ecircumflexdotbelow/Ecircumflexgrave/Ecircumflexhookabove/Ecircumflextilde/Ehookabove/Etilde/Adotbelow/Abreveacute/Abrevedotbelow/Abrevegrave/Abrevehookabove/Abrevetilde/Acircumflexacute/Acircumflexdotbelow/Acircumflexgrave/Acircumflexhookabove/Acircumflextilde/Ahookabove/Odotbelow/Ocircumflexacute/Ocircumflexdotbelow/Ocircumflexgrave/Ocircumflexhookabove/Ocircumflextilde/Ohookabove/Ohorn/Ohornacute/Ohorndotbelow/Ohorngrave/Ohornhookabove/Ohorntilde Hnu/uhorn/uhornacute/dotbelowcomb/uhorndotbelow/uhorngrave/uhornhookabove/uhorntilde \U00F9\U00FA\U00FB/utilde/umacron/ubreve \U00FC/uring/uhungarumlaut/udotbelow/uhookabove/abreveacute/abrevedotbelow/abrevegrave/abrevehookabove/abrevetilde/acircumflexacute/acircumflexdotbelow/acircumflexgrave/acircumflexhookabove/acircumflextilde/ecircumflexacute/ecircumflexgrave/ecircumflexhookabove/ecircumflextilde/ocircumflexacute/ocircumflexgrave/ocircumflexhookabove/ocircumflextilde n/uhorntilde noc /horncomb   /horncomb.case \012OH/Ohorn H/Ohorntilde Hn/ohorn n/ohorntilde no/ohornhookabove  \012/dotbelowcomb    . /dotaccentcomb  i/idotbelow/ihookabove \012y/ydotbelow p/yhookabove/ytilde o/odotbelow/ocircumflexacute/ocircumflexdotbelow/ocircumflexgrave/ocircumflexhookabove/ocircumflextilde/ohookabove/ohorn/ohornacute/ohorndotbelow/ohorngrave/ohornhookabove/ohorntilde e/edotbelow/ecircumflexacute/ecircumflexdotbelow/ecircumflexgrave/ecircumflexhookabove/ecircumflextilde/ehookabove/etilde a/adotbelow/abreveacute/abrevedotbelow/abrevegrave/abrevehookabove/abrevetilde/acircumflexacute/acircumflexdotbelow/acircumflexgrave/acircumflexhookabove/acircumflextilde/ahookabove",
+"H/c.Ef HH/c.Ef.BGR HO/c.Ef.BGR OOH/c.Ya H/c.Ghe/c.GheUkr \012BP/c.Soft/c.Yat/c.Be/c.Hard/c.Yeru/c.El/c.Lje/c.Nje \012OHH/c.Pe/c.Dzhe/c.Tse/c.Sha/c.Shcha Z\012N/c.Pe/c.I H/c.El/c.Tse/c.En/c.El HH/c.De H/c.De.BGR H\012/c.Pe/c.El/c.Pe ESC/c.IeUkr/c.E H/c.Ze H\012HHB/c.Ze HO/c.Ze OOH\012H/c.Tse H/c.Enspike/c.Che/c.Chespike H/c.Kaspike HX/c.Haspike/c.Zhespike HK/c.KaBashkir/c.Hard/c.Che/c.Tshe/c.Dje/c.Be/c.Yat \012H/c.Ghebar H/c.Ghe H/c.GheUkr H/c.Ustraightbar HY/c.Fita/c.Obar O/c.Yu O/c.De.BGR V/c.Izhitsa \012KH/c.Zhe H/c.Zhespike H\012/acutecomb.case  \U00DA /c.acutecomb.case  /c.Ghe/c.Gje K/c.Ka/c.Kje  /c.gravecomb.case  /c.Igrave  /c.brevecomb.case  /c.Ishort  /Abreve/c.Yushort/c.Umacron/c.Udblacute \012/c.En VH/c.U/c.En YH/c.El H\012HNHo\012TH/c.Che H/c.Tshe H/c.Dje H/c.El JHhN/numero \012/c.de/c.enspike/c.chespike/c.che/c.che.BGR/c.soft.BGR/c.kaspike/c.ka k/c.kaBashkir/c.haspike x/c.ustraightbar/c.ustraight/c.ghebar/tbar/hbar/c.zhe/c.zhe.BGR/c.zhespike o/c.yu/c.yu.BGR \012/c.sha/c.shcha/c.dzhe/c.pe/c.tse/c.ghe/c.gje/c.ghebar/c.de/c.be/c.be.SRB o/c.dje u/c.dzhe  nm/c.sha/c.shcha \012/c.en/c.em/c.en/c.i/c.en/c.pe/c.en/c.dzhe/c.en/c.tse/c.en/c.sha/c.en/c.shcha/c.en/c.ghe/c.gheUkr/c.te/c.ya/c.ve/c.soft/c.hard/c.yat/c.soft.BGR/c.hard.BGR/c.yeru/c.nje/c.lje no/c.fita/c.obar/c.en/c.ef v/c.izhitsa \012/c.de/c.el/c.en/c.en/c.lje/c.en o/c.lje oo/c.en \012/c.hookcomb     /quotesinglbase.ss05  /c.zehook/c.eshook u/c.dzhe/c.tse/c.Tse/c.Zehook/c.Eshook C\012/c.en a/c.ze nscae/c.ieUkr/c.e/c.ze/c.ze.BGR/c.ve nsnn/c.ghe.BGR n\012asce/c.ze cnojk/kgreenlandic/Tbar \012 /c.ze/quoteright  /c.ze/c.gje/c.ka/c.kje \012/acutecomb  \U00E1 /c.acutecomb   /c.gravecomb  /gravecomb  \U00E0/c.iegrave/c.igrave  /brevecomb  /ubreve/c.ishort/c.abreve/c.iebreve  /c.brevecomb  \012\012/c.ka/c.er/c.a/c.yi/c.en/c.i , /c.es/c.ve/c.iUkr/c.te/c.u , /c.tse/c.i/c.ve/c.iUkr/c.el/c.iUkr/c.ze/c.a/c.tse/c.iUkr/c.yi/c.ze/c.ve/c.i/c.che/c.en/c.iUkr  /c.tse/c.i \U00EB/c.yi/c.ve/c.iUkr/c.el/c.iUkr/c.ze/c.a/c.tse/c.yi/c.yi/c.ze/c.ve/c.i/c.che/c.en/c.iUkr \012/c.a/c.pe/c.ie/c.te/c.i/c.te/c.i tha\U00EFlandais\012/c.tse/c.i/c.ve \U00EB/c.el/c.iUkr/c.ze/c.a/c.tse n/idieresis_idieresis h/c.ze/c.ve/c.i/c.che/c.en/c.iUkr  /dieresiscomb.narrow \012\012H\U00CBHI\U00CFH\U00CF\U00CFH/Idieresis_Idieresis.case H /dieresiscomb.narrow.case \012",
+"/Alpha/Beta/Gamma/Epsilon/Zeta/Eta/Theta/Iota/Kappa/Lambda/Mu/Nu/Xi O/Omicron/Pi/Rho/Sigma T/Tau/Upsilon/Chi/Psi/Omega H/Phi H\012HH/Omega HO/Omega OOH\012/c.ze/epsilon/delta/theta/beta/eta/kappa/lambda/gamma/nu/chi/rho o/sigma/omega/zeta/xi/sigmafinal \012/tau/iota/pi/alpha/mu \012/eta/eta/sigmafinal/eta o/sigmafinal oo/eta \012o/phi o/psi o\012o/omega/c.ze/epsilon o/alpha \012/acutecomb  \U00E1 /tonoscomb  /etatonos n/iotadieresistonos n /dieresistonoscomb \012/iota/iotatonos/iotadieresis/iotadieresistonos/upsilontonos/upsilondieresis/upsilondieresistonos/omicrontonos/omegatonos/alphatonos/epsilontonos/etatonos \012/tonoscomb.case \012/Alphatonos HOH\012/Epsilontonos HOH\012/Etatonos HOH\012/Iotatonos HOH\012/Omicrontonos HOH\012/Upsilontonos HOH\012/Omegatonos HOH",
+"A/c.A B/c.Ve E/c.Ie K/c.Ka M/c.Em H/c.En O/c.O P/c.Er C/c.Es T/c.Te X/c.Ha S/c.Dze I/c.IUkr J/c.Je Y/c.Ustraight I/c.Palochka \U00C6/c.AIe/Schwa/c.Schwa \012a/c.a e/c.ie o/c.o p/c.er c/c.es y/c.u x/c.ha s/c.dze/c.ieUkr/c.e/gamma/c.ustraight h/c.shha l/c.palochka \U00E6/c.aie e/schwa/c.schwa \012A/Alpha/Beta/Gamma/Epsilon/Zeta/Eta I/Iota/Kappa/Lambda/Mu/Nu/Omicron/Pi/Rho/Tau Y/Upsilon/Chi/nu o/omicron",
 "no, /quotesinglbase lol/quoteright l/quoteleft/quoteleftreversed/quotedblleft/quotedblright/quotedblbase \012no/comma.ss05  /quotesinglbase.ss05 lol/quoteright.ss05 l/quoteleft.ss05/quoteleftreversed.ss05/quotedblleft.ss05/quotedblright.ss05/quotedblbase.ss05",
 "H/arrowleft H/arrowup H/arrowright H/arrowdown H/arrowboth H/arrowupdown H/arrowupleft H/arrowupright H/arrowdownright H/arrowdownleft H/arrowlefttwoheaded H/arrowuptwoheaded H/arrowrighttwoheaded H/arrowdowntwoheaded H/arrowuptipleft H/arrowuptipright H/arrowdowntipleft H/arrowdowntipright H/arrowrightcornerdown H/arrowrightcornerup H/arrowleftcornerdown H/arrowleftcornerup H/harpoonleftbarbup H/leftharpoonbarbdown H/upharpoonbarbright H/upharpoonbarbleft H/harpoonrightbarbup H/rightharpoonbarbdown H/downharpoonbarbright H/downharpoonbarbleft H/arrowrightoverleft H/arrowupleftofdown H/arrowdownleftofup H/arrowleftoverright/arrowleftpaireds H/arrowup H/arrowuppaireds H/arrowrightpaireds H/arrowdownpaireds H/leftharpoonoverrightharpoon H/rightharpoonoverleftharpoon H/arrowleftdblstroke H/arrowleftrightdoublestroke H/arrowrightdblstroke H/arrowdblleft H/arrowdblup H/arrowdblright H/arrowdbldown H/arrowdblboth H/arrowdblupdown H/arrowdblupleft H/arrowdblupright H/arrowdbldownright H/arrowdbldownleft H/arrowdashleft H/arrowdashup H/arrowdashright H/arrowdashdown H/arrowdashboth H/arrowdashupdown H/arrowdashupright H/arrowdashupleft H/arrowdashdownright H/arrowdashdownleft H/arrowopenleft H/arrowopenup H/arrowopenright H/arrowopendown H/arrowopenboth H/arrowopenupdown H/arrowopenupleft H/arrowopenupright H/arrowopendownright H/arrowopendownleft H",
 "l.l,l;l:l\012l/comma.ss05 l/semicolon.ss05 l\012l,l/quotesinglbase l/quotedblbase l/quotedblleft lol/quotedblright l/quoteleft l/quoteright l/quoteleftreversed l\012l/comma.ss05 l/quotesinglbase.ss05 l/quotedblbase.ss05 l/quotedblleft.ss05 lol/quotedblright.ss05 l/quoteleft.ss05 l/quoteright.ss05 l/quoteleftreversed.ss05 l\012/c.brevecomb.case   l/c.U l/c.U.ss03/c.Yushort.ss03 lyl/lambda/lambda.ss03 l/y.ss03 \012/yacute.ss03/ycircumflex.ss03/ydieresis.ss03/ydotbelow.ss03/ygrave.ss03/yhookabove.ss03/ytilde.ss03 \012\012noHO"
 );
-copyright = "Copyright © 2017 by Rosetta Type Foundry. All rights reserved.";
+copyright = "Copyright © 2018 by Rosetta Type Foundry. All rights reserved.";
 customParameters = (
 {
 name = glyphOrder;
@@ -1142,8 +1142,9 @@ Tag = opsz;
 );
 }
 );
-date = "2017-11-16 16:59:29 +0000";
+date = "2018-10-06 10:44:48 +0000";
 designer = "William Montrose, Slava Jevcinova";
+designerURL = www.rosettatype.com;
 familyName = Adapter;
 features = (
 {
@@ -1163,20 +1164,19 @@ alignmentZones = (
 ascender = 750;
 capHeight = 710;
 custom = Text;
+customValue = 80;
 descender = -200;
 horizontalStems = (
 50,
 51
 );
 id = "0A1AFE58-107D-4787-BDA0-D82FB635C3A6";
-name = "Text Light";
 verticalStems = (
 56,
 57
 );
 weight = Light;
 weightValue = 55;
-widthValue = 80;
 xHeight = 523;
 },
 {
@@ -1189,7 +1189,8 @@ alignmentZones = (
 );
 ascender = 750;
 capHeight = 710;
-custom = "Text Medium";
+custom = Text;
+customValue = 80;
 descender = -195;
 horizontalStems = (
 87,
@@ -1200,7 +1201,6 @@ verticalStems = (
 101,
 106
 );
-widthValue = 80;
 xHeight = 528;
 },
 {
@@ -1214,20 +1214,19 @@ alignmentZones = (
 ascender = 750;
 capHeight = 710;
 custom = Text;
+customValue = 80;
 descender = -195;
 horizontalStems = (
 155,
 172
 );
 id = "84435905-EDCB-4949-A8A3-0E53308A2F50";
-name = "Text Bold";
 verticalStems = (
 211,
 222
 );
 weight = Bold;
 weightValue = 210;
-widthValue = 80;
 xHeight = 535;
 },
 {
@@ -1240,7 +1239,8 @@ alignmentZones = (
 );
 ascender = 740;
 capHeight = 690;
-custom = "Display Thin";
+custom = Display;
+customValue = 120;
 descender = -190;
 guideLines = (
 {
@@ -1256,8 +1256,8 @@ verticalStems = (
 20,
 20
 );
+weight = Light;
 weightValue = 20;
-widthValue = 120;
 xHeight = 515;
 },
 {
@@ -1270,7 +1270,8 @@ alignmentZones = (
 );
 ascender = 740;
 capHeight = 690;
-custom = "Display Medium";
+custom = Display;
+customValue = 120;
 descender = -185;
 guideLines = (
 {
@@ -1286,7 +1287,6 @@ verticalStems = (
 101,
 106
 );
-widthValue = 120;
 xHeight = 528;
 },
 {
@@ -1299,7 +1299,8 @@ alignmentZones = (
 );
 ascender = 740;
 capHeight = 690;
-custom = "Display Black";
+custom = Display;
+customValue = 120;
 descender = -185;
 horizontalStems = (
 155,
@@ -1310,8 +1311,8 @@ verticalStems = (
 211,
 222
 );
+weight = Bold;
 weightValue = 210;
-widthValue = 120;
 xHeight = 535;
 }
 );
@@ -2072,8 +2073,8 @@ nodes = (
 );
 userData = {
 RMXScaler = {
-height = 97.3;
-width = 97.3;
+height = 97.30000;
+width = 97.30000;
 };
 };
 width = 660;
@@ -2256,8 +2257,8 @@ nodes = (
 );
 userData = {
 RMXScaler = {
-height = 97.3;
-width = 97.3;
+height = 97.30000;
+width = 97.30000;
 };
 };
 width = 591;
@@ -2465,8 +2466,8 @@ nodes = (
 );
 userData = {
 RMXScaler = {
-height = 97.3;
-width = 97.3;
+height = 97.30000;
+width = 97.30000;
 };
 };
 width = 735;
@@ -2737,8 +2738,8 @@ nodes = (
 );
 userData = {
 RMXScaler = {
-height = 97.3;
-width = 97.3;
+height = 97.30000;
+width = 97.30000;
 };
 };
 width = 637;
@@ -2947,8 +2948,8 @@ nodes = (
 );
 userData = {
 RMXScaler = {
-height = 97.3;
-width = 97.3;
+height = 97.30000;
+width = 97.30000;
 };
 };
 width = 750;
@@ -3164,8 +3165,8 @@ nodes = (
 );
 userData = {
 RMXScaler = {
-height = 97.3;
-width = 97.3;
+height = 97.30000;
+width = 97.30000;
 };
 };
 width = 670;
@@ -3358,8 +3359,8 @@ nodes = (
 );
 userData = {
 RMXScaler = {
-height = 97.3;
-width = 97.3;
+height = 97.30000;
+width = 97.30000;
 };
 };
 width = 742;
@@ -3568,8 +3569,8 @@ nodes = (
 );
 userData = {
 RMXScaler = {
-height = 97.3;
-width = 97.3;
+height = 97.30000;
+width = 97.30000;
 };
 };
 width = 660;
@@ -3773,8 +3774,8 @@ nodes = (
 );
 userData = {
 RMXScaler = {
-height = 97.3;
-width = 97.3;
+height = 97.30000;
+width = 97.30000;
 };
 };
 width = 670;
@@ -3987,8 +3988,8 @@ nodes = (
 );
 userData = {
 RMXScaler = {
-height = 97.3;
-width = 97.3;
+height = 97.30000;
+width = 97.30000;
 };
 };
 width = 570;
@@ -4183,8 +4184,8 @@ nodes = (
 );
 userData = {
 RMXScaler = {
-height = 97.3;
-width = 97.3;
+height = 97.30000;
+width = 97.30000;
 };
 };
 width = 607;
@@ -4350,8 +4351,8 @@ nodes = (
 );
 userData = {
 RMXScaler = {
-height = 97.3;
-width = 97.3;
+height = 97.30000;
+width = 97.30000;
 };
 };
 width = 525;
@@ -4533,8 +4534,8 @@ nodes = (
 );
 userData = {
 RMXScaler = {
-height = 97.3;
-width = 97.3;
+height = 97.30000;
+width = 97.30000;
 };
 };
 width = 791;
@@ -4788,8 +4789,8 @@ nodes = (
 );
 userData = {
 RMXScaler = {
-height = 97.3;
-width = 97.3;
+height = 97.30000;
+width = 97.30000;
 };
 };
 width = 703;
@@ -4968,8 +4969,8 @@ nodes = (
 );
 userData = {
 RMXScaler = {
-height = 97.3;
-width = 97.3;
+height = 97.30000;
+width = 97.30000;
 };
 };
 width = 787;
@@ -5103,8 +5104,8 @@ nodes = (
 );
 userData = {
 RMXScaler = {
-height = 97.3;
-width = 97.3;
+height = 97.30000;
+width = 97.30000;
 };
 };
 width = 690;
@@ -5462,8 +5463,8 @@ nodes = (
 );
 userData = {
 RMXScaler = {
-height = 97.3;
-width = 97.3;
+height = 97.30000;
+width = 97.30000;
 };
 };
 width = 415;
@@ -5641,8 +5642,8 @@ nodes = (
 );
 userData = {
 RMXScaler = {
-height = 97.3;
-width = 97.3;
+height = 97.30000;
+width = 97.30000;
 };
 };
 width = 350;
@@ -5800,8 +5801,8 @@ nodes = (
 );
 userData = {
 RMXScaler = {
-height = 97.3;
-width = 97.3;
+height = 97.30000;
+width = 97.30000;
 };
 };
 width = 642;
@@ -5992,8 +5993,8 @@ nodes = (
 );
 userData = {
 RMXScaler = {
-height = 97.3;
-width = 97.3;
+height = 97.30000;
+width = 97.30000;
 };
 };
 width = 556;
@@ -6156,8 +6157,8 @@ nodes = (
 );
 userData = {
 RMXScaler = {
-height = 97.3;
-width = 97.3;
+height = 97.30000;
+width = 97.30000;
 };
 };
 width = 544;
@@ -6310,8 +6311,8 @@ nodes = (
 );
 userData = {
 RMXScaler = {
-height = 97.3;
-width = 97.3;
+height = 97.30000;
+width = 97.30000;
 };
 };
 width = 515;
@@ -6466,8 +6467,8 @@ nodes = (
 );
 userData = {
 RMXScaler = {
-height = 97.3;
-width = 97.3;
+height = 97.30000;
+width = 97.30000;
 };
 };
 width = 937;
@@ -6603,8 +6604,8 @@ nodes = (
 );
 userData = {
 RMXScaler = {
-height = 97.3;
-width = 97.3;
+height = 97.30000;
+width = 97.30000;
 };
 };
 width = 865;
@@ -6732,8 +6733,8 @@ nodes = (
 );
 userData = {
 RMXScaler = {
-height = 97.3;
-width = 97.3;
+height = 97.30000;
+width = 97.30000;
 };
 };
 width = 792;
@@ -6860,8 +6861,8 @@ nodes = (
 );
 userData = {
 RMXScaler = {
-height = 97.3;
-width = 97.3;
+height = 97.30000;
+width = 97.30000;
 };
 };
 width = 695;
@@ -7035,8 +7036,8 @@ nodes = (
 );
 userData = {
 RMXScaler = {
-height = 97.3;
-width = 97.3;
+height = 97.30000;
+width = 97.30000;
 };
 };
 width = 792;
@@ -7267,8 +7268,8 @@ nodes = (
 );
 userData = {
 RMXScaler = {
-height = 97.3;
-width = 97.3;
+height = 97.30000;
+width = 97.30000;
 };
 };
 width = 694;
@@ -7460,8 +7461,8 @@ nodes = (
 );
 userData = {
 RMXScaler = {
-height = 97.3;
-width = 97.3;
+height = 97.30000;
+width = 97.30000;
 };
 };
 width = 674;
@@ -7652,8 +7653,8 @@ nodes = (
 );
 userData = {
 RMXScaler = {
-height = 97.3;
-width = 97.3;
+height = 97.30000;
+width = 97.30000;
 };
 };
 width = 599;
@@ -7852,8 +7853,8 @@ nodes = (
 );
 userData = {
 RMXScaler = {
-height = 97.3;
-width = 97.3;
+height = 97.30000;
+width = 97.30000;
 };
 };
 width = 792;
@@ -8119,8 +8120,8 @@ nodes = (
 );
 userData = {
 RMXScaler = {
-height = 97.3;
-width = 97.3;
+height = 97.30000;
+width = 97.30000;
 };
 };
 width = 694;
@@ -8351,8 +8352,8 @@ nodes = (
 );
 userData = {
 RMXScaler = {
-height = 97.3;
-width = 97.3;
+height = 97.30000;
+width = 97.30000;
 };
 };
 width = 697;
@@ -8627,8 +8628,8 @@ nodes = (
 );
 userData = {
 RMXScaler = {
-height = 97.3;
-width = 97.3;
+height = 97.30000;
+width = 97.30000;
 };
 };
 width = 619;
@@ -8877,8 +8878,8 @@ nodes = (
 );
 userData = {
 RMXScaler = {
-height = 97.3;
-width = 97.3;
+height = 97.30000;
+width = 97.30000;
 };
 };
 width = 664;
@@ -9105,8 +9106,8 @@ nodes = (
 );
 userData = {
 RMXScaler = {
-height = 97.3;
-width = 97.3;
+height = 97.30000;
+width = 97.30000;
 };
 };
 width = 662;
@@ -9230,8 +9231,8 @@ nodes = (
 );
 userData = {
 RMXScaler = {
-height = 97.3;
-width = 97.3;
+height = 97.30000;
+width = 97.30000;
 };
 };
 width = 649;
@@ -9359,8 +9360,8 @@ nodes = (
 );
 userData = {
 RMXScaler = {
-height = 97.3;
-width = 97.3;
+height = 97.30000;
+width = 97.30000;
 };
 };
 width = 649;
@@ -9536,8 +9537,8 @@ nodes = (
 );
 userData = {
 RMXScaler = {
-height = 97.3;
-width = 97.3;
+height = 97.30000;
+width = 97.30000;
 };
 };
 width = 614;
@@ -9723,8 +9724,8 @@ nodes = (
 );
 userData = {
 RMXScaler = {
-height = 97.3;
-width = 97.3;
+height = 97.30000;
+width = 97.30000;
 };
 };
 width = 565;
@@ -9850,8 +9851,8 @@ nodes = (
 );
 userData = {
 RMXScaler = {
-height = 97.3;
-width = 97.3;
+height = 97.30000;
+width = 97.30000;
 };
 };
 width = 520;
@@ -9997,8 +9998,8 @@ nodes = (
 );
 userData = {
 RMXScaler = {
-height = 97.3;
-width = 97.3;
+height = 97.30000;
+width = 97.30000;
 };
 };
 width = 760;
@@ -10186,8 +10187,8 @@ nodes = (
 );
 userData = {
 RMXScaler = {
-height = 97.3;
-width = 97.3;
+height = 97.30000;
+width = 97.30000;
 };
 };
 width = 664;
@@ -10327,8 +10328,8 @@ nodes = (
 );
 userData = {
 RMXScaler = {
-height = 97.3;
-width = 97.3;
+height = 97.30000;
+width = 97.30000;
 };
 };
 width = 620;
@@ -10424,8 +10425,8 @@ nodes = (
 );
 userData = {
 RMXScaler = {
-height = 97.3;
-width = 97.3;
+height = 97.30000;
+width = 97.30000;
 };
 };
 width = 580;
@@ -10539,8 +10540,8 @@ nodes = (
 );
 userData = {
 RMXScaler = {
-height = 97.3;
-width = 97.3;
+height = 97.30000;
+width = 97.30000;
 };
 };
 width = 957;
@@ -10694,8 +10695,8 @@ nodes = (
 );
 userData = {
 RMXScaler = {
-height = 97.3;
-width = 97.3;
+height = 97.30000;
+width = 97.30000;
 };
 };
 width = 902;
@@ -10841,8 +10842,8 @@ nodes = (
 );
 userData = {
 RMXScaler = {
-height = 97.3;
-width = 97.3;
+height = 97.30000;
+width = 97.30000;
 };
 };
 width = 635;
@@ -11003,8 +11004,8 @@ nodes = (
 );
 userData = {
 RMXScaler = {
-height = 97.3;
-width = 97.3;
+height = 97.30000;
+width = 97.30000;
 };
 };
 width = 555;
@@ -11138,8 +11139,8 @@ nodes = (
 );
 userData = {
 RMXScaler = {
-height = 97.3;
-width = 97.3;
+height = 97.30000;
+width = 97.30000;
 };
 };
 width = 614;
@@ -11279,8 +11280,8 @@ nodes = (
 );
 userData = {
 RMXScaler = {
-height = 97.3;
-width = 97.3;
+height = 97.30000;
+width = 97.30000;
 };
 };
 width = 559;
@@ -11410,8 +11411,8 @@ nodes = (
 );
 userData = {
 RMXScaler = {
-height = 97.3;
-width = 97.3;
+height = 97.30000;
+width = 97.30000;
 };
 };
 width = 611;
@@ -11545,8 +11546,8 @@ nodes = (
 );
 userData = {
 RMXScaler = {
-height = 97.3;
-width = 97.3;
+height = 97.30000;
+width = 97.30000;
 };
 };
 width = 530;
@@ -11884,7 +11885,7 @@ nodes = (
 );
 userData = {
 RMXScaler = {
-height = 100.1;
+height = 100.10000;
 };
 };
 width = 663;
@@ -12241,7 +12242,7 @@ nodes = (
 );
 userData = {
 RMXScaler = {
-height = 100.1;
+height = 100.10000;
 };
 };
 width = 591;
@@ -12444,7 +12445,7 @@ nodes = (
 );
 userData = {
 RMXScaler = {
-height = 100.1;
+height = 100.10000;
 };
 };
 width = 685;
@@ -12682,7 +12683,7 @@ nodes = (
 );
 userData = {
 RMXScaler = {
-height = 100.1;
+height = 100.10000;
 };
 };
 width = 624;
@@ -12869,7 +12870,7 @@ nodes = (
 );
 userData = {
 RMXScaler = {
-height = 100.1;
+height = 100.10000;
 };
 };
 width = 634;
@@ -13097,7 +13098,7 @@ nodes = (
 );
 userData = {
 RMXScaler = {
-height = 100.1;
+height = 100.10000;
 };
 };
 width = 594;
@@ -13312,7 +13313,7 @@ nodes = (
 );
 userData = {
 RMXScaler = {
-height = 100.1;
+height = 100.10000;
 };
 };
 width = 685;
@@ -13574,7 +13575,7 @@ nodes = (
 );
 userData = {
 RMXScaler = {
-height = 100.1;
+height = 100.10000;
 };
 };
 width = 624;
@@ -13782,7 +13783,7 @@ nodes = (
 );
 userData = {
 RMXScaler = {
-height = 100.1;
+height = 100.10000;
 };
 };
 width = 650;
@@ -14046,7 +14047,7 @@ nodes = (
 );
 userData = {
 RMXScaler = {
-height = 100.1;
+height = 100.10000;
 };
 };
 width = 601;
@@ -14205,7 +14206,7 @@ nodes = (
 );
 userData = {
 RMXScaler = {
-height = 100.1;
+height = 100.10000;
 };
 };
 width = 445;
@@ -14388,7 +14389,7 @@ nodes = (
 );
 userData = {
 RMXScaler = {
-height = 100.1;
+height = 100.10000;
 };
 };
 width = 415;
@@ -14638,7 +14639,7 @@ nodes = (
 );
 userData = {
 RMXScaler = {
-height = 100.1;
+height = 100.10000;
 };
 };
 width = 685;
@@ -14960,7 +14961,7 @@ nodes = (
 );
 userData = {
 RMXScaler = {
-height = 100.1;
+height = 100.10000;
 };
 };
 width = 624;
@@ -15116,7 +15117,7 @@ nodes = (
 );
 userData = {
 RMXScaler = {
-height = 100.1;
+height = 100.10000;
 };
 };
 width = 686;
@@ -15303,7 +15304,7 @@ nodes = (
 );
 userData = {
 RMXScaler = {
-height = 100.1;
+height = 100.10000;
 };
 };
 width = 612;
@@ -15390,7 +15391,7 @@ position = "{270, 498}";
 layerId = "84435905-EDCB-4949-A8A3-0E53308A2F50";
 userData = {
 RMXScaler = {
-height = 100.1;
+height = 100.10000;
 };
 };
 width = 330;
@@ -15602,7 +15603,7 @@ transform = "{1, 0, 0, 1, 175, 0}";
 layerId = "84435905-EDCB-4949-A8A3-0E53308A2F50";
 userData = {
 RMXScaler = {
-height = 100.1;
+height = 100.10000;
 };
 };
 width = 342;
@@ -15810,7 +15811,7 @@ nodes = (
 );
 userData = {
 RMXScaler = {
-height = 100.1;
+height = 100.10000;
 };
 };
 width = 647;
@@ -15992,7 +15993,7 @@ nodes = (
 );
 userData = {
 RMXScaler = {
-height = 100.1;
+height = 100.10000;
 };
 };
 width = 605;
@@ -16103,7 +16104,7 @@ nodes = (
 );
 userData = {
 RMXScaler = {
-height = 100.1;
+height = 100.10000;
 };
 };
 width = 330;
@@ -16240,7 +16241,7 @@ nodes = (
 );
 userData = {
 RMXScaler = {
-height = 100.1;
+height = 100.10000;
 };
 };
 width = 290;
@@ -16456,7 +16457,7 @@ nodes = (
 );
 userData = {
 RMXScaler = {
-height = 100.1;
+height = 100.10000;
 };
 };
 width = 1035;
@@ -16705,7 +16706,7 @@ nodes = (
 );
 userData = {
 RMXScaler = {
-height = 100.1;
+height = 100.10000;
 };
 };
 width = 929;
@@ -16877,7 +16878,7 @@ nodes = (
 );
 userData = {
 RMXScaler = {
-height = 100.1;
+height = 100.10000;
 };
 };
 width = 686;
@@ -17096,7 +17097,7 @@ nodes = (
 );
 userData = {
 RMXScaler = {
-height = 100.1;
+height = 100.10000;
 };
 };
 width = 612;
@@ -17296,7 +17297,7 @@ nodes = (
 );
 userData = {
 RMXScaler = {
-height = 100.1;
+height = 100.10000;
 };
 };
 width = 670;
@@ -17625,7 +17626,7 @@ nodes = (
 );
 userData = {
 RMXScaler = {
-height = 100.1;
+height = 100.10000;
 };
 };
 width = 614;
@@ -17827,7 +17828,7 @@ nodes = (
 );
 userData = {
 RMXScaler = {
-height = 100.1;
+height = 100.10000;
 };
 };
 width = 685;
@@ -18065,7 +18066,7 @@ nodes = (
 );
 userData = {
 RMXScaler = {
-height = 100.1;
+height = 100.10000;
 };
 };
 width = 624;
@@ -18269,7 +18270,7 @@ nodes = (
 );
 userData = {
 RMXScaler = {
-height = 100.1;
+height = 100.10000;
 };
 };
 width = 685;
@@ -18507,7 +18508,7 @@ nodes = (
 );
 userData = {
 RMXScaler = {
-height = 100.1;
+height = 100.10000;
 };
 };
 width = 624;
@@ -18664,7 +18665,7 @@ nodes = (
 );
 userData = {
 RMXScaler = {
-height = 100.1;
+height = 100.10000;
 };
 };
 width = 467;
@@ -18857,7 +18858,7 @@ nodes = (
 );
 userData = {
 RMXScaler = {
-height = 100.1;
+height = 100.10000;
 };
 };
 width = 424;
@@ -19096,7 +19097,7 @@ nodes = (
 );
 userData = {
 RMXScaler = {
-height = 100.1;
+height = 100.10000;
 };
 };
 width = 610;
@@ -19506,7 +19507,7 @@ nodes = (
 );
 userData = {
 RMXScaler = {
-height = 100.1;
+height = 100.10000;
 };
 };
 width = 565;
@@ -19688,7 +19689,7 @@ nodes = (
 );
 userData = {
 RMXScaler = {
-height = 100.1;
+height = 100.10000;
 };
 };
 width = 457;
@@ -19916,7 +19917,7 @@ nodes = (
 );
 userData = {
 RMXScaler = {
-height = 100.1;
+height = 100.10000;
 };
 };
 width = 417;
@@ -20086,7 +20087,7 @@ nodes = (
 );
 userData = {
 RMXScaler = {
-height = 100.1;
+height = 100.10000;
 };
 };
 width = 680;
@@ -20305,7 +20306,7 @@ nodes = (
 );
 userData = {
 RMXScaler = {
-height = 100.1;
+height = 100.10000;
 };
 };
 width = 610;
@@ -20397,7 +20398,7 @@ nodes = (
 );
 userData = {
 RMXScaler = {
-height = 100.1;
+height = 100.10000;
 };
 };
 width = 633;
@@ -20495,7 +20496,7 @@ nodes = (
 );
 userData = {
 RMXScaler = {
-height = 100.1;
+height = 100.10000;
 };
 };
 width = 611;
@@ -20629,7 +20630,7 @@ nodes = (
 );
 userData = {
 RMXScaler = {
-height = 100.1;
+height = 100.10000;
 };
 };
 width = 970;
@@ -20791,7 +20792,7 @@ nodes = (
 );
 userData = {
 RMXScaler = {
-height = 100.1;
+height = 100.10000;
 };
 };
 width = 903;
@@ -20933,7 +20934,7 @@ nodes = (
 );
 userData = {
 RMXScaler = {
-height = 100.1;
+height = 100.10000;
 };
 };
 width = 615;
@@ -21096,7 +21097,7 @@ nodes = (
 );
 userData = {
 RMXScaler = {
-height = 100.1;
+height = 100.10000;
 };
 };
 width = 569;
@@ -21248,7 +21249,7 @@ nodes = (
 );
 userData = {
 RMXScaler = {
-height = 100.1;
+height = 100.10000;
 };
 };
 width = 633;
@@ -21513,7 +21514,7 @@ nodes = (
 );
 userData = {
 RMXScaler = {
-height = 100.1;
+height = 100.10000;
 };
 };
 width = 611;
@@ -21633,7 +21634,7 @@ nodes = (
 );
 userData = {
 RMXScaler = {
-height = 100.1;
+height = 100.10000;
 };
 };
 width = 579;
@@ -21775,7 +21776,7 @@ nodes = (
 );
 userData = {
 RMXScaler = {
-height = 100.1;
+height = 100.10000;
 };
 };
 width = 502;
@@ -168466,8 +168467,8 @@ nodes = (
 );
 userData = {
 RMXScaler = {
-height = 97.3;
-width = 97.3;
+height = 97.30000;
+width = 97.30000;
 };
 };
 width = 658;
@@ -168666,8 +168667,8 @@ nodes = (
 );
 userData = {
 RMXScaler = {
-height = 97.3;
-width = 97.3;
+height = 97.30000;
+width = 97.30000;
 };
 };
 width = 604;
@@ -252181,8 +252182,8 @@ value = (
 );
 }
 );
+interpolationCustom = 80;
 interpolationWeight = 55;
-interpolationWidth = 80;
 instanceInterpolations = {
 "0A1AFE58-107D-4787-BDA0-D82FB635C3A6" = 1;
 };
@@ -252223,8 +252224,8 @@ value = (
 );
 }
 );
+interpolationCustom = 80;
 interpolationWeight = 75;
-interpolationWidth = 80;
 instanceInterpolations = {
 "0A1AFE58-107D-4787-BDA0-D82FB635C3A6" = 0.55556;
 "BBFAEC79-FC1B-4455-8BF7-285C9CA7D1F7" = 0.44444;
@@ -252265,7 +252266,7 @@ value = (
 );
 }
 );
-interpolationWidth = 80;
+interpolationCustom = 80;
 instanceInterpolations = {
 "BBFAEC79-FC1B-4455-8BF7-285C9CA7D1F7" = 1;
 };
@@ -252306,8 +252307,8 @@ value = (
 );
 }
 );
+interpolationCustom = 80;
 interpolationWeight = 120;
-interpolationWidth = 80;
 instanceInterpolations = {
 "84435905-EDCB-4949-A8A3-0E53308A2F50" = 0.18182;
 "BBFAEC79-FC1B-4455-8BF7-285C9CA7D1F7" = 0.81818;
@@ -252349,12 +252350,14 @@ value = (
 );
 }
 );
+interpolationCustom = 80;
 interpolationWeight = 150;
-interpolationWidth = 80;
 instanceInterpolations = {
 "84435905-EDCB-4949-A8A3-0E53308A2F50" = 0.45455;
 "BBFAEC79-FC1B-4455-8BF7-285C9CA7D1F7" = 0.54545;
 };
+isBold = 1;
+linkStyle = "Text Regular";
 name = "Text Bold";
 weightClass = Bold;
 },
@@ -252392,8 +252395,8 @@ value = (
 );
 }
 );
+interpolationCustom = 80;
 interpolationWeight = 180;
-interpolationWidth = 80;
 instanceInterpolations = {
 "84435905-EDCB-4949-A8A3-0E53308A2F50" = 0.72727;
 "BBFAEC79-FC1B-4455-8BF7-285C9CA7D1F7" = 0.27273;
@@ -252435,8 +252438,8 @@ value = (
 );
 }
 );
+interpolationCustom = 80;
 interpolationWeight = 210;
-interpolationWidth = 80;
 instanceInterpolations = {
 "84435905-EDCB-4949-A8A3-0E53308A2F50" = 1;
 };
@@ -252476,11 +252479,13 @@ value = (
 );
 }
 );
+interpolationCustom = 100;
 interpolationWeight = 55;
 instanceInterpolations = {
-"0A1AFE58-107D-4787-BDA0-D82FB635C3A6" = 0.5;
-"12E3E5E3-6B17-4D77-9A28-32D63F2CCD05" = 0.28125;
-"8434C3E5-3524-4904-9431-C01669A32D99" = 0.21875;
+"0A1AFE58-107D-4787-BDA0-D82FB635C3A6" = 0.36;
+"12E3E5E3-6B17-4D77-9A28-32D63F2CCD05" = 0.36;
+"8434C3E5-3524-4904-9431-C01669A32D99" = 0.14;
+"BBFAEC79-FC1B-4455-8BF7-285C9CA7D1F7" = 0.14;
 };
 name = Light;
 weightClass = Light;
@@ -252518,12 +252523,13 @@ value = (
 );
 }
 );
+interpolationCustom = 100;
 interpolationWeight = 75;
 instanceInterpolations = {
-"0A1AFE58-107D-4787-BDA0-D82FB635C3A6" = 0.28214;
-"12E3E5E3-6B17-4D77-9A28-32D63F2CCD05" = 0.15379;
-"8434C3E5-3524-4904-9431-C01669A32D99" = 0.34621;
-"BBFAEC79-FC1B-4455-8BF7-285C9CA7D1F7" = 0.21786;
+"0A1AFE58-107D-4787-BDA0-D82FB635C3A6" = 0.2;
+"12E3E5E3-6B17-4D77-9A28-32D63F2CCD05" = 0.2;
+"8434C3E5-3524-4904-9431-C01669A32D99" = 0.3;
+"BBFAEC79-FC1B-4455-8BF7-285C9CA7D1F7" = 0.3;
 };
 name = Regular;
 },
@@ -252560,6 +252566,7 @@ value = (
 );
 }
 );
+interpolationCustom = 100;
 instanceInterpolations = {
 "8434C3E5-3524-4904-9431-C01669A32D99" = 0.5;
 "BBFAEC79-FC1B-4455-8BF7-285C9CA7D1F7" = 0.5;
@@ -252600,6 +252607,7 @@ value = (
 );
 }
 );
+interpolationCustom = 100;
 interpolationWeight = 120;
 instanceInterpolations = {
 "20631BC8-A0A1-4F97-8052-465620635647" = 0.09091;
@@ -252643,6 +252651,7 @@ value = (
 );
 }
 );
+interpolationCustom = 100;
 interpolationWeight = 150;
 instanceInterpolations = {
 "20631BC8-A0A1-4F97-8052-465620635647" = 0.22727;
@@ -252650,6 +252659,8 @@ instanceInterpolations = {
 "84435905-EDCB-4949-A8A3-0E53308A2F50" = 0.22727;
 "BBFAEC79-FC1B-4455-8BF7-285C9CA7D1F7" = 0.27273;
 };
+isBold = 1;
+linkStyle = Regular;
 name = Bold;
 weightClass = Bold;
 },
@@ -252686,6 +252697,7 @@ value = (
 );
 }
 );
+interpolationCustom = 100;
 interpolationWeight = 180;
 instanceInterpolations = {
 "20631BC8-A0A1-4F97-8052-465620635647" = 0.36364;
@@ -252729,6 +252741,7 @@ value = (
 );
 }
 );
+interpolationCustom = 100;
 interpolationWeight = 210;
 instanceInterpolations = {
 "20631BC8-A0A1-4F97-8052-465620635647" = 0.5;
@@ -252771,8 +252784,8 @@ value = (
 );
 }
 );
+interpolationCustom = 120;
 interpolationWeight = 20;
-interpolationWidth = 120;
 instanceInterpolations = {
 "12E3E5E3-6B17-4D77-9A28-32D63F2CCD05" = 1;
 };
@@ -252813,8 +252826,8 @@ value = (
 );
 }
 );
+interpolationCustom = 120;
 interpolationWeight = 35;
-interpolationWidth = 120;
 instanceInterpolations = {
 "12E3E5E3-6B17-4D77-9A28-32D63F2CCD05" = 0.8125;
 "8434C3E5-3524-4904-9431-C01669A32D99" = 0.1875;
@@ -252856,8 +252869,8 @@ value = (
 );
 }
 );
+interpolationCustom = 120;
 interpolationWeight = 55;
-interpolationWidth = 120;
 instanceInterpolations = {
 "12E3E5E3-6B17-4D77-9A28-32D63F2CCD05" = 0.5625;
 "8434C3E5-3524-4904-9431-C01669A32D99" = 0.4375;
@@ -252899,8 +252912,8 @@ value = (
 );
 }
 );
+interpolationCustom = 120;
 interpolationWeight = 75;
-interpolationWidth = 120;
 instanceInterpolations = {
 "12E3E5E3-6B17-4D77-9A28-32D63F2CCD05" = 0.3125;
 "8434C3E5-3524-4904-9431-C01669A32D99" = 0.6875;
@@ -252941,7 +252954,7 @@ value = (
 );
 }
 );
-interpolationWidth = 120;
+interpolationCustom = 120;
 instanceInterpolations = {
 "8434C3E5-3524-4904-9431-C01669A32D99" = 1;
 };
@@ -252982,8 +252995,8 @@ value = (
 );
 }
 );
+interpolationCustom = 120;
 interpolationWeight = 120;
-interpolationWidth = 120;
 instanceInterpolations = {
 "20631BC8-A0A1-4F97-8052-465620635647" = 0.18182;
 "8434C3E5-3524-4904-9431-C01669A32D99" = 0.81818;
@@ -253025,12 +253038,14 @@ value = (
 );
 }
 );
+interpolationCustom = 120;
 interpolationWeight = 150;
-interpolationWidth = 120;
 instanceInterpolations = {
 "20631BC8-A0A1-4F97-8052-465620635647" = 0.45455;
 "8434C3E5-3524-4904-9431-C01669A32D99" = 0.54545;
 };
+isBold = 1;
+linkStyle = "Display Regular";
 name = "Display Bold";
 weightClass = Bold;
 },
@@ -253068,8 +253083,8 @@ value = (
 );
 }
 );
+interpolationCustom = 120;
 interpolationWeight = 180;
-interpolationWidth = 120;
 instanceInterpolations = {
 "20631BC8-A0A1-4F97-8052-465620635647" = 0.72727;
 "8434C3E5-3524-4904-9431-C01669A32D99" = 0.27273;
@@ -253111,8 +253126,8 @@ value = (
 );
 }
 );
+interpolationCustom = 120;
 interpolationWeight = 210;
-interpolationWidth = 120;
 instanceInterpolations = {
 "20631BC8-A0A1-4F97-8052-465620635647" = 1;
 };
@@ -253153,7 +253168,7 @@ o = -103;
 };
 };
 };
-manufacturer = Rosetta;
+manufacturer = "Rosetta Type Foundry";
 manufacturerURL = www.rosettatype.com;
 unitsPerEm = 1000;
 userData = {
