@@ -172741,7 +172741,7 @@ unicode = 05E0;
 {
 color = 4;
 glyphname = "samekh-hb";
-lastChange = "2018-11-03 18:49:20 +0000";
+lastChange = "2018-11-06 16:39:18 +0000";
 layers = (
 {
 layerId = "0A1AFE58-107D-4787-BDA0-D82FB635C3A6";
@@ -172864,14 +172864,14 @@ nodes = (
 "527 447 OFFCURVE",
 "527 367 CURVE SMOOTH",
 "527 203 OFFCURVE",
-"420 96 OFFCURVE",
-"261 96 CURVE SMOOTH",
+"440 96 OFFCURVE",
+"271 96 CURVE SMOOTH",
 "229 96 LINE",
 "200 530 LINE",
 "103 530 LINE",
 "138 0 LINE",
-"242 0 LINE SMOOTH",
-"480 0 OFFCURVE",
+"252 0 LINE SMOOTH",
+"500 0 OFFCURVE",
 "626 150 OFFCURVE",
 "626 377 CURVE SMOOTH"
 );
@@ -175946,7 +175946,7 @@ width = 718;
 {
 color = 6;
 glyphname = "mem-hb.alt03";
-lastChange = "2018-11-03 18:56:32 +0000";
+lastChange = "2018-11-06 16:39:04 +0000";
 layers = (
 {
 layerId = "0A1AFE58-107D-4787-BDA0-D82FB635C3A6";
