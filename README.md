@@ -45,5 +45,3 @@ Styles in parenthesis are produced, but not offered (only as a part of var. font
 * Extrabold Italic
 * **(Black) – master**
 * **(Black Italic) – master**
-
-## Changelog
