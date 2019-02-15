@@ -2,7 +2,7 @@
 .appVersion = "1212";
 DisplayStrings = (
 "I/Iogonek/idotless i/idotlessogonek/jdotless j /ogonekcomb \012nngnofoon\012Hnnohzrny\012HHJ HO OOH K \012A4HARGH2C 0DHB8°C%\012H0>0<0/lessequal 0/greaterequal 0=0/notequal 0+0×0÷0.±0/minus 0~0/approxequal 0-0%/perthousand O\012$10/euro/liraTurkish/ruble ¥/rupeeIndian £\012H$H/hryvnia H/euro H¢H£H¥H¤H/liraTurkish H/ruble H/rupeeIndian H/dong H/florin H\012H/dollar.tf H/euro.tf H/cent.tf H/sterling.tf H/yen.tf HH/dong.tf H/liraTurkish.tf H/ruble.tf H/rupeeIndian.tf H/currency.tf H/hryvnia.tf H\012H012465380HOH0H/zero.zero H1H2H3HH4H5H7H6H9H8H\012/zero.tf/one.tf/two.tf/three.tf/four.tf/five.tf/six.tf/seven.tf/eight.tf/nine.tf/zero.tf.zero \012H/zero.tf H/one.tf H/two.tf H/three.tf H/four.tf HH/five.tf H/six.tf H/seven.tf H/eight.tf H/nine.tf H/zero.tf.zero H\012/zero.numr/one.numr/two.numr/three.numr/four.numr/five.numr/six.numr/seven.numr/eight.numr/nine.numr \012/zerosuperior ¹²³/foursuperior/fivesuperior/sixsuperior/sevensuperior/eightsuperior/ninesuperior \012/zeroinferior/oneinferior/twoinferior/threeinferior/fourinferior/fiveinferior/sixinferior/seveninferior/eightinferior/nineinferior \012/zero.dnom/one.dnom/two.dnom/three.dnom/four.dnom/five.dnom/six.dnom/seven.dnom/eight.dnom/nine.dnom \012H/zero.numr H/one.numr H/two.numr H/three.numr H/four.numr H/five.numr \012H/six.numr H/nine.numr H/seven.numr H/eight.numr H /fraction  \012½/onethird/twothirds ¼¾/onefifth/twofifths/threefifths/fourfifths/onesixth/fivesixths/oneseventh/twosevenths/threesevenths/foursevenths/fivesevenths/sixsevenths/oneeighth/threeeighths/fiveeighths/seveneighths/oneninth/twoninths/fourninths/fiveninths/sevenninths/eightninths \012HE/Iogonek/Uogonek L/Lcaron ldt,/lcaron  /caroncomb.calt  /dcaron/tcaron kdðo\012ve/lcaron krý/Lcaron AVÝChl/hcircumflex/lacute ÁHØHOH/Eng/Germandbls/Schwa \012iëa \012dæen/eng d/dcroat h/hbar þbøonyvnßn\012/Ecaron Ê/Ebreve/Edotaccent ËÉáÈ/Emacron Å/Ecaron Ã/Uhungarumlaut   /gravecomb   /acutecomb   /gravecomb.case   /acutecomb.case   /caroncomb   /caroncomb.case    /circumflexcomb.case   /circumflexcomb   iöä /dotaccentcomb   /dieresiscomb.case    /dotaccentcomb.case   /dieresiscomb   /macroncomb   /macroncomb.case   /tildecomb   /tildecomb.case   /brevecomb   /brevecomb.case   /ringcomb   /ringcomb.case   /hungarumlautcomb   /hungarumlautcomb.case   /ogonekcomb  ç /cedillacomb    /commaaccent  /commaaccentturnedabovecomb  /caroncomb.calt  /tcaron \012/gcommaaccent ñ/kcommaaccent/lcommaaccent/uhungarumlaut/Ohungarumlaut äëe/oe/eogonek  Hh/ecaron vpáéåêi/amacron ä/imacron/abreve ñ/ccaron/uring åt/tbar  \012[stanoisko]\012(hq)[hq]/angledbracketleft hq/angledbracketright H H{hq}\012(H)[H]H/angledbracketleft H/angledbracketright H{H}\012n.n:n,n;n!n¡n/ellipsis n·n\012n/comma.ss05 n/semicolon.ss05 n\012nn-n/endash n/emdash n_n~n/guilsinglleft n/guilsinglright n«n»n@n\012H/hyphen.case H/colon.case H/asciitilde.case H/endash.case H/emdash.case H/guilsinglleft.case H/guilsinglright.case H/guillemetleft.case H/guillemetright.case H/questiondown.case H/exclamdown.case H//H/backslash H¦H|HH!H?H/questiondown.case H¿H#H H*H&H/dagger H/daggerdbl H¶H\012/quoteleftreversed H/quoteright \012/quoteleft H/quoteright H,nd/quoteright \012/quotedblleft H/quotedblright nd/quotedblright \012no, /quotesinglbase but/quoteleft \012no, /quotedblbase but/quotedblleft \012no/comma.ss05  /quotesinglbase.ss05 but/quoteleft.ss05 \012no/comma.ss05  /quotedblbase.ss05 but/quotedblleft.ss05 \012/quotedblleft.ss05 H/quotedblright.ss05 \012/quoteleft.ss05 H/quoteright.ss05 H\012H/quoteleftreversed.ss05 H/quoteright.ss05 \012n/apostrophemodifier n/quoteright \012HH'H\"H/quoteright \012H/minute H/second H\012/f_i n/idotless/dotaccentcomb iko\012flanka\012/f_l anka\012offern\012o/f_f ern\012/f_f_l akn\012/f_f_i nkof/idotless i\012HH/arrowdown H/arrowup H/arrowright H/arrowleft H\012H/product H/summation HAHHOH/literSign H/partialdiff H/lozenge H/radical H/integral H/.notdef H/estimated H§HO©H®H/trademark HªHºHo/fraction \012nn/infinity nnn\012n·n/dotoperator n/bullet n/bulletoperator nn¬n\012H/logicalnot.case H/bulletoperator.case H",
-"hebrew\012HH/het-hb H/het-hb/mem-hb/het-hb no\012/het-hb/het-hb/het-hb/vav-hb/vav-hb/vav-hb/het-hb \012/het-hb/het-hb/lamed-hb.alt4/het-hb/vav-hb/lamed-hb.alt4/vav-hb/vav-hb/het-hb \012/tet-hb/samekh-hb/pe-hb/mem-hb/kaf-hb/finalmem-hb/dalet-hb/yod-hb/resh-hb \012/alef-hb.alt4/gimel-hb/tsadi-hb.alt4/shin-hb/finaltsadi-hb  /qof-hb/lamed-hb/alef-hb.alt4/tsadi-hb.alt4 \012/alef-hb/tsadi-hb/qof-hb.alt4/lamed-hb.alt4 \012/finalmem-hb/vav-hb/he-hb/yod-hb/shin-hb/ayin-hb/mem-hb/bet-hb \012/he-hb/qof-hb/yod-hb/mem-hb/resh-hb/zayin-hb/vav-hb/gimel-hb/vav-hb \012/finalkaf-hb/nun-hb/qof-hb/tet-hb/yod-hb/lamed-hb/he-hb/tav-hb \012/finalmem-hb/yod-hb/nun-hb/dalet-hb/tav-hb/resh-hb/vav-hb/samekh-hb/mem-hb/he-hb \012/finalmem-hb/ayin-hb/resh-hb/pe-hb/shin-hb/kaf-hb/yod-hb/ayin-hb/yod-hb/bet-hb/lamed-hb/qof-hb \012n/alef-hb/he-hb/het-hb/tav-hb/finalmem-hb/samekh-hb/mem-hb/tet-hb/qof-hb/ayin-hb/shin-hb \012/bet-hb/dalet-hb/maqaf-hb/resh-hb/finalkaf-hb/kaf-hb/lamed-hb/tsadi-hb/finaltsadi-hb/finalpe-hb/pe-hb \012n/gimel-hb/mem-hb/nun-hb/vav-hb/zayin-hb/yod-hb/finalnun-hb \012\012n/gimel-hb/mem-hb/nun-hb/tav-hb \012/finalmem-hb/samekh-hb/tet-hb/ayin-hb/shin-hb/bet-hb/kaf-hb \012\012/alef-hb/he-hb/het-hb/tav-hb/finalmem-hb/mem-hb/samekh-hb/tet-hb/qof-hb/ayin-hb/shin-hb \012/bet-hb/dalet-hb/resh-hb/finalkaf-hb/kaf-hb/lamed-hb/tsadi-hb/finalpe-hb/pe-hb/finaltsadi-hb \012/gimel-hb/vav-hb/zayin-hb/yod-hb/nun-hb/finalnun-hb \012\012"
+"hebrew\012HH/het-hb H/het-hb/mem-hb/het-hb no\012/het-hb/het-hb/het-hb/vav-hb/vav-hb/vav-hb/het-hb \012/het-hb/het-hb/gershayim-hb/het-hb/vav-hb/geresh-hb/vav-hb/vav-hb/samekh-hb/gershayim-hb/samekh-hb \012/tet-hb/samekh-hb/pe-hb/mem-hb/kaf-hb/finalmem-hb/dalet-hb/yod-hb/resh-hb \012/alef-hb.alt4/gimel-hb/tsadi-hb.alt4/shin-hb/finaltsadi-hb  /qof-hb/lamed-hb/alef-hb.alt4/tsadi-hb.alt4 \012/alef-hb/tsadi-hb/qof-hb.alt4/lamed-hb.alt4 \012/finalmem-hb/vav-hb/he-hb/yod-hb/shin-hb/ayin-hb/mem-hb/bet-hb \012/he-hb/qof-hb/yod-hb/mem-hb/resh-hb/zayin-hb/vav-hb/gimel-hb/vav-hb \012/finalkaf-hb/nun-hb/qof-hb/tet-hb/yod-hb/lamed-hb/he-hb/tav-hb \012/finalmem-hb/yod-hb/nun-hb/dalet-hb/tav-hb/resh-hb/vav-hb/samekh-hb/mem-hb/he-hb \012/finalmem-hb/ayin-hb/resh-hb/pe-hb/shin-hb/kaf-hb/yod-hb/ayin-hb/yod-hb/bet-hb/lamed-hb/qof-hb \012n/alef-hb/he-hb/het-hb/tav-hb/finalmem-hb/samekh-hb/mem-hb/tet-hb/qof-hb/ayin-hb/shin-hb \012/bet-hb/dalet-hb/maqaf-hb/resh-hb/finalkaf-hb/kaf-hb/lamed-hb/tsadi-hb/finaltsadi-hb/finalpe-hb/pe-hb \012n/gimel-hb/mem-hb/nun-hb/vav-hb/zayin-hb/yod-hb/finalnun-hb \012\012n/gimel-hb/mem-hb/nun-hb/tav-hb \012/finalmem-hb/samekh-hb/tet-hb/ayin-hb/shin-hb/bet-hb/kaf-hb \012\012/alef-hb/he-hb/het-hb/tav-hb/finalmem-hb/mem-hb/samekh-hb/tet-hb/qof-hb/ayin-hb/shin-hb \012/bet-hb/dalet-hb/resh-hb/finalkaf-hb/kaf-hb/lamed-hb/tsadi-hb/finalpe-hb/pe-hb/finaltsadi-hb \012/gimel-hb/vav-hb/zayin-hb/yod-hb/nun-hb/finalnun-hb \012\012"
 );
 copyright = "Copyright © 2018 by Rosetta Type Foundry. All rights reserved.";
 customParameters = (
@@ -183370,6 +183370,114 @@ leftMetricsKey = "he-hb";
 rightMetricsKey = "lamed-hb";
 },
 {
+color = 4;
+glyphname = "geresh-hb";
+lastChange = "2019-02-15 11:42:00 +0000";
+layers = (
+{
+layerId = "0A1AFE58-107D-4787-BDA0-D82FB635C3A6";
+paths = (
+{
+closed = 1;
+nodes = (
+"60 410 LINE",
+"102 410 LINE",
+"114 660 LINE",
+"60 660 LINE"
+);
+}
+);
+width = 152;
+},
+{
+layerId = "BBFAEC79-FC1B-4455-8BF7-285C9CA7D1F7";
+paths = (
+{
+closed = 1;
+nodes = (
+"60 405 LINE",
+"135 405 LINE",
+"155 660 LINE",
+"60 660 LINE"
+);
+}
+);
+width = 198;
+},
+{
+guideLines = (
+{
+position = "{119, 387}";
+}
+);
+layerId = "84435905-EDCB-4949-A8A3-0E53308A2F50";
+paths = (
+{
+closed = 1;
+nodes = (
+"50 387 LINE",
+"195 387 LINE",
+"225 657 LINE",
+"50 657 LINE"
+);
+}
+);
+width = 267;
+},
+{
+layerId = "12E3E5E3-6B17-4D77-9A28-32D63F2CCD05";
+paths = (
+{
+closed = 1;
+nodes = (
+"60 470 LINE",
+"77 470 LINE",
+"80 670 LINE",
+"60 670 LINE"
+);
+}
+);
+width = 128;
+},
+{
+layerId = "8434C3E5-3524-4904-9431-C01669A32D99";
+paths = (
+{
+closed = 1;
+nodes = (
+"40 435 LINE",
+"115 435 LINE",
+"135 670 LINE",
+"40 670 LINE"
+);
+}
+);
+width = 165;
+},
+{
+guideLines = (
+{
+position = "{119, 407}";
+}
+);
+layerId = "20631BC8-A0A1-4F97-8052-465620635647";
+paths = (
+{
+closed = 1;
+nodes = (
+"40 407 LINE",
+"185 407 LINE",
+"215 667 LINE",
+"40 667 LINE"
+);
+}
+);
+width = 235;
+}
+);
+unicode = 05F3;
+},
+{
 glyphname = "shinshindot-hb";
 lastChange = "2018-10-10 11:43:29 +0000";
 layers = (
@@ -184720,29 +184828,27 @@ width = 600;
 );
 },
 {
-color = 7;
+color = 4;
 glyphname = "maqaf-hb";
-lastChange = "2019-01-24 11:39:23 +0000";
+lastChange = "2019-02-15 11:30:46 +0000";
 layers = (
 {
 layerId = "0A1AFE58-107D-4787-BDA0-D82FB635C3A6";
-width = 600;
-},
-{
-background = {
 paths = (
 {
 closed = 1;
 nodes = (
-"80 217 LINE",
-"391 217 LINE",
-"391 302 LINE",
-"80 302 LINE"
+"80 520 LINE",
+"340 520 LINE",
+"348 575 LINE",
+"88 575 LINE"
 );
 }
 );
-};
-layerId = "BBFAEC79-FC1B-4455-8BF7-285C9CA7D1F7";
+width = 428;
+},
+{
+background = {
 paths = (
 {
 closed = 1;
@@ -184754,23 +184860,23 @@ nodes = (
 );
 }
 );
-width = 440;
-},
-{
-background = {
+};
+layerId = "BBFAEC79-FC1B-4455-8BF7-285C9CA7D1F7";
 paths = (
 {
 closed = 1;
 nodes = (
-"80 191 LINE",
-"445 191 LINE",
-"445 346 LINE",
-"80 346 LINE"
+"80 482 LINE",
+"360 482 LINE",
+"370 580 LINE",
+"90 580 LINE"
 );
 }
 );
-};
-layerId = "84435905-EDCB-4949-A8A3-0E53308A2F50";
+width = 450;
+},
+{
+background = {
 paths = (
 {
 closed = 1;
@@ -184782,11 +184888,35 @@ nodes = (
 );
 }
 );
-width = 515;
+};
+layerId = "84435905-EDCB-4949-A8A3-0E53308A2F50";
+paths = (
+{
+closed = 1;
+nodes = (
+"80 387 LINE",
+"435 387 LINE",
+"445 587 LINE",
+"90 587 LINE"
+);
+}
+);
+width = 525;
 },
 {
 layerId = "12E3E5E3-6B17-4D77-9A28-32D63F2CCD05";
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"60 575 LINE",
+"300 575 LINE",
+"300 595 LINE",
+"60 595 LINE"
+);
+}
+);
+width = 360;
 },
 {
 background = {
@@ -184807,10 +184937,10 @@ paths = (
 {
 closed = 1;
 nodes = (
-"60 472 LINE",
-"330 472 LINE",
-"330 570 LINE",
-"60 570 LINE"
+"60 502 LINE",
+"330 502 LINE",
+"330 600 LINE",
+"60 600 LINE"
 );
 }
 );
@@ -184847,6 +184977,237 @@ width = 425;
 );
 leftMetricsKey = hyphen;
 rightMetricsKey = hyphen;
+unicode = 05BE;
+},
+{
+color = 4;
+glyphname = "gershayim-hb";
+lastChange = "2019-02-15 11:56:08 +0000";
+layers = (
+{
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"60 410 LINE",
+"102 410 LINE",
+"114 660 LINE",
+"60 660 LINE"
+);
+}
+);
+};
+layerId = "0A1AFE58-107D-4787-BDA0-D82FB635C3A6";
+paths = (
+{
+closed = 1;
+nodes = (
+"60 410 LINE",
+"102 410 LINE",
+"114 660 LINE",
+"60 660 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"210 410 LINE",
+"252 410 LINE",
+"264 660 LINE",
+"210 660 LINE"
+);
+}
+);
+width = 302;
+},
+{
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"60 405 LINE",
+"135 405 LINE",
+"155 660 LINE",
+"60 660 LINE"
+);
+}
+);
+};
+layerId = "BBFAEC79-FC1B-4455-8BF7-285C9CA7D1F7";
+paths = (
+{
+closed = 1;
+nodes = (
+"60 405 LINE",
+"135 405 LINE",
+"155 660 LINE",
+"60 660 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"226 405 LINE",
+"301 405 LINE",
+"321 660 LINE",
+"226 660 LINE"
+);
+}
+);
+width = 364;
+},
+{
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"50 387 LINE",
+"195 387 LINE",
+"225 657 LINE",
+"50 657 LINE"
+);
+}
+);
+};
+layerId = "84435905-EDCB-4949-A8A3-0E53308A2F50";
+paths = (
+{
+closed = 1;
+nodes = (
+"50 387 LINE",
+"195 387 LINE",
+"225 657 LINE",
+"50 657 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"280 387 LINE",
+"425 387 LINE",
+"455 657 LINE",
+"280 657 LINE"
+);
+}
+);
+width = 497;
+},
+{
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"60 470 LINE",
+"77 470 LINE",
+"80 670 LINE",
+"60 670 LINE"
+);
+}
+);
+};
+layerId = "12E3E5E3-6B17-4D77-9A28-32D63F2CCD05";
+paths = (
+{
+closed = 1;
+nodes = (
+"60 470 LINE",
+"77 470 LINE",
+"80 670 LINE",
+"60 670 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"210 470 LINE",
+"227 470 LINE",
+"230 670 LINE",
+"210 670 LINE"
+);
+}
+);
+width = 278;
+},
+{
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"40 435 LINE",
+"115 435 LINE",
+"135 670 LINE",
+"40 670 LINE"
+);
+}
+);
+};
+layerId = "8434C3E5-3524-4904-9431-C01669A32D99";
+paths = (
+{
+closed = 1;
+nodes = (
+"40 435 LINE",
+"115 435 LINE",
+"135 670 LINE",
+"40 670 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"206 435 LINE",
+"281 435 LINE",
+"301 670 LINE",
+"206 670 LINE"
+);
+}
+);
+width = 331;
+},
+{
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"40 407 LINE",
+"185 407 LINE",
+"215 667 LINE",
+"40 667 LINE"
+);
+}
+);
+};
+layerId = "20631BC8-A0A1-4F97-8052-465620635647";
+paths = (
+{
+closed = 1;
+nodes = (
+"40 407 LINE",
+"185 407 LINE",
+"215 667 LINE",
+"40 667 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"265 407 LINE",
+"410 407 LINE",
+"440 667 LINE",
+"265 667 LINE"
+);
+}
+);
+width = 460;
+}
+);
+unicode = 05F4;
 }
 );
 instances = (
