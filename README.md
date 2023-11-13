@@ -1,12 +1,16 @@
-# Universal Sans
+# Adapter World
 
-By: William Montrose & David Březina & Sláva Jevčinová
+PE by: William Montrose & David Březina & Sláva Jevčinová
+Tamil by:
+Georgian by: Ana Sanikidze
 
 ## Scripts
 
 * Latin
 * Cyrillic
 * Greek
+* Tamil
+* Georgian
 
 ## Styles
 
