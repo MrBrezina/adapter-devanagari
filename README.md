@@ -21,47 +21,52 @@ Georgian by: Ana Sanikidze
 - All Text Extralights are used as fake Text Thin masters to compile variable fonts
 - Extra "Display Extralight Master" instances with matching `wght` 55 are used as masters to compile variable fonts
 
-                              | PE     | Hebrew   | Arabic   | Tamil    | Georgian
+                              | PE       | Hebrew   | Arabic   | Tamil    | Georgian
 -----------------------------------------------------------------------------------
-Text Thin                     | [+]    | [+]      | [+]      | [+]      | [+]
-**Text Extralight**           | [+]    | [+]      | [+]      | [+]      | [+]
-Text Light                    | [+]    | [+]      | [+]      | [+]      | [+]
-Text Regular                  | [+]    | [+]      | [+]      | [+]      | [+]
-**Text Medium**               | [+]    | [+]      | [+]      | [+]      | [+]
-Text Semibold                 | [+]    | [+]      | [+]      | [+]      | [+]
-Text Bold                     | [+]    | [+]      | [+]      | [+]      | [+]
-Text Extrabold                | [+]    | [+]      | [+]      | [+]      | [+]
-**Text Black**                | [+]    | [+]      | [+]      | [+]      | [+]
+wght                          | [+]      | [+]      | [+]      | [+]      | [+]
+opsz                          | [+]      | [+]      | [+]      |          |
+slnt                          | [+]      | [+]      |          |          |
+ital (always Latin parts!)    | [+]      | [+]      | [+]      | [+]      | [+]  
 -----------------------------------------------------------------------------------
-Text Thin Italic              | [+]    | [+]      |          |           | 
-**Text Extralight Italic**    | [+]    | [+]      |          |           | 
-Text Light Italic             | [+]    | [+]      |          |           | 
-Text Italic                   | [+]    | [+]      |          |           | 
-**Text Medium Italic**        | [+]    | [+]      |          |           | 
-Text Semibold Italic          | [+]    | [+]      |          |           | 
-Text Bold Italic              | [+]    | [+]      |          |           | 
-Text Extrabold Italic         | [+]    | [+]      |          |           | 
-**Text Black Italic**         | [+]    | [+]      |          |           | 
+Text Thin                     | [+]      | [+]      | [+]      | [+]      | [+]
+**Text Extralight**           | [+]      | [+]      | [+]      | [+]      | [+]
+Text Light                    | [+]      | [+]      | [+]      | [+]      | [+]
+Text Regular                  | [+]      | [+]      | [+]      | [+]      | [+]
+**Text Medium**               | [+]      | [+]      | [+]      | [+]      | [+]
+Text Semibold                 | [+]      | [+]      | [+]      | [+]      | [+]
+Text Bold                     | [+]      | [+]      | [+]      | [+]      | [+]
+Text Extrabold                | [+]      | [+]      | [+]      | [+]      | [+]
+**Text Black**                | [+]      | [+]      | [+]      | [+]      | [+]
 -----------------------------------------------------------------------------------
-**Display Thin**              | [+]    | [+]      | [+]      |           | 
-Display Extralight            | [+]    | [+]      | [+]      |           | 
-Display Light                 | [+]    | [+]      | [+]      |           | 
-Display Regular               | [+]    | [+]      | [+]      |           | 
-**Display Medium**            | [+]    | [+]      | [+]      |           | 
-Display Semibold              | [+]    | [+]      | [+]      |           | 
-Display Bold                  | [+]    | [+]      | [+]      |           | 
-Display Extrabold             | [+]    | [+]      | [+]      |           | 
-**Display Black**             | [+]    | [+]      | [+]      |           | 
+Text Thin Italic              | [+]      | [+]      |          |          | 
+**Text Extralight Italic**    | [+]      | [+]      |          |          | 
+Text Light Italic             | [+]      | [+]      |          |          | 
+Text Italic                   | [+]      | [+]      |          |          | 
+**Text Medium Italic**        | [+]      | [+]      |          |          | 
+Text Semibold Italic          | [+]      | [+]      |          |          | 
+Text Bold Italic              | [+]      | [+]      |          |          | 
+Text Extrabold Italic         | [+]      | [+]      |          |          | 
+**Text Black Italic**         | [+]      | [+]      |          |          | 
 -----------------------------------------------------------------------------------
-**Display Thin Italic**       | [+]    | [+]      |          |           | 
-Display Extralight Italic     | [+]    | [+]      |          |           | 
-Display Light Italic          | [+]    | [+]      |          |           | 
-Display Regular Italic        | [+]    | [+]      |          |           | 
-**Display Medium Italic**     | [+]    | [+]      |          |           | 
-Display Semibold Italic       | [+]    | [+]      |          |           | 
-Display Bold Italic           | [+]    | [+]      |          |           | 
-Display Extrabold Italic      | [+]    | [+]      |          |           | 
-**Display Black Italic**      | [+]    | [+]      |          |           | 
+**Display Thin**              | [+]      | [+]      | [+]      |          | 
+Display Extralight            | [+]      | [+]      | [+]      |          | 
+Display Light                 | [+]      | [+]      | [+]      |          | 
+Display Regular               | [+]      | [+]      | [+]      |          | 
+**Display Medium**            | [+]      | [+]      | [+]      |          | 
+Display Semibold              | [+]      | [+]      | [+]      |          | 
+Display Bold                  | [+]      | [+]      | [+]      |          | 
+Display Extrabold             | [+]      | [+]      | [+]      |          | 
+**Display Black**             | [+]      | [+]      | [+]      |          | 
+-----------------------------------------------------------------------------------
+**Display Thin Italic**       | [+]      | [+]      |          |          | 
+Display Extralight Italic     | [+]      | [+]      |          |          | 
+Display Light Italic          | [+]      | [+]      |          |          | 
+Display Regular Italic        | [+]      | [+]      |          |          | 
+**Display Medium Italic**     | [+]      | [+]      |          |          | 
+Display Semibold Italic       | [+]      | [+]      |          |          | 
+Display Bold Italic           | [+]      | [+]      |          |          | 
+Display Extrabold Italic      | [+]      | [+]      |          |          | 
+**Display Black Italic**      | [+]      | [+]      |          |          | 
 
 
 ### Display
