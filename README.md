@@ -1,16 +1,20 @@
 # Adapter World
 
-PE by: William Montrose & David Březina & Sláva Jevčinová
-Tamil by:
-Georgian by: Ana Sanikidze
+PE: William Montrose & David Březina & Sláva Jevčinová
+Devanagari: Lipi Raval
+Georgian: Ana Sanikidze
+Gujarati: Lipi Raval
+Tamil: Aadarsh Rajan
 
 ## Scripts
 
-* Latin
 * Cyrillic
-* Greek
-* Tamil
+* Devanagari
 * Georgian
+* Greek
+* Gujarati
+* Latin
+* Tamil
 
 ## Styles
 
