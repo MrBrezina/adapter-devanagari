@@ -1,10 +1,10 @@
 # Adapter World
 
-PE: William Montrose & David Březina & Sláva Jevčinová
-Devanagari: Lipi Raval
-Georgian: Ana Sanikidze
-Gujarati: Lipi Raval
-Tamil: Aadarsh Rajan
+PE: William Montrose & David Březina & Sláva Jevčinová  
+Devanagari: Lipi Raval  
+Georgian: Ana Sanikidze  
+Gujarati: Lipi Raval  
+Tamil: Aadarsh Rajan  
 
 ## Scripts
 
