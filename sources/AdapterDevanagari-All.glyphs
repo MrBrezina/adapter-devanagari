@@ -49,7 +49,7 @@ Support: ऋ",
 ापापापापपापा ामामामाममामा ागागागागगागा ",
 "थश/k_ssa-deva ढछ१९
 ड६३ाफाॄऊछँउाॅााँएट
-खीिव/iMatra_reph-deva पन/eMatra_reph-deva कबृष/eMatra_anusvara-deva  /oMatra_anusvara-deva  /auMatra_anusvara-deva"
+खीिव/iMatra_reph-deva पन/eMatra_reph-deva कबृष/eMatra_anusvara-deva  /oMatra_anusvara-deva  /auMatra_anusvara-deva  "
 );
 axes = (
 {
@@ -1674,9 +1674,11 @@ lookup Abvs1_devanagari {
 	sub eMatra-deva reph-deva anusvara-deva by eMatra_reph_anusvara-deva;
 	sub aiMatra-deva anusvara-deva by aiMatra_anusvara-deva;
 	sub aiMatra-deva reph-deva by aiMatra_reph-deva;
+	sub auMatra-deva anusvara-deva by auMatra_anusvara-deva;
 	sub eMatra-deva anusvara-deva by eMatra_anusvara-deva;
 	sub eMatra-deva reph-deva by eMatra_reph-deva;
 	sub iMatra-deva reph-deva by iMatra_reph-deva;
+	sub oMatra-deva anusvara-deva by oMatra_anusvara-deva;
 	sub reph-deva anusvara-deva by reph_anusvara-deva;
 } Abvs1_devanagari;
 lookup Abvs3_devanagari {
@@ -656757,9 +656759,8 @@ guide_anusvara
 unicode = 2366;
 },
 {
-color = 0;
 glyphname = "iMatra-deva";
-lastChange = "2026-06-27 11:52:08 +0000";
+lastChange = "2026-06-28 13:25:36 +0000";
 layers = (
 {
 anchors = (
@@ -765508,9 +765509,8 @@ width = 0;
 unicode = 2371;
 },
 {
-color = 0;
 glyphname = "rrVocalicMatra-deva";
-lastChange = "2026-06-27 09:35:49 +0000";
+lastChange = "2026-06-28 13:25:32 +0000";
 layers = (
 {
 anchors = (
@@ -767199,9 +767199,8 @@ guide_ascender
 unicode = 2373;
 },
 {
-color = 0;
 glyphname = "candraBindu-deva";
-lastChange = "2026-06-26 11:20:13 +0000";
+lastChange = "2026-06-28 13:25:32 +0000";
 layers = (
 {
 anchors = (
@@ -769510,9 +769509,8 @@ guide_ascender
 unicode = 2375;
 },
 {
-color = 0;
 glyphname = "eMatra_anusvara-deva";
-lastChange = "2026-06-27 07:33:52 +0000";
+lastChange = "2026-06-28 13:25:32 +0000";
 layers = (
 {
 anchors = (
@@ -770765,9 +770763,8 @@ guide_ascender
 );
 },
 {
-color = 0;
 glyphname = "eMatra_reph_anusvara-deva";
-lastChange = "2026-06-18 19:58:38 +0000";
+lastChange = "2026-06-28 13:25:32 +0000";
 layers = (
 {
 anchors = (
@@ -772682,9 +772679,8 @@ guide_baseline
 unicode = 2376;
 },
 {
-color = 0;
 glyphname = "aiMatra_anusvara-deva";
-lastChange = "2026-06-27 07:34:05 +0000";
+lastChange = "2026-06-28 13:25:32 +0000";
 layers = (
 {
 anchors = (
@@ -774106,9 +774102,8 @@ guide_ascender
 );
 },
 {
-color = 0;
 glyphname = "aiMatra_reph_anusvara-deva";
-lastChange = "2026-06-18 19:58:38 +0000";
+lastChange = "2026-06-28 13:25:32 +0000";
 layers = (
 {
 anchors = (
@@ -775476,9 +775471,8 @@ guide_baseline
 );
 },
 {
-color = 0;
 glyphname = "anusvara-deva";
-lastChange = "2026-06-27 07:44:40 +0000";
+lastChange = "2026-06-28 13:25:32 +0000";
 layers = (
 {
 anchors = (
@@ -775867,9 +775861,8 @@ guide_baseline
 unicode = 2381;
 },
 {
-color = 0;
 glyphname = "nukta-deva";
-lastChange = "2026-06-27 09:08:41 +0000";
+lastChange = "2026-06-28 13:25:32 +0000";
 layers = (
 {
 anchors = (
@@ -778180,9 +778173,8 @@ guide_ascender
 );
 },
 {
-color = 0;
 glyphname = "reph_anusvara-deva";
-lastChange = "2026-06-18 19:58:38 +0000";
+lastChange = "2026-06-28 13:25:32 +0000";
 layers = (
 {
 anchors = (
